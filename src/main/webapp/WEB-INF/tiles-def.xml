@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+       
+<tiles-definitions>
+	<definition name="definition.simple" template="/WEB-INF/tiles/layout/layout.jsp">
+		<put-attribute name="title" value="" />
+		<put-attribute name="header" value="/WEB-INF/tiles/commons/header.jsp" />
+		<put-attribute name="navigation" value="/WEB-INF/tiles/commons/navigation.jsp" />
+		<put-attribute name="body" value=""/>
+		<put-attribute name="footer" value="/WEB-INF/tiles/commons/footer.jsp" />
+	</definition>
+	
+	<definition name="definition.subnav" template="/WEB-INF/tiles/layout/layout_subnav.jsp">
+		<put-attribute name="title" value="" />
+		<put-attribute name="header" value="/WEB-INF/tiles/commons/header.jsp" />
+		<put-attribute name="navigation" value="/WEB-INF/tiles/commons/navigation.jsp" />
+		<put-attribute name="body" value=""/>
+		<put-attribute name="subNavigation" value=""/>
+		<put-attribute name="footer" value="/WEB-INF/tiles/commons/footer.jsp" />
+	</definition>
+
+
+
+	<definition name="homepage" extends="definition.simple">
+        <put-attribute name="title" value="Hlavní stránka" />
+		<put-attribute name="body" value="/WEB-INF/tiles/pages/homepage.jsp" />
+	</definition>
+
+    <definition name="noticeboard" extends="definition.simple">
+        <put-attribute name="title" value="Elektronická nástěnka" />
+        <put-attribute name="body" value="/WEB-INF/tiles/pages/noticeboard.jsp" />
+    </definition>
+
+	<definition name="committee" extends="definition.subnav">
+		<put-attribute name="title" value="Výbor" />
+		<put-attribute name="body" value="/WEB-INF/tiles/pages/committee.jsp" />
+		<put-attribute name="subNavigation" value="/WEB-INF/tiles/commons/subnavigation.jsp" />
+	</definition>
+
+	<definition name="contractors" extends="definition.subnav">
+		<put-attribute name="title" value="Dodavatelé" />
+		<put-attribute name="body" value="/WEB-INF/tiles/pages/contractors.jsp" />
+		<put-attribute name="subNavigation" value="/WEB-INF/tiles/commons/subnavigation.jsp" />
+	</definition>
+
+    <definition name="documents" extends="definition.subnav">
+        <put-attribute name="title" value="Dokumenty, návody a rady" />
+        <put-attribute name="body" value="/WEB-INF/tiles/pages/documents.jsp" />
+        <put-attribute name="subNavigation" value="/WEB-INF/tiles/commons/subnavigation.jsp" />
+    </definition>
+
+</tiles-definitions>

@@ -1,0 +1,1361 @@
+@CHARSET "UTF-8";
+
+/*****************
+CSS RESET
+*****************/
+
+* {
+	vertical-align: baseline;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	/*padding: 0;*/
+	margin: 0;
+}
+
+img {
+	border: 0 none;
+}
+
+a {
+	/*text-decoration: none;*/
+	color: #4d4d4d;
+}
+
+ul{
+	/*list-style-type: none;*/
+}
+
+h3{
+  font-size: 16px;
+  
+}
+button{
+	border:none;
+	background:none;
+	/* Fix IE7 button width */
+	width:auto;
+   	overflow:visible;	
+}
+
+/* Avoid 3 px gap in Firefox*/
+button::-moz-focus-inner { padding: 0px; margin: 0px;}
+button::-moz-focus-inner { border: none;} 
+
+button:hover, button:focus{
+	cursor: pointer;
+}
+
+div#archive {
+  font-size: 14px;
+}
+
+/********************
+FLOATING
+********************/
+
+.floatLeft {
+	float: left;
+}
+
+.floatRight {
+	float: right;
+}
+
+.clearLeft {
+	clear: left;
+}
+
+.clearRight {
+	clear: right;
+}
+
+.clearBoth {
+	clear: both;
+}
+
+/******************
+HTML / BODY
+******************/
+
+html, body {
+	background: #e6e6e6;
+	height: 100%;
+	/*overflow:hidden;*/
+} 
+/******************
+HEADER
+******************/
+
+div#header {
+	position: relative;
+	background: #ebebeb;
+	height: 74px;
+	background:url("../img/header_bg.png") repeat-x;
+	min-width: 1040px;
+}
+
+div#header div#logo {
+	position: absolute;
+	left: 0;
+	height:74px;
+	width:210px;
+	background:url("../img/logo2.gif") no-repeat;
+}
+	
+	div#header div#header_bg_ri {
+		position: absolute;
+		right: 0;
+		height:74px;
+		width:580px;
+		background:url("../img/header_bg_ri.png") no-repeat;
+	}
+	
+	/* Top Level Navigation */
+	div#header div#toplevel_nav {
+		position: absolute;
+		left: 236px;
+		top:10px;
+	}
+	
+		div#header div#toplevel_nav .oam_tab{
+			margin: 0 5px 0 5px;
+			height: auto;
+			padding:0 15px 0 0;
+			width:auto; 
+  			overflow:visible;
+  			color: #4d4d4d;
+		}	
+		
+			div#header div#toplevel_nav .oam_tab .button_left {
+				text-align:center;
+				padding:0 0 0 15px;
+				height:64px;
+				position:relative; 
+  				display:block; 
+  				white-space:nowrap;
+			}
+			
+			/* IE7 only*/
+			* + html div#header div#toplevel_nav .oam_tab .button_left {
+   				margin-top:1px;
+			}
+				
+				div#header div#toplevel_nav .oam_tab .button_left img {
+					height: 24px;
+					width: 24px;
+					display: block;
+					margin: auto;
+					padding: 10px 0 5px 0;
+				}			
+			
+			/* Hover and active State */
+	
+.oam_noaccess {
+	opacity:0.3;
+	filter:alpha(opacity=30);
+}			
+div#header div#toplevel_nav .oam_tab_std:hover{
+	background:url("../img/tab_right_hover_bg.png") right no-repeat;
+}
+
+div#header div#toplevel_nav .oam_tab_std:hover .button_left {
+	background:url("../img/tab_left_hover_bg.png") left no-repeat;
+}
+			
+			div#header div#toplevel_nav .oam_tab_active{
+				background:url("../img/tab_right_bg.png") right no-repeat;
+				color:#333333;
+				font-weight:bold;
+			}
+			
+			div#header div#toplevel_nav .oam_tab_active .button_left {
+				background:url("../img/tab_left_bg.png") left no-repeat;
+			}
+	
+	/* Meta Navigation */
+	div#header div#meta_nav {
+		position: absolute;
+		margin-right: 25px;
+		right: 0;
+		top:15;
+		text-align: right;
+		width: 200px;
+		height:74px;
+		background: url("../img/header_divider.png") left no-repeat;
+	}
+	
+		div#header div#meta_nav button{
+			margin: 15px 0 7px 20px;
+			padding: 0 0 0 22px;
+			height: 16px;
+		}
+		
+		
+			div#header div#meta_nav button#help{
+				background: url("../img/icons/help_16.png") left no-repeat;
+			}
+			
+			div#header div#meta_nav button#logout{
+				background: url("../img/icons/logout_16.png") left no-repeat;
+			}
+
+		div#header div#meta_nav div#search{
+			width:200px;
+			height:22px;
+			padding-left:20px;
+		}
+
+			div#header div#meta_nav div#search input#input_search{
+				border-right:none;
+				float:left;
+				width:150px;
+				display: inline;
+			}
+			
+			div#header div#meta_nav div#search button#btn_search{
+				width: 25px;
+				height:22px;
+				background:url("../img/btn_search_std.png") left no-repeat;
+				margin:0;
+				padding:0;
+				border:0;
+				float:left;
+				display: inline;
+			}
+		
+			div#header div#meta_nav div#search button#btn_search:hover{
+				background:url("../img/btn_search_hover.png") left no-repeat;
+			}	
+
+/******************
+GENERAL CONTROLS
+******************/	
+
+input{
+	border: 1px solid #666666;
+	height:18px;
+	padding:2px 0 0 5px;
+}
+
+select{
+	height:22px;
+	padding:2px 0 0 2px;
+}
+
+/* Links */
+button.link:hover span{
+	text-decoration: underline;
+}
+
+/* Context Menu */
+.contextmenu{
+	background:#fff;
+	border: 1px solid #808080;
+	position: absolute;
+	padding:0;
+	display:none;
+	overflow:hidden;
+	z-index:999;
+}
+
+.contextmenu li{
+	min-width: 100px;
+	padding: 5px 7px;
+}
+
+.contextmenu li.oam_hover{
+	background:#eee;
+}
+
+	.contextmenu li a{
+		display:block;
+	}
+
+.contextmenu#context_bc{
+	top: 103px;
+	left: 80px;
+}
+
+/* Search Overlay */
+.contextmenu#context_search{
+	top: 60px;
+	right:25px;
+	width:350px;
+	background:#fafafa;
+}
+
+	.contextmenu#context_search h2{
+		width:100%;
+		padding:5px;
+		border-bottom:1px solid #5c6666;
+		background:url("../img/selection.png") right repeat-x;
+		font-weight:normal;
+		color:#fff;
+	}
+	
+	.contextmenu#context_search h3{
+		color:#888;
+		float:left;
+		padding:5px;
+	}
+	
+	.contextmenu#context_search ul{
+		margin-left:70px;
+		background:#fff;
+		border-left:1px solid #ddd;
+		padding-bottom:10px;
+	}
+	
+		.contextmenu#context_search li.button_row{
+			background:#fff;
+			display:inline-block;
+		}
+		
+		.contextmenu#context_search li.button_row button{
+			margin-left:160px;
+		}
+	
+		.contextmenu#context_search ul li a{
+			text-decoration:underline;
+			color:#294d6f;
+		}
+	
+/*Toolbar*/
+.toolbar {
+	margin: 3px 10px;
+}
+
+/*Standard Button (max. button width = 200PX!)*/
+button.std_button{
+	background:url("../img/btn_std_right.png") right no-repeat;
+	display:block;
+	float:left;
+	height:22px;
+	margin-right:10px;
+	padding:0 5px 0 0;
+	width:auto; 
+}
+
+a.std_button span{
+  background:url("btn_std_left.png") left no-repeat;
+  padding:2px 5px 2px 10px;
+  height:18px;
+  line-height: 18px;
+  position:relative;
+  display:block;
+  white-space:nowrap;
+}
+
+/*Standard Button (max. button width = 200PX!)*/
+button.std_button{
+	background:url("btn_std_right.png") right no-repeat;
+	display:block;
+	float:left;
+	height:22px;
+	margin-right:10px;
+	padding:0 5px 0 0;
+	width:auto; 
+}
+
+	button.std_button span{
+		background:url("../img/btn_std_left.png") left no-repeat;
+		padding:4px 5px 0 10px;
+		height:18px;
+		position:relative; 
+		display:block; 
+		white-space:nowrap;
+	}
+
+/*Hover State*/
+	button.std_button:hover{
+	background:url("../img/btn_std_right_hover.png") right no-repeat;
+}
+
+	button.std_button:hover span{
+		background:url("../img/btn_std_left_hover.png") left no-repeat;
+	}
+
+/* Extra Spacing for Cancel Button */
+button.btn_cancel{
+	margin-right:50px;
+}
+
+button.btn_back{
+	position:absolute;
+	left:10px;
+	top:7px;
+}
+
+button.date span{
+	padding:4px 2px 0 7px;
+}
+
+button#addSegment {
+	float:right;
+	margin-right:10px;
+	min-width:145px;
+	margin-top:10px;
+}
+
+	button#addSegment span.btn_add{
+		background:url("../img/icons/add_16.png") left no-repeat;
+		height:16px;
+		width:16px;
+		padding:0 0 0 10px;
+		display:block;
+		float:left;
+	}
+	
+	button#addSegment span.text{
+		padding:0;
+		margin:0;
+		float:left;
+		background:none;
+	}
+
+/*Large Button (max. button width = 200PX!)*/
+button.btn_large{
+	background:url("../img/btn_large_right.png") right no-repeat;
+	height:42px;
+	position:relative;
+}
+
+	button.btn_large span{
+		background:url("../img/btn_large_left.png") left no-repeat;
+		padding:14px 5px 0 10px;
+		height:28px;
+		font-size:14px;
+	}
+	
+	div.button-bar{
+		margin-left:145px;
+		margin-top:105px;
+	}
+	
+	button#restart span{
+		background:url("../img/btn_restart_left.png") left no-repeat;
+		padding:14px 5px 0 45px;
+	}
+	
+	button#stop span{
+		background:url("../img/btn_stop_left.png") left no-repeat;
+		padding:14px 5px 0 45px;
+	}
+	
+	button#start span{
+		background:url("../img/btn_start_left.png") left no-repeat;
+		padding:14px 5px 0 45px;
+	}
+	
+button.btn_large:hover{
+	background:url("../img/btn_large_right_hover.png") right no-repeat;
+}
+
+	button.btn_large:hover span{
+		background:url("../img/btn_large_left_hover.png") left no-repeat;
+	}
+	
+	button#restart:hover span{
+			background:url("../img/btn_restart_left_hover.png") left no-repeat;
+		}
+	
+	button#start:hover span{
+			background:url("../img/btn_start_left_hover.png") left no-repeat;
+		}
+		
+		button#stop:hover span{
+			background:url("../img/btn_stop_left_hover.png") left no-repeat;
+		}
+		
+button.oam_toggle_active, button.oam_toggle_active:hover{
+	background:url("../img/btn_toggle_right.png") right no-repeat;
+}
+
+	button.oam_toggle_active span, button.oam_toggle_active:hover span{
+		background:url("../img/btn_toggle_left_active.png") left no-repeat;
+		color:#fff;
+	}
+
+/*Toggle Button Bar (max. button width = 200PX!)*/
+.oam_toggle button{
+	margin:0px;
+	padding: 0 10px;
+	height:22px;
+	float:left;
+	color:#4c4c4c;
+}
+		
+	.oam_toggle button.left{
+		background:url("../img/btn_toggle_left_std.png") left no-repeat;
+	}
+			
+	.oam_toggle button.mid{
+		background:url("../img/btn_toggle_mid_std.png") top repeat-x;
+	}			
+	
+	.oam_toggle button.right{
+		background:url("../img/btn_toggle_right_std.png") right no-repeat;
+	}
+	
+	/* Spacer to avoid border-issues in IE7 */
+	.oam_toggle .spacer{
+		background-color: #5b6264;
+		height:22px;
+		width:1px;
+		float:left;
+	}
+	
+	/* Hover and active State */
+	.oam_toggle button.oam_toggle_active{
+		color:white;
+	}
+	
+	.oam_toggle button.left:hover{
+		background:url("../img/btn_toggle_left_hover.png") left no-repeat;
+	}
+	
+	.oam_toggle button.mid:hover{
+		background:url("../img/btn_toggle_mid_hover.png") top repeat-x;
+	}
+	
+	.oam_toggle button.right:hover{
+		background:url("../img/btn_toggle_right_hover.png") right no-repeat;
+	} 
+	
+	.oam_toggle button.left_active{
+		background:url("../img/btn_toggle_left_active.png") left no-repeat;
+	}
+	
+	.oam_toggle button.mid_active{
+		background:url("../img/btn_toggle_mid_active.png") top repeat-x;
+	}
+	
+	.oam_toggle button.right_active{
+		background:url("../img/btn_toggle_right_active.png") right no-repeat;
+	}	
+/***********************
+MAINCONTENT > SUBHEADER
+***********************/	
+
+div#maincontent .subheader{
+	width: 100%;
+	height: 28px;
+	background:url("../img/subheader_bg.png") repeat-x;
+	border-top:1px solid #949999;
+	position: relative;
+}
+
+	div#maincontent .subheader .oam_toggle{
+		margin-left:10px;
+		margin-top:3px;
+	}
+	
+	/* Breadcrumb */	
+	div#maincontent .subheader div#breadcrumb{
+		margin-left:10px;
+		display:inline;
+		float: left;
+		display:none;
+	}
+	
+		div#maincontent .subheader div#breadcrumb button{
+			/*margin-left: 5px;*/
+			display:block;
+			height:28px;
+			float:left;
+			overflow: visible;
+			color:#333333;
+			background:url("../img/breadcrumb_right.png") right no-repeat;
+ 				white-space:nowrap;
+ 				padding:0 18px 0 0;
+		}
+		
+		div#maincontent .subheader div#breadcrumb button span.bc_left{
+			padding:6px 5px 6px 6px;
+			line-height:28px;
+		}
+		
+		/* Hover State*/
+		
+		div#maincontent .subheader div#breadcrumb button:hover{
+			background:url("../img/breadcrumb_hover_right.png") right no-repeat;
+		}
+		
+		div#maincontent .subheader div#breadcrumb button:hover span.bc_left{
+			background:url("../img/breadcrumb_hover_left.png") left no-repeat;
+		}
+		
+		/* Active State */
+		div#maincontent .subheader div#breadcrumb button.selected{
+			background:url("../img/breadcrumb_hover_right.png") right no-repeat;
+		}
+		
+		div#maincontent .subheader div#breadcrumb button.selected span.bc_left{
+			background:url("../img/breadcrumb_hover_left.png") left no-repeat;
+		}
+		
+	/* Expand/Collapse States */		
+	div#maincontent .subheader button.expand_collapse{
+		position: absolute;
+		right: 0;
+		top: 0;
+		height: 28px;
+		width: 25px;
+	}
+	
+	div#maincontent .subheader button#btn_expand_colbrowser{
+		display:none;
+	}
+	
+	div#maincontent .subheader button#btn_expand_results{
+		display:none;
+	}
+	
+	div#maincontent div#detail_nav button{
+		padding: 0 12px 0 10px;
+		height:28px;
+		background:url("../img/submenu_std.png") right no-repeat;
+		margin:0;
+		border:0;
+		float:left;
+		color:#333;
+	}
+	
+		div#maincontent div#detail_nav button:hover{
+			background:url("../img/submenu_hover.png") right no-repeat;
+		}
+	
+		div#maincontent div#detail_nav button.oam_active {
+			font-weight:bold;
+			border-left:4px solid #5c6666;
+			background:url("../img/submenu_active.png") right no-repeat;
+		}
+
+/******************
+COLUMNBROWSER
+******************/
+.column_bg {
+	width:185px; 
+	background:url("../img/col_divider.png") right repeat-y;
+	height:175px;
+	position:absolute;
+	top:0;
+	z-index:0;
+	margin-top:104px;
+}
+
+/*Top level container - set the width, height and border here */
+.containerobj {
+	border: 1px solid #949999;
+    height:175px;
+    overflow-x:auto;
+    overflow-y:hidden;
+    white-space:nowrap;
+    position:relative;
+}
+
+	/* First Column */
+	.containerobj .top {
+		background:url("../img/1st_column_bg.png") bottom no-repeat;
+	}
+
+	/*Div containing an individual level of the menu hierarchy*/
+	.containerobj div {
+	    height:100%;
+	    overflow-y:auto;
+	    overflow-x:hidden;
+	    position:absolute;
+	    background:#F9FAFA url("../img/col_divider.png") right repeat-y; /* Overwrite placeholder columns*/
+	    width:180px;
+	    padding-right:5px;
+	}
+
+	/*Link*/
+	.containerobj a {
+	 	display:block;
+	  	clear:both;
+	  	white-space:nowrap;
+	  	padding-left:10px;
+	  	font-size: 11px;
+	  	color:black;
+	  	height:21px;
+	  	padding-top:7px;
+	    padding-right:15px;
+	    min-width: 155px;
+	}          
+
+		.containerobj a canvas{
+		  padding-left:1em;
+		}
+
+	.containerobj .oam_active {
+		color: #fff;
+		background:url("../img/selection.png") bottom repeat-x;
+	}
+
+	.containerobj .inpath {
+		background-color:#d8dcdc;
+		color:#000;
+	}
+
+	.containerobj .hasChildMenu .widget{
+		position:absolute;
+	    right:0;
+		margin-right:5px;
+		background:url("../img/ri_arrow_black.png") no-repeat;
+		margin-top: 2px;
+	}
+	
+	.containerobj .oam_active .widget{
+		background:url("../img/ri_arrow_white.png") no-repeat;
+	}
+
+
+/*Background_Position*/
+.columnbrowser_main{
+	height:175px;
+	/*width:100%;*/
+	/*padding:5px;*/
+	z-index:9999;
+	/*border-top:1px solid #949999;*/
+	background-color: #f9fafa;
+}
+
+/******************
+DETAILS
+******************/
+	div#details {}
+
+	div#details div.details_main{
+		border-top:1px solid #949999;
+		padding: 15px 20px 40px 10px;
+		background: url("../img/widgets_bg.png") top repeat-x;
+		/*height:500px;  default size, will be overwritten by js*/
+		overflow: auto;
+		position: relative;
+	}
+div#subnavigation {
+	border-top:1px solid #949999;
+	/*padding: 15px 20px 40px 10px;*/
+	overflow: auto;
+	position:relative;
+}	
+
+div#subnavigation .selected {
+	background:url("../img/tableheader_top.png") repeat-x scroll 0 0 #E1E4E4;
+	font-weight:bold;
+}
+div#subnavigation .subnavitem:hover {
+	background:url("../img/tableheader_top.png") repeat-x scroll 0 0 #E1E4E4;
+	/*font-weight:bold;*/
+}
+.subnavitem {
+	border-bottom:1px solid #CACACA;
+	padding: 10px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-decoration: none;
+	color: #4d4d4d;
+}
+
+		div#details div.details_main h2{ 
+			font-size: 14px;
+		}
+		
+			div#details div.details_main h2 span{ 
+				font-size: 14px;
+			}
+
+/******************
+WIDGETS
+******************/	
+
+.widgets {
+	margin: 25px 0 0 25px;	
+	min-width: 1000px;
+}
+
+	.widgets .widgetShadow{
+		background:url("../img/widget_shadow.png") bottom no-repeat;
+		width: 540px;
+		margin:0 0 0 -40px; /* decreases space between widgets => overlapping shadows */
+	}
+
+		.widgets .widgetShadow .widgetContainer{
+			margin: 0 40px 39px 40px;
+		}
+		
+			.widgets .widgetShadow .widgetContainer .widgetHeader {
+				background:url("../img/widget_header_std.png") bottom no-repeat;
+				width: 460px;
+				height: 26px;
+			}
+			
+				.widgets .widgetShadow .widgetContainer .widgetHeader h3 {
+					font-size:12px;
+					color:#2f3333;
+					padding: 5px 0 0 18px;
+				}
+				
+				.widgets .widgetShadow .widgetContainer .widgetHeader button {
+					margin: 6px 6px 0 0;
+				}
+				
+				.widgets .widgetShadow .widgetContainer .widgetHeader button.widget_edit{
+					background:url("../img/options_std.png") no-repeat;
+					height: 14px;
+					width: 14px;
+				}
+			
+			.widgets .widgetShadow .widgetContainer .widgetContent {
+				border-left: 1px solid #e0e8e8;
+				border-right: 1px solid #e0e8e8;
+				border-bottom: 1px solid #e0e8e8;
+				padding: 10px;
+				background-color:#fafafa;
+				min-height:65px;
+			}
+			
+			/* Link Lists*/
+			.widgets .widgetShadow .widgetContainer .widgetContent ul {
+				margin-left:70px;
+			}
+						
+				.widgets .widgetShadow .widgetContainer .widgetContent ul li {
+					padding:3px 0;
+				}
+				
+					.widgets .widgetShadow .widgetContainer .widgetContent ul li a{
+						text-decoration:underline;
+						color:#294d6f;
+					}
+				
+		/********** ACTIVE STATE ************/
+		.widgets .widgetShadow .oam_active .widgetHeader {
+			background:url("../img/widget_header_active.png") bottom no-repeat;
+			cursor: move;
+		}
+				
+			.widgets .widgetShadow .oam_active .widgetHeader h3 {
+						color:#fff;
+					}
+			
+			.widgets .widgetShadow .oam_active .widgetHeader button.widget_edit {
+						background:url("../img/options_active.png") no-repeat;
+					}
+					
+		.widgets .widgetShadow .oam_active .widgetContent {
+			border-color: #a6adad;
+			cursor: move;
+		}
+/******************
+TABLE
+******************/
+div.scroll_table{
+	border-top:1px solid #949999;
+}
+
+body#faults .scroll_table{
+	height:313px;
+}
+
+body#navigator .scroll_table{
+	height:175px;
+}
+
+body#navigator .scroll_table_details{
+	height:250px;
+	border:1px solid #949999;
+	margin-top:10px;
+}
+
+body#navigator .scroll_table_data_views{
+	height:175px;
+	margin-left:150px;
+}
+
+table {
+	border:medium none;
+	border-collapse:collapse;
+	margin:0;
+	padding:0;
+	width:100%;
+	/*background: #fff;*/
+}
+
+	table thead th {
+		color:#FFFFFF;
+		font-weight:bold;
+		text-align: left;
+	}
+
+		table thead th span {
+			/*float:right;*/
+			margin-left: 10px;
+			padding-left: 12px;
+			font-size:10px;
+			font-weight: bold;
+			color: #ddd;
+		}
+
+			table thead th span.desc {
+				background: url("../img/sort_desc.png") left no-repeat;
+			}
+			
+			table thead th span.asc {
+				background: url("../img/sort_asc.png") left no-repeat;
+			}
+
+	table td, table th {
+		margin:0;
+		padding:10px;
+	}
+	
+	table tr.filter th input {
+		width:95%;
+	}
+	
+	table tbody{
+		overflow-y:auto;
+		overflow-x:auto;
+	}
+
+		table tbody tr.odd td{
+			background: #F5F5F5;
+		}
+
+		table tbody tr.oam_hover td{
+			background:#d8dcdc;
+		}
+		
+		table tbody tr.oam_selection td{
+			/*background:url("../img/selection.png") bottom repeat-x;*/
+			background:#8a9999;
+			color:#fff;
+		}
+		
+		table tbody tr.oam_selection td a{
+			color:#fff;
+		}
+
+	table tfoot td {
+		background:none repeat scroll 0 0 #CECFCE;
+		color:#000000;
+		font-weight:bold;
+	}
+	
+	table tbody td {
+		vertical-align:top;
+	}
+
+					
+/******************
+FAULT DETAILS
+******************/
+div#details.faults {
+		/*width:100%;*/
+}
+
+div#details.faults div#details_main{
+	background:#e6e6e6 url("../img/faults_bg.png") left repeat-y;
+	position:relative;
+	
+}
+
+	div#details.faults div.error, div#details.faults div.solution{
+		padding: 5px 0 0 40px;	
+		margin: 10px 0 0 10px;
+		min-height:32px; /* so that icon will be displayed */
+	}
+		
+	div#details.faults div.error {
+		background:url("../img/icons/stop_32.png") top left no-repeat;
+		width:650px;
+		position:absolute;
+		top:10px;
+		left:10px;
+	}
+
+	div#details.faults div.solution {
+		background:url("../img/icons/wizard_32.png") top left no-repeat;
+		/*min-width:315px;*/
+				 position:absolute;
+		 top:10px;
+		 left:650px;
+	}
+	
+		div#details.faults div.error p{
+			width:500px;
+			margin: 10px 0;
+		}
+	
+	
+.div_error_msg {
+	margin: 30px;
+	color: #4D4D4D;
+}
+.div_error_msg a{
+	text-decoration: underline;
+	margin-right: 30px;
+	margin-top: 50px;
+}
+
+/******************
+SPLITTER
+******************/
+#splitter {
+	/*height: 1000px; /*Initial Value, will be overwritten by JS*/
+	/* No padding allowed */
+}
+/*
+ * Top element of the splitter. Use pixel units for the
+ * min-height and max-height; the splitter plugin parses them to
+ * determine the splitter movement limits. Set the height to
+ * the desired initial height of the element; the plugin changes
+ * the height of this element dynamically.
+ */
+/* 
+ * Splitter bar style; the .active class is added when the
+ * mouse is over the splitter or the splitter is focused
+ * via the keyboard taborder or an accessKey. 
+ */
+#splitter .hsplitbar {
+	height: 6px;
+	background: #ddd url(../img/splitter_bg.png) repeat-x;
+	text-align:center;
+	/* No margin, border, or padding allowed */
+		/*width:100%;*/
+}
+#splitter .hsplitbar.oam_active, #MySplitter .hsplitbar:hover {
+	background: #ddd url(../img/splitter_bg_hover.png) repeat-x;
+}
+
+/******************
+DIALOG
+******************/
+.ui-widget-overlay {
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+	width: 100%; 
+	height: 100%; 
+	background: #000; 
+	opacity: .50;
+	filter:Alpha(Opacity=50);
+}
+
+.ui-dialog {
+	position: absolute;
+	width: 800px;
+	overflow: hidden;
+	background: #e6e6e6;
+}
+.ui-dialog .ui-dialog-titlebar { 
+	position: relative;
+	background: url(../img/dialog_header_bg.png) repeat-x top;
+	color: #ffffff;
+	font-weight: bold;
+	height:30px;
+}
+
+.ui-dialog .ui-dialog-title {
+	float: left;
+	margin: 6px 10px;
+	font-size:14px;
+}
+
+.ui-dialog .ui-dialog-titlebar-close {
+	position: absolute;
+	right: 5px;
+	top: 6px;
+	width: 19px;
+	height: 18px;
+}
+
+.ui-dialog .ui-dialog-titlebar-close span {
+	display: block;
+	color: #fff;
+	font-size:14px;
+}
+
+.ui-dialog .ui-dialog-titlebar-close:hover, .ui-dialog .ui-dialog-titlebar-close:focus {
+	 /*padding: 0;*/
+}
+
+.ui-dialog .ui-dialog-content {
+	border: 0; 
+	background: #fafafa url("../img/widgets_bg.png") bottom repeat-x;
+	overflow: hidden;
+	zoom: 1;
+	padding: 10px 10px 20px 10px;
+}
+
+.ui-dialog .ui-dialog-buttonpane {
+	text-align: left;
+	border-width: 1px 0 0 0;
+	border-color: #ccc;
+	background: #ddd;
+	height:20px;
+	padding: 7px 10px 8px 7px;
+	position:relative;
+}
+
+.ui-dialog .ui-dialog-buttonpane button {
+	float: right;
+	cursor: pointer;
+	width:auto;
+	overflow:visible; 
+}
+
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+}
+
+.ui-widget-content {
+	border: 1px solid #5c6666;
+	background: #eeeeee;
+	color: #333333;
+}	
+
+/******************
+DIALOG > ADD WIDGET
+******************/
+.template_container{
+	border: 1px solid #e0e8e8;
+	background-color:#fafafa;
+	margin: 10px;
+	padding:10px;
+}
+
+	.template_container .templates {
+	}
+
+		.template_container .templates button{
+			text-align:center;
+			margin:10px;
+		}
+		
+		.template_container .templates p{
+			color: #333;
+			margin-top: 10px;
+		}
+		
+		.template_container .templates div.chart_type{
+			border: 1px solid #a8a8a8;
+			display:block;
+			height: 60px;
+			width: 120px;
+			padding-top:10px;
+			background:#fafafa url("../img/chart_type_bg.png") bottom repeat-x;
+		}
+		
+		.template_container .templates button:hover div.chart_type{
+			border: 1px solid #5c6666;
+		}
+		
+		.template_container .templates button.oam_active div.chart_type{
+			border: 1px solid #5c6666;
+			background:#cbd0d0 url("../img/chart_type_active_bg.png") bottom repeat-x;
+		}
+		
+		.template_container .templates button.oam_active p{
+			font-weight:bold;
+		}
+ 				
+/******************
+FOOTER
+******************/
+
+div#footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	border-top: 1px solid #4d4d4d;
+	background:url("../img/footer_bg.png") bottom repeat-x;
+	height: 22px;
+	width: 100%;
+	z-index:99;
+	color: #fff;
+	padding-top:2px;
+}
+
+	div#footer {
+		float:right;
+	}
+    
+    .status  {
+		padding:3px 0px 0px 12px;
+    }
+	div#footer label.bold{
+		font-weight:bold;
+		margin-right:5px;
+	}
+
+	div#footer label{
+		float:left;
+		padding-top:3px;
+	}
+
+	div#footer button{
+		color: #000;
+		padding: 0 5px;
+		margin: 0 10px 0 5px;
+		height:20px;
+		border: 1px solid #b7b7b7;
+		font-weight:bold;
+		background-color:#fff;
+		float:left;
+	}
+		
+	div#footer button.minor{
+		background-color:#dbd12c;
+		border-color:#e0b42c;
+	}
+	
+	div#footer button.major{
+		background-color:#db922b;
+		border-color:#c57d28;
+	}
+	
+	div#footer button.critical{
+		background-color:#db2b2b;
+		border-color:#9c1e1e;
+		color: #fff;
+	}
+
+	/* format of the list of data views in the Navigator screen */
+	div#data-views select.data-views-list{
+		 height:175px; 
+		 width:150px; 
+		 float:left;	
+	}
+	
+	/* Widget Controller */
+	
+	div#widget-controller{
+		width:1000px;
+		height:50px;
+		position:relative;
+	}
+	
+	div#widget-controller div#headline{
+		position:absolute;
+		top:10px;
+		left:20px;
+		width:200px;	
+	}
+	
+	div#widget-controller div#slider{
+		position:absolute;
+		top:10px;
+		left:250px;
+		width:400px;	
+	}
+	
+	div#widget-controller div.paginator{
+		position:absolute;
+		top:10px;
+		left:700px;
+		width:300px;	
+	}
+	
+	div#sub-controller{
+		width:950px;	
+	}
+	
+	/* Slider Styling */
+	
+	div#slider ul{
+		position:relative;
+	}
+	
+	div#slider ul li{
+		/*float:left;*/	
+		padding-top:20px;
+		cursor:pointer;
+		display:inline-block;
+		max-width:100px;
+		position:absolute;
+	}
+	
+	div#slider ul li.li-first{
+		left:-40px;
+	}
+
+	div#slider ul li.li-second{
+		left:95px;
+	}
+	
+	div#slider ul li.li-third{
+		left:240px;
+	}
+	
+	div#slider ul li.li-lastcol{
+		right:-13px;	
+		position:absolute;
+	}
+	
+	/* Slider styling overwrites from JQuery UI Theme 
+	----------------------------------*/
+	.ui-slider { position: relative; text-align: left; }
+	.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: .8em; height: .8em; cursor: default; }
+	.ui-slider .ui-slider-range { position: absolute; z-index: 1; font-size: .7em; display: block; border: 0; background-position: 0 0; }
+	
+	.ui-slider-horizontal { height: .4em; }
+	.ui-slider-horizontal .ui-slider-handle { top: -.3em; margin-left: -.6em; }
+	.ui-slider-horizontal .ui-slider-range { top: 0; height: 100%; }
+	.ui-slider-horizontal .ui-slider-range-min { left: 0; }
+	.ui-slider-horizontal .ui-slider-range-max { right: 0; }
+	
+	.ui-slider-vertical { width: .8em; height: 100px; }
+	.ui-slider-vertical .ui-slider-handle { left: -.3em; margin-left: 0; margin-bottom: -.6em; }
+	.ui-slider-vertical .ui-slider-range { left: 0; width: 100%; }
+	.ui-slider-vertical .ui-slider-range-min { bottom: 0; }
+	.ui-slider-vertical .ui-slider-range-max { top: 0; }
+	
+	/* Handles */
+	
+	.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+		background: #949999;
+		border:1px solid #333333;
+		color:#1C94C4;
+		font-weight:bold;
+	}
+	
+	.ui-widget-header {
+		background:#c8cece;
+		color:#FFFFFF;
+		font-weight:bold;
+	}
+	
+	
+table.oam_table {
+background:none repeat scroll 0 0 transparent;
+border-color:-moz-use-text-color #949999 #949999;
+border-right:1px solid #949999;
+border-style:none solid solid;
+border-width:medium 1px 1px;
+clear:none;
+width:auto;
+}
+table.oam_table thead {
+background:url("../img/tableheader_top.png") repeat-x scroll 0 0 #E1E4E4;
+border-bottom:1px solid #949999;
+}
+table.oam_table thead tr th {
+background-color:transparent;
+color:black;
+}
+table.oam_table thead tr th a {
+color:#FFFFFF;
+display:block;
+}
+table.oam_table tbody {
+overflow:visible;
+}
+table.oam_table tbody td {
+padding:4px 10px 4px 10px; 
+text-align:left;
+white-space:nowrap;
+}	

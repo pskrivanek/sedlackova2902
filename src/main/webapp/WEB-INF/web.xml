@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	id="WebApp_ID" version="2.5">
+	
+	<display-name>SVJ - Sedlackova 2902</display-name>
+	
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+
+	<servlet>
+		<servlet-name>spring</servlet-name>
+		<servlet-class>
+			org.springframework.web.servlet.DispatcherServlet
+		</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>spring</servlet-name>
+		<url-pattern>*.html</url-pattern>
+	</servlet-mapping>
+	
+    <filter>
+        <filter-name>encoding-filter</filter-name>
+        <filter-class>
+            org.springframework.web.filter.CharacterEncodingFilter
+        </filter-class>
+        <init-param>
+            <param-name>encoding</param-name>
+            <param-value>UTF-8</param-value>
+        </init-param>
+    </filter>
+
+    <filter-mapping>
+        <filter-name>encoding-filter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+    
+    <!-- Error pages -->
+    <error-page>
+        <error-code>400</error-code>
+        <location>/error/400.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>401</error-code>
+        <location>/error/401.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>402</error-code>
+        <location>/error/402.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>403</error-code>
+        <location>/error/403.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>404</error-code>
+        <location>/error/404.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>405</error-code>
+        <location>/error/405.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>500</error-code>
+        <location>/error/500.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>501</error-code>
+        <location>/error/501.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>502</error-code>
+        <location>/error/502.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>503</error-code>
+        <location>/error/503.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>504</error-code>
+        <location>/error/504.htm</location>
+    </error-page>
+    <error-page>
+        <error-code>505</error-code>
+        <location>/error/505.htm</location>
+    </error-page>
+    <!-- 
+    <error-page>
+        <exception-type>weblogic.servlet.SessionCreationException</exception-type>
+        <location>/error/session-creation.htm</location>
+    </error-page>
+ 	-->
+ 
+    <!-- Mime Mapping -->
+    <mime-mapping>
+        <extension>png</extension>
+        <mime-type>image/png</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>gif</extension>
+        <mime-type>image/gif</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>ico</extension>
+        <mime-type>image/x-icon</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>jpg</extension>
+        <mime-type>image/jpeg</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>jpeg</extension>
+        <mime-type>image/jpeg</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>svg</extension>
+        <mime-type>image/svg+xml</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>swf</extension>
+        <mime-type>application/x-shockwave-flash</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>html</extension>
+        <mime-type>text/html</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>css</extension>
+        <mime-type>text/css</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>txt</extension>
+        <mime-type>text/plain</mime-type>
+    </mime-mapping>
+    <mime-mapping>
+        <extension>js</extension>
+        <mime-type>text/javascript</mime-type>
+    </mime-mapping>
+	
+</web-app>
