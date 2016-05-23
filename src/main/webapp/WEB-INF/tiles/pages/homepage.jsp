@@ -19,6 +19,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Schůze SVJ dne 9.6.2015</h4>
+<p>Ve čtvrtek 9.6.2015 se bude konat schůze SVJ v Dělnickém domě v Židenicích ... <a href="documents.html?t=k">více zde</a></p>
+<br/><br/>
+
 <h4>Vyúčtování - často kladené otázky</h4>
 <p>Vzhledem k často kladeným otázkám k vyúčtování služeb připravila naše správcovská firma, která vyúčtování provádí, na tyto otázky odpovědi ... <a href="documents.html?t=v">více zde</a></p>
 

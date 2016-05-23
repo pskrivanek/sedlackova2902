@@ -1,6 +1,13 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	UcetniZaverka_2015(463, "Ucetni_zaverka_2015.pdf", "3.1 MB"),
+	Schuze2016_zmocneniSJMDoc(462, "schuze2016/Zmocneni_SJM.doc", "37 kB"),
+	Schuze2016_plnaMocDoc(461, "schuze2016/Plna_moc.doc", "22 kB"),
+	Schuze2016_plnaMoc_spoluvlastniku(460, "schuze2016/Zmocneni_SJM.pdf", "595 kB"),
+	Schuze2016_plnaMoc(459, "schuze2016/Plna_moc.pdf", "319 kB"),
+	Schuze2016_pozvanka(458, "schuze2016/Pozvanka.pdf", "139 kB"),
+
 	PoznamkaKatasrt20160107_nesouhlas(491, "Nesouhlas_s_poznamkou_spornosti.docx", "2.2 MB"),
 	PoznamkaKatasrt20160107_zapis(490, "Zapis_poznamek_spornosti.pdf", "2.2 MB"),
 	Stanovy_2015_SVJ(482, "SVJS2902_STANOVY_2015.pdf", "243 kB"),

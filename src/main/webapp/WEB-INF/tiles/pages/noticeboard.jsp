@@ -31,6 +31,17 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3>Schůze SVJ dne 9.6.2015</h3>
+<p>Ve čtvrtek 9.6.2015 se bude konat schůze SVJ v Dělnickém domě v Židenicích.</p>
+<ul>
+<li>registrace účastníků od 15:00</li>
+<li>začátek schůze v 16:30</li>
+</ul>
+<p>Oficiální pozvánka s programem je ke stažení <%= linkDownfile(DownFile.Schuze2016_pozvanka, "zde") %>. Bližší informace budou aktualizovány <a href="documents.html?t=k">zde</a>.</p>
+<br/>
+<br/>
+
+
 <h3>Vyúčtování - často kladené otázky</h3>
 <p>Vzhledem k často kladeným otázkám k vyúčtování služeb připravila naše správcovská firma, která vyúčtování provádí, na tyto otázky odpovědi. Tyto odvědi jsou dostupné v sekci 
 <a href="documents.html?t=v">Dokumenty</a>.</p>

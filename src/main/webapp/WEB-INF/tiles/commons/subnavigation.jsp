@@ -50,6 +50,7 @@
             out.println(generateItem("documents.html", "t", "t".equals(type) || type == null, "Schůze SVJ 25.9.2013"));
             out.println(generateItem("documents.html", "f", "f".equals(type) || type == null, "Schůze SVJ 25.6.2014"));
             out.println(generateItem("documents.html", "j", "j".equals(type) || type == null, "Schůze SVJ 2.6.2015"));
+            out.println(generateItem("documents.html", "k", "k".equals(type) || type == null, "Schůze SVJ 9.6.2016"));
 		}       
 	%>
 </div>
