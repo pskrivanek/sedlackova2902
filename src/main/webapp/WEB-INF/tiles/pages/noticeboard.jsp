@@ -31,8 +31,8 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
-<h3>Schůze SVJ dne 9.6.2015</h3>
-<p>Ve čtvrtek 9.6.2015 se bude konat schůze SVJ v Dělnickém domě v Židenicích.</p>
+<h3>Schůze SVJ dne 9.6.2016</h3>
+<p>Ve čtvrtek 9.6.2016 se bude konat schůze SVJ v Dělnickém domě v Židenicích.</p>
 <ul>
 <li>registrace účastníků od 15:00</li>
 <li>začátek schůze v 16:30</li>

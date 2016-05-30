@@ -1199,8 +1199,8 @@ Kompletní program schůze je v pozvánce, kterou si můžete stáhnout <%= link
     }
     if ("k".equals(type)) {
 %>
-<h3>Schůze SVJ dne 9.6.2015</h3>
-<p><i>Zde jsou podrobnosti k chystané schůzi SVJ dne 9.6.2014 v 16.30 <br/>
+<h3>Schůze SVJ dne 9.6.2016</h3>
+<p><i>Zde jsou podrobnosti k chystané schůzi SVJ dne 9.6.2016 v 16.30 <br/>
 </i></p>
 <br/>
     <ul>
@@ -1218,7 +1218,7 @@ Kompletní program schůze je v pozvánce, kterou si můžete stáhnout <%= link
 <td style="padding:0px">
 <a id="Misto_konani" name="Misto_konani"></a>
 <h4>Místo konání:</h4>
-Dělnický dům na ulici Jamborova č. 65, Brno-Líšeň <b>ve čvtvrtek 9.6.2015 v 16.30 hod.</b><br/>
+Dělnický dům na ulici Jamborova č. 65, Brno-Líšeň <b>ve čvtvrtek 9.6.2016 v 16.30 hod.</b><br/>
 Prezence bude probíhat <b>od 15.00 hod.</b><br/>
 <br/><br/><br/>
 
