@@ -1272,7 +1272,7 @@ Kdy je potřeba plná moc:
 <h4>Klíčové body programu:</h4>
 <ul>
 <li>Výroční zpráva výboru a správce o správě domu a pozemků a o dalších činnostech SVJ za rok 2015</li>
-<li>Projednání hospodaření, hlasování o schválení <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2015, "účetní závěrky SVJ za rok 2015") %></li>
+<li>Projednání hospodaření, hlasování o schválení <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2015, "účetní závěrky SVJ za rok 2015") %> a o <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2016_rozpocet2017, "rozpočtu na rok 2017") %> </li>
 <li>Výměna výtahů (účast zástupce vybraného dodavatele)</li>
 <li>Prezentace a hlasování o doplnění rozvodů kabelové sítě o UPC (účast zástupce UPC)</li>
 <li>Prezentace a hlasování o instalaci kamerového monitorovacího systému</li>
