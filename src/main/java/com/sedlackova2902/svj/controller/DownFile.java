@@ -1,13 +1,13 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
-	Schuze2016_rozpocet2017(464, "schuze2016/Rozpocet_2017.pdf", "231 kB"),
-	UcetniZaverka_2015(463, "Ucetni_zaverka_2015.pdf", "4.5 MB"),
-	Schuze2016_zmocneniSJMDoc(462, "schuze2016/Zmocneni_SJM.doc", "37 kB"),
-	Schuze2016_plnaMocDoc(461, "schuze2016/Plna_moc.doc", "35 kB"),
-	Schuze2016_plnaMoc_spoluvlastniku(460, "schuze2016/Zmocneni_SJM.pdf", "217 kB"),
-	Schuze2016_plnaMoc(459, "schuze2016/Plna_moc.pdf", "117 kB"),
-	Schuze2016_pozvanka(458, "schuze2016/Pozvanka.pdf", "204 kB"),
+	Schuze2016_rozpocet2017(506, "schuze2016/Rozpocet_2017.pdf", "231 kB"),
+	UcetniZaverka_2015(505, "Ucetni_zaverka_2015.pdf", "4.5 MB"),
+	Schuze2016_zmocneniSJMDoc(504, "schuze2016/Zmocneni_SJM.doc", "37 kB"),
+	Schuze2016_plnaMocDoc(503, "schuze2016/Plna_moc.doc", "35 kB"),
+	Schuze2016_plnaMoc_spoluvlastniku(502, "schuze2016/Zmocneni_SJM.pdf", "217 kB"),
+	Schuze2016_plnaMoc(501, "schuze2016/Plna_moc.pdf", "117 kB"),
+	Schuze2016_pozvanka(500, "schuze2016/Pozvanka.pdf", "204 kB"),
 
 	PoznamkaKatasrt20160107_nesouhlas(491, "Nesouhlas_s_poznamkou_spornosti.docx", "2.2 MB"),
 	PoznamkaKatasrt20160107_zapis(490, "Zapis_poznamek_spornosti.pdf", "2.2 MB"),
