@@ -1,6 +1,11 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	Schuze2016_UPC_Souhlas_vlastnika(511, "schuze2016/UPC_Souhlas_vlastnika.pdf", "334 kB"),
+	Schuze2016_UPC_Poskytovane_sluzby(510, "schuze2016/UPC_Poskytovane_sluzby.pdf", "305 kB"),
+	Schuze2016_UPC_UR_zemni_trasa_privod(509, "schuze2016/UPC_UR_zemni_trasa_privod.pdf", "125 kB"),
+	Schuze2016_UPC_Technologicke_schema(508, "schuze2016/UPC_Technologicke_schema.pdf", "23 kB"),
+	Schuze2016_UPC_Specifikace_sluzeb(507, "schuze2016/UPC_Specifikace_sluzeb.pdf", "231 kB"),
 	Schuze2016_rozpocet2017(506, "schuze2016/Rozpocet_2017.pdf", "231 kB"),
 	UcetniZaverka_2015(505, "Ucetni_zaverka_2015.pdf", "4.5 MB"),
 	Schuze2016_zmocneniSJMDoc(504, "schuze2016/Zmocneni_SJM.doc", "37 kB"),

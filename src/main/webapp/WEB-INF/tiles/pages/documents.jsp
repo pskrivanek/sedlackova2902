@@ -1274,7 +1274,12 @@ Kdy je potřeba plná moc:
 <li>Výroční zpráva výboru a správce o správě domu a pozemků a o dalších činnostech SVJ za rok 2015</li>
 <li>Projednání hospodaření, hlasování o schválení <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2015, "účetní závěrky SVJ za rok 2015") %> a o <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2016_rozpocet2017, "rozpočtu na rok 2017") %> </li>
 <li>Výměna výtahů (účast zástupce vybraného dodavatele)</li>
-<li>Prezentace a hlasování o doplnění rozvodů kabelové sítě o UPC (účast zástupce UPC)</li>
+<li>Prezentace a hlasování o doplnění rozvodů kabelové sítě o UPC (účast zástupce UPC) 
+(<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2016_UPC_Specifikace_sluzeb, "specifikace služeb") %>, 
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2016_UPC_Technologicke_schema, "technologické schéma") %>, 
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2016_UPC_UR_zemni_trasa_privod, "zemní přívod") %>, 
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2016_UPC_Poskytovane_sluzby, "poskytované služby") %>, 
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2016_UPC_Souhlas_vlastnika, "souhlas vlastníka") %>) </li>
 <li>Prezentace a hlasování o instalaci kamerového monitorovacího systému</li>
 <li>Doplňující volba členů Výboru SVJ. <i>Pokud má někdo zájem o členství ve výboru, tak svou kandidaturu oznamte písemně kterému koliv členu výboru do 3.6.2016.</i></li>
 <li>Diskuze</li>
