@@ -31,7 +31,12 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
-<h3>Schůze SVJ dne 9.6.2016</h3>
+<h3>Zápis ze Shromáždění SVJ 9.6.2016</h3>
+<p>Zápis ze shromáždění které se konalo 9.6.2016 v Dělnickém domě v Židenicích můžete stáhnout <%= linkDownfile(DownFile.Schuze2016_zapis, "zde") %> nebo na <a href="documents.html?t=k">stránce věnované shromážděni</a>.</p>
+<br/>
+<br/>
+
+<h3>Shromáždění SVJ dne 9.6.2016</h3>
 <p>Ve čtvrtek 9.6.2016 se bude konat schůze SVJ v Dělnickém domě v Židenicích.</p>
 <ul>
 <li>registrace účastníků od 15:00</li>

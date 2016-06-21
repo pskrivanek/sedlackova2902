@@ -1208,6 +1208,8 @@ Kompletní program schůze je v pozvánce, kterou si můžete stáhnout <%= link
         <li><%= linkDownfile(DownFile.Schuze2016_pozvanka, "Pozvánka") %></li>
         <li><a href="#Plna_moc">Informace k plné moci</a></li> 
         <li><a href="#Program">Klíčové body programu</a></li>
+        <br/>
+        <li><%= linkDownfile(DownFile.Schuze2016_zapis, "Zápis ze schůze") %></li> 
     </ul>
 <br/>
 <hr/>

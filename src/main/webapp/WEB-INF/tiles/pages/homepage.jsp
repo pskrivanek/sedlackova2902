@@ -19,6 +19,12 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Zápis ze Shromáždění SVJ 9.6.2016</h4>
+<p>Zápis ze shromáždění které se konalo 9.6.2016 v Dělnickém domě v Židenicích ... <a href="documents.html?t=k">více zde</a></p>
+<br/><br/>
+
+<%--
+
 <h4>Schůze SVJ dne 9.6.2016</h4>
 <p>Ve čtvrtek 9.6.2016 se bude konat schůze SVJ v Dělnickém domě v Židenicích ... <a href="documents.html?t=k">více zde</a></p>
 <br/><br/>
@@ -26,7 +32,6 @@ které nás budou v souvislosti s naším domem zajímat.
 <h4>Vyúčtování - často kladené otázky</h4>
 <p>Vzhledem k často kladeným otázkám k vyúčtování služeb připravila naše správcovská firma, která vyúčtování provádí, na tyto otázky odpovědi ... <a href="documents.html?t=v">více zde</a></p>
 
-<%--
 <h4>Zastavená voda dne 22.4.2016</h4>
 <p>v posledních dnech si lidé z vyšších pater stěžovali na problém s tlakem vody. Jednalo se především o vchody Sedláčkova 12, 14, ... <a href="noticeboard.html">více zde</a></p>
 <br/>
