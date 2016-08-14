@@ -31,6 +31,22 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3>Výměna výtahů v roce 2016</h3>
+<p>jak bylo na <a href="documents.html?t=k">shromáždění SVJ dne 9.6.2016</a> oznámeno a odhlasováno proběhne výměna stávajících výtahů za nové typu <a href="http://www.schindler.com/content/cz/internet/cs/modernizace/vymena-vytahu/schindler-6300.html" target="contractor">Schindler 6300</a>.<br/>
+Tento rok 2016 proběhne výměna 3 výtahů a fa Schindler vybrala tyto:
+<ul>
+<li>říjen 2016 - Sedláčkova 26</li>
+<li>říjen 2016 - Sedláčkova 12</li>
+<li>listopad 2016 - Sedláčkova 14</li>
+</ul>
+</p><br/>
+<p>V těchto vchodech tak bude daný měsíc výtah mimo provoz. <b>Takže Vás prosíme a žádáme aby jste s tímto termínem počítali a přizpůsobili se.</b></p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+
 <h3>Zápis ze Shromáždění SVJ 9.6.2016</h3>
 <p>Zápis ze shromáždění které se konalo 9.6.2016 v Dělnickém domě v Židenicích můžete stáhnout <%= linkDownfile(DownFile.Schuze2016_zapis, "zde") %> nebo na <a href="documents.html?t=k">stránce věnované shromážděni</a>.</p>
 <br/>

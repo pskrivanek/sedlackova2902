@@ -19,11 +19,15 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
-<h4>Zápis ze Shromáždění SVJ 9.6.2016</h4>
-<p>Zápis ze shromáždění které se konalo 9.6.2016 v Dělnickém domě v Židenicích ... <a href="documents.html?t=k">více zde</a></p>
+<h4>Výměna výtahů v roce 2016</h4>
+<p>jak bylo na shromáždění SVJ dne 9.6.2016 oznámeno a odhlasováno proběhne výměna stávajících výtahů za nové typu Schindler 6300 ... <a href="noticeboard.html">více zde</a></p>
 <br/><br/>
 
 <%--
+
+<h4>Zápis ze Shromáždění SVJ 9.6.2016</h4>
+<p>Zápis ze shromáždění které se konalo 9.6.2016 v Dělnickém domě v Židenicích ... <a href="documents.html?t=k">více zde</a></p>
+<br/><br/>
 
 <h4>Schůze SVJ dne 9.6.2016</h4>
 <p>Ve čtvrtek 9.6.2016 se bude konat schůze SVJ v Dělnickém domě v Židenicích ... <a href="documents.html?t=k">více zde</a></p>
