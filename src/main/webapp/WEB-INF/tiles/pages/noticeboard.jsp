@@ -31,6 +31,17 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3>Čištění garážových a sklepních prostor dne 26.8.2016</h3>
+<p>v pátek <b>26.8.2016 od 8:00 do 16:00</b> bude probíhat strojové čištění podlahy celého garážového prostoru a společných sklepních prostor v našem domě.</p>
+<br/>
+<b>Prosíme proto aby jste po dobu čištění uvolnili Vaše garážové stání a chodby sklepních prostor.</b><br/>
+<br/>
+<p>Tzn auto, motorku si daný den zaparkujte mimo garáž a krabice či nábytek co leží na zemi si odnesete do bytu. <b>Předejde tak poškození Vašeho majetku čistícím strojem!.</b></p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3>Výměna výtahů v roce 2016</h3>
 <p>jak bylo na <a href="documents.html?t=k">shromáždění SVJ dne 9.6.2016</a> oznámeno a odhlasováno proběhne výměna stávajících výtahů za nové typu <a href="http://www.schindler.com/content/cz/internet/cs/modernizace/vymena-vytahu/schindler-6300.html" target="contractor">Schindler 6300</a>.<br/>
 Tento rok 2016 proběhne výměna 3 výtahů a fa Schindler vybrala tyto:

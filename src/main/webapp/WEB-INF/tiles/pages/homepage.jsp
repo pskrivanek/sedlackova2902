@@ -19,6 +19,11 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Čištění garážových a sklepních prostor dne 26.8.2016</h4>
+<p>v pátek 26.8.2016 od 8:00 do 16:00 bude probíhat strojové čištění podlahy celého garážového prostoru a společných sklepních prostor v našem domě ... <a href="noticeboard.html">více zde</a></p>
+<br/><br/>
+
+
 <h4>Výměna výtahů v roce 2016</h4>
 <p>jak bylo na shromáždění SVJ dne 9.6.2016 oznámeno a odhlasováno proběhne výměna stávajících výtahů za nové typu Schindler 6300 ... <a href="noticeboard.html">více zde</a></p>
 <br/><br/>

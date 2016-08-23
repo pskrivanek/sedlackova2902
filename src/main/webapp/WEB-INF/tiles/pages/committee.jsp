@@ -46,7 +46,7 @@ if ("c".equals(type)) {
 		<td align="center">Sedláčkova 26</td>
 		<td align="center">A4</td>
 		<td><a href="mailto:a4.sedlackova2902@gmail.com">a4.sedlackova2902@gmail.com</a></td>
-		<td>Petr Vozák</td>
+		<td>Ing. Petr Vozák</td>
 		<td>člen</td>
 	</tr>
 	<tr>
