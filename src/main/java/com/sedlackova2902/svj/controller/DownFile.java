@@ -1,6 +1,8 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	Internet_kabelaz_garaz(515, "garaze-tazeni-kabelaze.png", "386 kB"),
+
 	Schuze2016_zapis(512, "schuze2016/Zapis_shromazdeni_SVJ.pdf", "1.8 MB"),
 	Schuze2016_UPC_Souhlas_vlastnika(511, "schuze2016/UPC_Souhlas_vlastnika.pdf", "334 kB"),
 	Schuze2016_UPC_Poskytovane_sluzby(510, "schuze2016/UPC_Poskytovane_sluzby.pdf", "305 kB"),

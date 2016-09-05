@@ -31,6 +31,37 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3>Doplnění rozvodů kabelové sítě</h3>
+<p>na <a href="documents.html?t=k">shromáždění SVJ dne 9.6.2016</a> bylo odhlasováno doplnění kabelových sítí o další dodavatele internetu a kabelové televize - 
+<a href="http://www.upc.cz/" target="_contractor">UPC</a> a <a href="http://www.netbox.cz/" target="_contractor">NetBox</a>.<br/>
+Instalace sítí bude probíhat tento rok 2016 podle tohoto harmonogramu:
+<ol>
+<li><b>Instalace kabeláže v garáži</b><br/>
+<p>nová kabeláž bude umístěna souběžně se stávající, tzn bude vedena nad některými garážovými stáními. Plánek trasy je <%= linkDownfile(DownFile.Internet_kabelaz_garaz, "zde") %>. <br/>
+<ul>
+<li>31.8.- 2.9. - práce v suterénu v A blocích, vchody Sedláčkova 20, 22, 24, 26</li>
+<li>5.9. &nbsp;- 7.9. - práce v suterénu v B blocích, vchody Sedláčkova 28, 30, 32, 34</li>
+<li>8.9. &nbsp;- 9.9. - práce v suterénu v C blocích, vchody Sedláčkova 18, 16, 14, 12</li>
+</ul>
+<b>Žádáme všechny majitele GS nad kterými bude tažena kabeláž aby přes den v daných termínech zde neparkovali.</b>
+</p><br/>
+</li>
+</li>
+<li><b>Instalace kabeláže ve vchodech</b><br/>
+v období 12.9. - 2.11. bude instalována kabeláž v sádrokartónovém podhledu k jednotlivým bytům.<br/>
+
+<b>Žádáme všechny aby umožnili přivedení kabelu až do bytu.</b> Kdo to neumožní bude mít před bytem v sádrokartónu servisní dvířka. 
+
+</li>
+</ol>
+<br/>
+Přivedením kabelů do bytu se k ničemu nezavazujete naopak je to pro Vás výhoda, která zvyšuje hodnotu bytu a komfort Vašeho bydlení. Budete mít tak větší možnost výběru z poskytovalelů internetu a kabelové televize.
+</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3>Čištění garážových a sklepních prostor dne 26.8.2016</h3>
 <p>v pátek <b>26.8.2016 od 8:00 do 16:00</b> bude probíhat strojové čištění podlahy celého garážového prostoru a společných sklepních prostor v našem domě.</p>
 <br/>
