@@ -160,6 +160,8 @@ Výše měsíčních částek se odvíjí od stanovených pravidelných záloh. 
 </table>
 <br/>
  --%>
+Účetní závěrka za rok 2015:
+    <a href="documents.html?f=<%= DownFile.UcetniZaverka_2015.getFileId() %>" title="<%= DownFile.Schuze_b4.getFileName() %>">zde</a><br/>
 Účetní závěrka za rok 2014:
     <a href="documents.html?f=<%= DownFile.UcetniZaverka_2014.getFileId() %>" title="<%= DownFile.Schuze_b4.getFileName() %>">zde</a><br/>
 Účetní závěrka za rok 2013:
