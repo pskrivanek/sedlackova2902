@@ -23,9 +23,6 @@ které nás budou v souvislosti s naším domem zajímat.
 <p>na shromáždění SVJ dne 9.6.2016 bylo odhlasováno doplnění kabelových sítí o další dodavatele internetu ... <a href="noticeboard.html">více zde</a></p>
 <br/><br/>
 
-<h4>Čištění garážových a sklepních prostor dne 26.8.2016</h4>
-<p>v pátek 26.8.2016 od 8:00 do 16:00 bude probíhat strojové čištění podlahy celého garážového prostoru a společných sklepních prostor v našem domě ... <a href="noticeboard.html">více zde</a></p>
-<br/><br/>
 
 
 <h4>Výměna výtahů v roce 2016</h4>
@@ -33,6 +30,9 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/>
 
 <%--
+<h4>Čištění garážových a sklepních prostor dne 26.8.2016</h4>
+<p>v pátek 26.8.2016 od 8:00 do 16:00 bude probíhat strojové čištění podlahy celého garážového prostoru a společných sklepních prostor v našem domě ... <a href="noticeboard.html">více zde</a></p>
+<br/><br/>
 
 <h4>Zápis ze Shromáždění SVJ 9.6.2016</h4>
 <p>Zápis ze shromáždění které se konalo 9.6.2016 v Dělnickém domě v Židenicích ... <a href="documents.html?t=k">více zde</a></p>

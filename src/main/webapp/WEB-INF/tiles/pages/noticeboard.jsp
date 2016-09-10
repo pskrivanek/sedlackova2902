@@ -48,14 +48,28 @@ Instalace sítí bude probíhat tento rok 2016 podle tohoto harmonogramu:
 </li>
 </li>
 <li><b>Instalace kabeláže ve vchodech</b><br/>
-v období 12.9. - 2.11. bude instalována kabeláž v sádrokartónovém podhledu k jednotlivým bytům.<br/>
-
-<b>Žádáme všechny aby umožnili přivedení kabelu až do bytu.</b> Kdo to neumožní bude mít před bytem v sádrokartónu servisní dvířka. 
-
+v období 12.9. - 2.11. bude instalována kabeláž v sádrokartónovém podhledu k jednotlivým bytům. <br/>
+<ul>
+<li>12.9. &nbsp; - 15.9. - vchod Sedláčkova 26</li>
+<li>16.9. &nbsp; - 20.9. - vchod Sedláčkova 12</li>
+<li>21.9. &nbsp; - 23.9. - vchod Sedláčkova 14</li>
+<li>26.9. &nbsp; - 29.9. - vchod Sedláčkova 16</li>
+<li>30.9. &nbsp; - 4.10. - vchod Sedláčkova 18</li>
+<li>5.10. &nbsp; - 7.10. - vchod Sedláčkova 20</li>
+<li>10.10. - 12.10. - vchod Sedláčkova 22</li>
+<li>13.10. - 17.10. - vchod Sedláčkova 24</li>
+<li>18.10. - 20.10. - vchod Sedláčkova 28</li>
+<li>21.10. - 25.10. - vchod Sedláčkova 30</li>
+<li>26.10. - 28.10. - vchod Sedláčkova 32</li>
+<li>31.10. - 2.11. - vchod Sedláčkova 34</li>
+</ul>
+<p>Protahování kabelů do rozvaděčové skříňky nad Vašimi vstupními dveřmi bude probíhat druhý a třetí den. Pokud nebudete přes den doma, tak Vám kabely budou protažený až odpoledne v době cca mezi 16 - 18 hodinou. Samotné protažení kabelů do jednoho bytu by mělo trvat kolem 10 minut s tím, že se u Vás v bytě nebude nijak zasahovat do zdí. Pro protažení se využije již zabudované stropní průchodky z chodby.<br/>
+<b>Žádáme všechny aby umožnili přivedení kabelů až do bytu.</b>
 </li>
 </ol>
 <br/>
-Přivedením kabelů do bytu se k ničemu nezavazujete naopak je to pro Vás výhoda, která zvyšuje hodnotu bytu a komfort Vašeho bydlení. Budete mít tak větší možnost výběru z poskytovalelů internetu a kabelové televize.
+<b>Přivedením kabelů do bytu se k ničemu nezavazujete naopak je to pro Vás výhoda, která zvyšuje hodnotu bytu a komfort Vašeho bydlení. Budete mít tak větší možnost výběru z poskytovalelů internetu a kabelové televize.</b><br/>
+Pokud se i přesto někdo rozhodne protažení kabelů neumožnit, vzniknou mu v sádrokartonovém podhledu před bytem servisní dvířka.
 </p>
 <br/>
 <i>Výbor SVJ</i><br/>

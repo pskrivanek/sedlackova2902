@@ -1,6 +1,7 @@
 package com.sedlackova2902.svj.common;
 
 import java.io.File;
+import java.nio.file.Files;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.OutputStream;
@@ -13,7 +14,8 @@ public class Utils {
 
 
 	public static void downloadFile(HttpServletResponse response, File file, String fileName) throws Exception {
-		response.setContentType("application/x-download");
+		String contentType = Files.probeContentType(file.toPath());
+		response.setContentType(contentType);
 		response.setHeader("Content-Disposition", "attachment; filename=\"" + fileName + "\";");
 		OutputStream os = null;
 			
