@@ -19,6 +19,11 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Kalibrace měřičů tepla</h4>
+<p>Tento rok je nutné provést ověření a kalibraci měřičů tepla. Ve dnech <b>26.9 - 3.10.2016</b> ... <a href="noticeboard.html">více zde</a></p>
+<br/><br/>
+
+
 <h4>Doplnění rozvodů kabelové sítě</h4>
 <p>na shromáždění SVJ dne 9.6.2016 bylo odhlasováno doplnění kabelových sítí o další dodavatele internetu ... <a href="noticeboard.html">více zde</a></p>
 <br/><br/>

@@ -31,6 +31,29 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3>Kalibrace měřičů tepla</h3>
+<p>Tento rok je nutné provést ověření a kalibraci měřičů tepla. Ve dnech <b>26.9 - 3.10.2016</b> tedy proběhne odmontování měřičů tepla z bytů, následně bude provedena jejich kalibrace a znovu namontování.<br/>
+Termíny odmontování měřičů:
+<ul>
+<li>Sedláčkova 12: &nbsp; <i>dne 26.9.2016 &nbsp; od 9:00 - 13:00 hod</i></li>
+<li>Sedláčkova 14: &nbsp; <i>dne 26.9.2016 &nbsp; od 13:00 - 15:30 hod</i></li>
+<li>Sedláčkova 16: &nbsp; <i>dne 27.9.2016 &nbsp; od 9:00 - 13:00 hod</i></li>
+<li>Sedláčkova 18: &nbsp; <i>dne 27.9.2016 &nbsp; od 9:00 - 13:00 hod</i></li>
+<li>Sedláčkova 20: &nbsp; <i>dne 27.9.2016 &nbsp; od 13:00 - 15:00 hod</i></li>
+<li>Sedláčkova 22: &nbsp; <i>dne 29.9.2016 &nbsp; od 9:00 - 12:00 hod</i></li>
+<li>Sedláčkova 24: &nbsp; <i>dne 29.9.2016 &nbsp; od 9:00 - 12:00 hod</i></li>
+<li>Sedláčkova 28: &nbsp; <i>dne 29.9.2016 &nbsp; od 12:30 - 15:00 hod</i></li>
+<li>Sedláčkova 30: &nbsp; <i>dne 30.9.2016 &nbsp; od 9:00 - 14:00 hod</i></li>
+<li>Sedláčkova 32: &nbsp; <i>dne 30.9.2016 &nbsp; od 9:00 - 14:00 hod</i></li>
+<li>Sedláčkova 34: &nbsp; <i>dne 3.10.2016 &nbsp; od 9:00 - 15:00 hod</i></li>
+</ul>
+<br/>
+Detailní informace o legislatěvě ověřování měřidel jsou dospupné <%= linkDownfile(DownFile.OverovaniMeridelLegislativniRamec, "zde") %>.<br/>
+</p>
+
+<br/>
+<br/>
+
 <h3>Doplnění rozvodů kabelové sítě</h3>
 <p>na <a href="documents.html?t=k">shromáždění SVJ dne 9.6.2016</a> bylo odhlasováno doplnění kabelových sítí o další dodavatele internetu a kabelové televize - 
 <a href="http://www.upc.cz/" target="_contractor">UPC</a> a <a href="http://www.netbox.cz/" target="_contractor">NetBox</a>.<br/>
