@@ -31,9 +31,52 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
-<h3>Kalibrace měřičů tepla</h3>
-<p>Tento rok je nutné provést ověření a kalibraci měřičů tepla. Ve dnech <b>26.9 - 3.10.2016</b> tedy proběhne odmontování měřičů tepla z bytů, následně bude provedena jejich kalibrace a znovu namontování.<br/>
-Termíny odmontování měřičů:
+<h3 id="kabelove_site_aktualizace">Instalace kabeláže ve vchodech   - aktualizace</h3>
+<p>Instalace kabeláže se dostala do skluzu oproti plánovanému harmonogramu. Byly proto provedeny změny práce a termínů:
+<ul>
+<li>do konce září by měly být hotové vchody Sedláčkova č.26, 12 a 14</li>
+<li>zároveň se začne provádět vertikální instalace kabeláže ve všech zbývajících vchodech. Začne se vchodem č.16 a končí se vchodem č 34</li>
+<li>jakmile bude natažena vertikální kabeláž v celém domě začne se po vchodech protahovat do jednotlivých bytů</li>
+<li>protahovaní do bytů se bude provádět 2-3 dny z toho jeden den v odpoledních hodinách</li>
+<li>termíny budou vyvěšeny týden dopředu na vchodových dveřích</li>
+<li>v případě, že někdo nebude doma, může si domluvit individuální termín</li>
+<li>až bude celý vchod "zatahaný" tak se provede zapravení děr</li>
+</ul>
+<br/>
+<b>Aktualizovaný harmonogram pro protahovaná kabeláže do bytů:</b>
+<ul><li>Sedláčkova 12:
+<ul>
+<li>Po. 26.9. od 8:00 - 16:00 hodin</li>
+<li>Út. 27.9. od 12:00 - 20:00 hodin</li>
+<li>St. 28.9. od 8:00 - 16:00 hodin</li>
+</ul>
+</li><br/>
+</li>
+<li>Sedláčkova 14:
+<ul>
+<li>St. 28.9. od 8:00 - 16:00 hodin </li>
+<li>Čt. 29.9. od 12:00 - 20:00 hodin</li>
+<li>Pá. 30.9. od 8:00 - 16:00 hodin</li>
+</ul>
+</li><br/>
+<li>Sedláčkova 16:
+<ul>
+<li>předběžně od pondělí 17.10.</li>
+</ul>
+</li>
+</ul>
+</p>
+<br/>
+<p><i>V případě, že někomu termín nevyhovyje, kontaktujte pana Svobodu, tel: 725 502 823.</i></p>
+<br/>
+<i>Děkujeme za spolupráci</i>
+<br/><br/><br/>
+
+
+<h3 id="kalibrace_mericu">Kalibrace měřičů tepla</h3>
+<p>Tento rok je nutné provést ověření a kalibraci měřičů tepla. Ve dnech <b>26.9 - 3.10.2016</b> tedy proběhne odmontování měřičů tepla z bytů, následně bude provedena jejich kalibrace a znovu namontování ve dnech <b>17.10 - 21.10.2016</b>.<br/>
+Odmontování měřičů bude provádět pověřený pracovník: <i>Tomáš Vyroubal, tel: 420 725 005 738</i>.<br/><br/>
+<b>Termíny odmontování měřičů:</b>
 <ul>
 <li>Sedláčkova 12: &nbsp; <i>dne 26.9.2016 &nbsp; od 9:00 - 13:00 hod</i></li>
 <li>Sedláčkova 14: &nbsp; <i>dne 26.9.2016 &nbsp; od 13:00 - 15:30 hod</i></li>
@@ -46,6 +89,21 @@ Termíny odmontování měřičů:
 <li>Sedláčkova 30: &nbsp; <i>dne 30.9.2016 &nbsp; od 9:00 - 14:00 hod</i></li>
 <li>Sedláčkova 32: &nbsp; <i>dne 30.9.2016 &nbsp; od 9:00 - 14:00 hod</i></li>
 <li>Sedláčkova 34: &nbsp; <i>dne 3.10.2016 &nbsp; od 9:00 - 15:00 hod</i></li>
+</ul>
+<br/>
+<b>Termímy zpětné montáže:</b>
+<ul>
+<li>Sedláčkova 12: &nbsp; <i>dne 17.10.2016 &nbsp; od 9:00 - 13:00 hod</i></li>
+<li>Sedláčkova 14: &nbsp; <i>dne 17.10.2016 &nbsp; od 13:00 - 15:30 hod</i></li>
+<li>Sedláčkova 16: &nbsp; <i>dne 18.10.2016 &nbsp; od 9:00 - 13:00 hod</i></li>
+<li>Sedláčkova 18: &nbsp; <i>dne 18.10.2016 &nbsp; od 9:00 - 13:00 hod</i></li>
+<li>Sedláčkova 20: &nbsp; <i>dne 18.10.2016 &nbsp; od 13:00 - 15:00 hod</i></li>
+<li>Sedláčkova 22: &nbsp; <i>dne 19.10.2016 &nbsp; od 9:00 - 12:00 hod</i></li>
+<li>Sedláčkova 24: &nbsp; <i>dne 19.10.2016 &nbsp; od 9:00 - 12:00 hod</i></li>
+<li>Sedláčkova 28: &nbsp; <i>dne 19.10.2016 &nbsp; od 12:30 - 15:00 hod</i></li>
+<li>Sedláčkova 30: &nbsp; <i>dne 20.10.2016 &nbsp; od 9:00 - 14:00 hod</i></li>
+<li>Sedláčkova 32: &nbsp; <i>dne 20.10.2016 &nbsp; od 9:00 - 14:00 hod</i></li>
+<li>Sedláčkova 34: &nbsp; <i>dne 21.10.2016 &nbsp; od 9:00 - 13:00 hod</i></li>
 </ul>
 <br/>
 Detailní informace o legislatěvě ověřování měřidel jsou dospupné <%= linkDownfile(DownFile.OverovaniMeridelLegislativniRamec, "zde") %>.<br/>
@@ -110,7 +168,7 @@ Pokud se i přesto někdo rozhodne protažení kabelů neumožnit, vzniknou mu v
 <br/>
 <br/>
 
-<h3>Výměna výtahů v roce 2016</h3>
+<h3 id="vytahy_2016">Výměna výtahů v roce 2016</h3>
 <p>jak bylo na <a href="documents.html?t=k">shromáždění SVJ dne 9.6.2016</a> oznámeno a odhlasováno proběhne výměna stávajících výtahů za nové typu <a href="http://www.schindler.com/content/cz/internet/cs/modernizace/vymena-vytahu/schindler-6300.html" target="contractor">Schindler 6300</a>.<br/>
 Tento rok 2016 proběhne výměna 3 výtahů a fa Schindler vybrala tyto:
 <ul>
