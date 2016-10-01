@@ -31,11 +31,55 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="vytahy_2016_aktualizace">Výměna výtahů v roce 2016 - aktualizace</h3>
+<p>Do konce roku 2016 proběhne výměna výtahů ve vchodech Sedláčkova č.26, 12 a 14.<br/>
+Výměna začne <b>v pondělí 31.10.2016</b> odstavením starých výtahů a nové výtahy budou zprovozněny na konci 47. týdne a začátkem 48. týdne - podle montážních zkoušek.<br/>
+<br/>
+Zde je harmonogram výměny:
+<ul>
+<li><b>Týden 44/2016</b> (31.10. - 6.11.)
+	<ul>
+	<li>31.10.2016 - zahájení demontáže stávajících výtahů Muhlbacher</li>
+	<li>odvoz náhradních dílů do skladu Schindler</li>
+	<li>konec týdne 44/2016 - 1. závoz materiálu (vodítka+šachetní materiál)</li>
+	<li>zahájení montáže</li>
+	</ul>
+</li><br/>
+<li><b>Týden 45/2016</b> (7.11. - 13.11.)
+	<ul>
+	<li>pokračování montáže</li>
+	<li>konec týdne 45/2016 - 2. závoz materiálu</li>
+	</ul>
+</li><br/>
+<li><b>Týden 46/2016</b> (14.11. - 20.11.)
+	<ul>
+	<li>pokračování montáže, stavební práce (příprava otvorů pro přivolávače+ukazatele)</li>
+	<li>příprava na montážní zkoušky</li>
+	</ul>
+</li><br/>
+<li><b>Týden 47/2016</b> (21.11. - 27.11.)
+	<ul>
+	<li>dokončení montáže, stavební práce (začištění dveří, navázání podlah na šach.dveře, malování...)</li>
+	<li>příprava na montážní zkoušky</li>
+	<li>montážní zkoušky</li>
+	</ul>
+</li><br/>
+<li><b>Týden 48/2016</b> (28.11. - 4.12.)
+	<ul>
+	<li>montážní zkoušky</li>
+	<li>předání výtahů</li>
+	</ul>
+</li><br/>
+</ul>
+<i>Převzato od fa Schindler</i>
+</p>
+<br/><br/>
+
 <h3 id="kabelove_site_aktualizace">Instalace kabeláže ve vchodech   - aktualizace</h3>
 <p>Instalace kabeláže se dostala do skluzu oproti plánovanému harmonogramu. Byly proto provedeny změny práce a termínů:
 <ul>
 <li>do konce září by měly být hotové vchody Sedláčkova č.26, 12 a 14</li>
-<li>zároveň se začne provádět vertikální instalace kabeláže ve všech zbývajících vchodech. Začne se vchodem č.16 a končí se vchodem č 34</li>
+<li>zároveň se začne provádět vertikální instalace kabeláže ve všech zbývajících vchodech. Začne se bloky C, pak B a A</li>
 <li>jakmile bude natažena vertikální kabeláž v celém domě začne se po vchodech protahovat do jednotlivých bytů</li>
 <li>protahovaní do bytů se bude provádět 2-3 dny z toho jeden den v odpoledních hodinách</li>
 <li>termíny budou vyvěšeny týden dopředu na vchodových dveřích</li>
@@ -75,7 +119,7 @@ if (StringUtils.isEmpty(archive)) {
 
 <h3 id="kalibrace_mericu">Kalibrace měřičů tepla</h3>
 <p>Tento rok je nutné provést ověření a kalibraci měřičů tepla. Ve dnech <b>26.9 - 3.10.2016</b> tedy proběhne odmontování měřičů tepla z bytů, následně bude provedena jejich kalibrace a znovu namontování ve dnech <b>17.10 - 21.10.2016</b>.<br/>
-Odmontování měřičů bude provádět pověřený pracovník: <i>Tomáš Vyroubal, tel: 420 725 005 738</i>.<br/><br/>
+Odmontování měřičů bude provádět pověřený pracovník: <i>Tomáš Vyroubal, tel: 420 725 005 378</i>.<br/><br/>
 <b>Termíny odmontování měřičů:</b>
 <ul>
 <li>Sedláčkova 12: &nbsp; <i>dne 26.9.2016 &nbsp; od 9:00 - 13:00 hod</i></li>
