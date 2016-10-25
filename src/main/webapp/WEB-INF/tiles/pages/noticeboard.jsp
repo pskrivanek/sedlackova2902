@@ -31,6 +31,44 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="kabelove_site_2aktualizace">Instalace kabeláže ve vchodech - 2.aktualizace</h3>
+<p>instalace kabelů se dostala do další fáze a nyní bude probíhat <i>"zatahování"</i> kabelů do jednotlivých bytů. Dopředu se připravuje nebo již jsou připravené servisní otvory pro snadné a rychlé protažení kabelů do bytů.<br/>
+<br/>
+Zde jsou termíny po jednotlivých vchodech:
+<ul>
+<li><b>Sedláčkova 16</b> (C2):
+<ul><li>Po. 31.10. od 8-16 hodin</li><li>Út. &nbsp;1.11. od 12-19 hodin</li></ul>
+</li><br/>
+<li><b>Sedláčkova 18</b> (C1):
+<ul><li>Út. 1.11. od 12-19 hodin</li><li>St. 2.11. od &nbsp; 8-16 hodin</li></ul>
+</li><br/>
+<li><b>Sedláčkova 20</b> (A1):
+<ul><li>St. 2.11. od &nbsp; 8-16 hodin</li><li>Čt. 3.11. od 12-19 hodin</li></ul>
+</li><br/>
+<li><b>Sedláčkova 22</b> (A2):
+<ul><li>Čt. &nbsp;3.11. od 12-19 hodin</li><li>Pá. 4.11. od &nbsp; 8-16 hodin</li></ul>
+</li><br/>
+<li><b>Sedláčkova 24</b> (A3):
+<ul><li>Po. 7.11. od &nbsp; 8-16 hodin</li><li>Út. &nbsp;8.11. od 12-19 hodin</li></ul>
+</li><br/>
+<li><b>Sedláčkova 28</b> (B1):
+<ul><li>Út. 8.11. od 12-19 hodin</li><li>St. 9.11. od &nbsp; 8-16 hodin</li></ul>
+</li><br/>
+<li><b>Sedláčkova 30</b> (B2):
+<ul><li>St. &nbsp; 9.11. od &nbsp; 8-16 hodin</li><li>Čt. 10.11. od 12-19 hodin</li></ul>
+</li><br/>
+<li><b>Sedláčkova 32</b> (B3):
+<ul><li>Čt. 10.11. od 12-19 hodin</li><li>Pá. 11.11. od &nbsp; 8-16 hodin</li></ul>
+</li><br/>
+<li><b>Sedláčkova 34</b> (B4):
+<ul><li>Po. 14.11. od 8-16 hodin</li><li>Út. 15.11. od 12-19 hodin</li></ul>
+</li><br/>
+</ul>
+v případě, že někdo termín nestihne, je na vývěsce v každém vchodu uvedena kontaktní osoba.<br/>
+<br/>
+<i>Děkujeme za spolupráci</i>
+<br/><br/><br/>
+
 <h3 id="vytahy_2016_aktualizace">Výměna výtahů v roce 2016 - aktualizace</h3>
 <p>Do konce roku 2016 proběhne výměna výtahů ve vchodech Sedláčkova č.26, 12 a 14.<br/>
 Výměna začne <b>v pondělí 31.10.2016</b> odstavením starých výtahů a nové výtahy budou zprovozněny na konci 47. týdne a začátkem 48. týdne - podle montážních zkoušek.<br/>

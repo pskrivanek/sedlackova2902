@@ -19,21 +19,27 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Doplnění rozvodů kabelové sítě - <span style="color: red">2. aktualizace</span></h4>
+<p>instalace kabelů se dostala do další fáze a nyní bude probíhat "zatahování" kabelů do jednotlivých bytů. ... <a href="noticeboard.html#kabelove_site_2aktualizace">více zde</a></p>
+<br/><br/>
+
+
 <h4>Výměna výtahů v roce 2016 - <span style="color: red">aktualizace</span></h4>
 <p>jak bylo na shromáždění SVJ dne 9.6.2016 oznámeno a odhlasováno proběhne výměna stávajících výtahů za nové typu Schindler 6300 ... <a href="noticeboard.html#vytahy_2016_aktualizace">více zde</a></p>
 <br/><br/>
 
-<h4>Doplnění rozvodů kabelové sítě - <span style="color: red">aktualizace</span></h4>
+<h4>Doplnění rozvodů kabelové sítě - aktualizace</h4>
 <p>na shromáždění SVJ dne 9.6.2016 bylo odhlasováno doplnění kabelových sítí o další dodavatele internetu ... <a href="noticeboard.html#kabelove_site_aktualizace">více zde</a></p>
 <br/><br/>
 
+<%--
 <h4>Kalibrace měřičů tepla</h4>
 <p>Tento rok je nutné provést ověření a kalibraci měřičů tepla. Ve dnech <b>26.9 - 3.10.2016</b> ... <a href="noticeboard.html#kalibrace_mericu">více zde</a></p>
 <br/><br/>
 
 
 
-<%--
+
 <h4>Čištění garážových a sklepních prostor dne 26.8.2016</h4>
 <p>v pátek 26.8.2016 od 8:00 do 16:00 bude probíhat strojové čištění podlahy celého garážového prostoru a společných sklepních prostor v našem domě ... <a href="noticeboard.html">více zde</a></p>
 <br/><br/>
