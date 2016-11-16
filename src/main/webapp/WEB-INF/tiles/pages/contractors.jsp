@@ -127,6 +127,42 @@ Na základě těchto zkušeností pak vedeme s dodavateli příslušná jednán�
 		<td></td>
 	</tr>
 </table>
+<br/><br/>
+<h3>Internet a televize:</h3>
+<p>v bytě máte dvě internetové přípojky <a href="http://o2.adsl.cz" target="contractor">O2</a> a <a href="http://www.poda.cz" target="contractor">Poda</a> a od konce roku 2016, ti kteří měli zájem, také přípojky od <a href="http://www.netbox.cz" target="contractor">NetBoxu</a> a <a href="https://www.upc.cz" target="contractor">UPC</a>.<br/>
+Stačí si vybrat daného poskytovale, uzavřít s ním smlouvu. Následně pak Váš kabel zacvaknou do switche v elektrorozvodně našeho domu a internet/tv máte funkční.</p>
+<br/>
+<table class="oam_table">
+<thead>
+	<tr>
+		<th>Dodavatel</th>
+		<th>Tel. kontakt</th>
+		<th></th>
+	</tr>
+</thead>
+	<tr>
+		<td><a href="http://o2.adsl.cz" target="contractor">O2</a></td>
+		<td>+420 800 269 269</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><a href="http://www.poda.cz" target="contractor">Poda</a></td>
+		<td>+420 730 430 017</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><a href="http://www.netbox.cz" target="contractor">NetBox</a></td>
+		<td>+420 734 360 863</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><a href="https://www.upc.cz" target="contractor">UPC</a></td>
+		<td>+420 725 815 814</td>
+		<td></td>
+	</tr>
+</table><br/>
+<p>Pro rozvod internetu po bytě je ideální si koupit/pronajmout nějaký wi-fi router, který umístíte do rozvodné krabice nad dveřmi bytu. Do krabice jsou dovedeny UTP kabely z pokojů a přípojky od operátorů. Propojením přes router pak máte internet/televizi v každém pokoji a wi-fi signál v celém bytě.
+</p>
 <%	}
 	if ("p".equals(type)) {
 %>
