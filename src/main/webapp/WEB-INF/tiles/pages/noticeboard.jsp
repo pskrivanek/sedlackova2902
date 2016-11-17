@@ -31,6 +31,24 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="pristupovy_system_c3">Přístupový systém v C3</h3>
+<p>Ve vchodě Sedláčkova 14 (blok C3) byl na zkoušku spuštěn nový přístupový systém na bezkontaktní karty a čipy. Vchodové dveře můžete otevřít klíčem nebo přes zaregistrovanou kartu/čip. Nový způsob časem nahradí problematiké klíče u kterých dochází k mechanickým problémům - zalomené klíče, poničené zámky a kování.</p><br/>
+<p>
+Je možné využít kompatibilní karty a čipy, které již využíváte v práci nebo škole. Kompatibilitu zjistíte tak, že přiložíte Vaši kartu nebo čip ke snímači u vchodových dveří a snímač zareaguje zvukovým signálem. V případě ztráty se dá karta/čip okamžitě zablokovat a vydat nový. Je tak zajištna větší bezpečnost.
+</p><br/>
+Kontakt na registraci nebo výdaní nových čipů:
+<ul>
+<li>Michal Masařík, <a href="mailto:mmasarik@email.cz">mmasarik@email.cz</a>, tel: +420 604 291 207</li>
+<li>Sedláčkova 14, byt v přizemí za výtahem, každý den v době 17:00-19:30</li>
+<li>Cena za 1 čip je 50,- Kč a vydání je během minuty na základě občanského průkazu.</li>
+<li>reklamní leták je <%= linkDownfile(DownFile.PristupovySystemC3, "zde") %>
+</ul>
+
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/><br/>
+
+
 <h3 id="kabelove_site_2aktualizace">Instalace kabeláže ve vchodech - 2.aktualizace</h3>
 <p>instalace kabelů se dostala do další fáze a nyní bude probíhat <i>"zatahování"</i> kabelů do jednotlivých bytů. Dopředu se připravuje nebo již jsou připravené servisní otvory pro snadné a rychlé protažení kabelů do bytů.<br/>
 <br/>

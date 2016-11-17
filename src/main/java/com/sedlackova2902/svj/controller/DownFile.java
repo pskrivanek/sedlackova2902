@@ -1,6 +1,7 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	PristupovySystemC3(525, "C3_pristup_na_cipy.jpg", "120 kB"),
 	OverovaniMeridelLegislativniRamec(520, "Overovani_meridel-legislativni_ramec.pdf", "328 kB"),
 	Internet_kabelaz_garaz(515, "garaze-tazeni-kabelaze.png", "386 kB"),
 
