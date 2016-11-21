@@ -19,13 +19,12 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
-<h4>Přístupový systém v C3</h4>
-<p>Ve vchodě Sedláčkova 14 (blok C3) byl na zkoušku spuštěn nový přístupový systém na bezkontaktní karty a čipy. ... <a href="noticeboard.html#pristupovy_system_c3">více zde</a></p>
+<h4>Doplnění rozvodů kabelové sítě - <span style="color: red">3. aktualizace</span></h4>
+<p>instalace kabeláže od nových providerů UPC a NetBox se chýlí ke konci. Zbývá doinstalovat kabeláž do cca 30 bytů v celém domě. ... <a href="noticeboard.html#kabelove_site_3aktualizace">více zde</a></p></p>
 <br/><br/>
 
-
-<h4>Doplnění rozvodů kabelové sítě - <span style="color: red">2. aktualizace</span></h4>
-<p>instalace kabelů se dostala do další fáze a nyní bude probíhat "zatahování" kabelů do jednotlivých bytů. ... <a href="noticeboard.html#kabelove_site_2aktualizace">více zde</a></p>
+<h4>Přístupový systém v C3</h4>
+<p>Ve vchodě Sedláčkova 14 (blok C3) byl na zkoušku spuštěn nový přístupový systém na bezkontaktní karty a čipy. ... <a href="noticeboard.html#pristupovy_system_c3">více zde</a></p>
 <br/><br/>
 
 
@@ -34,6 +33,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/>
 
 <%--
+<h4>Doplnění rozvodů kabelové sítě - <span style="color: red">2. aktualizace</span></h4>
+<p>instalace kabelů se dostala do další fáze a nyní bude probíhat "zatahování" kabelů do jednotlivých bytů. ... <a href="noticeboard.html#kabelove_site_2aktualizace">více zde</a></p>
+<br/><br/>
+
 
 <h4>Doplnění rozvodů kabelové sítě - aktualizace</h4>
 <p>na shromáždění SVJ dne 9.6.2016 bylo odhlasováno doplnění kabelových sítí o další dodavatele internetu ... <a href="noticeboard.html#kabelove_site_aktualizace">více zde</a></p>

@@ -31,6 +31,17 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="kabelove_site_3aktualizace">Instalace kabeláže ve vchodech - 3.aktualizace</h3>
+<p>instalace kabeláže od nových providerů UPC a NetBox se chýlí ke konci. Zbývá doinstalovat kabeláž do cca 30 bytů v celém domě.<br/>
+Pokud jste majiteli bytu, který nemá přivedeny tyto nové kabely, prosím aby jste se co nejdříve ozvali na telefonní číslo <b>+420 607 134 090</b>, nejpozději <b>do pátku 25.11.2016 do 12 hodin</b>. Po tomto termínu budou všechny díry v sádrokartónu zpět zapraveny do původního stavu, bez servisních dvířek. Je zbytečné hyzdit chodby servisními dvířky, které se nikdy nepoužijí.</p><br/>
+<p><b>Přivedením kabelů do bytu se k ničemu nezavazujete naopak je to pro Vás výhoda, která zvyšuje hodnotu bytu a komfort Vašeho bydlení. Budete mít větší možnost výběru z poskytovalelů internetu a kabelové televize.</b> Ve schránkách se již objevily letáčky s akčními slevami nebo provozem zdarma na 1/2 roku.</p></br>
+<p>Protažení kabelů z chodby do bytu zabere cca 10 minut. Kabely se protáhout přes již existující průchodku do rozvodné krabice nad dveře. Nemusíte se tak bát, že by u Vás v bytě vrtali nebo sekali. 
+</p><br/>
+<p>Pokud se někdo z těchto 30 bytů po termínu rozhodne, že využije služeb UPC nebo NetBox, tak všechny náklady spojené s přivedení přípojky/kabelu do bytu, tzn. veškeré sádrokartonářské a malířské práce, si majitelé budou hradit ze svého.</p><br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3 id="pristupovy_system_c3">Přístupový systém v C3</h3>
 <p>Ve vchodě Sedláčkova 14 (blok C3) byl na zkoušku spuštěn nový přístupový systém na bezkontaktní karty a čipy. Vchodové dveře můžete otevřít klíčem nebo přes zaregistrovanou kartu/čip. Nový způsob časem nahradí problematiké klíče u kterých dochází k mechanickým problémům - zalomené klíče, poničené zámky a kování.</p><br/>
 <p>
