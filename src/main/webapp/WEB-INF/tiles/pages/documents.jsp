@@ -102,6 +102,28 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
     }
     if ("e".equals(type)) {
 %>
+<h3>Zápisy ze shromáždění SVJ</h3>
+<p></p>
+<br/>
+<ul>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2016_zapis, "2016_06_09_Zapis_shromazdeni_SVJ.pdf") %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2015_zapis, "2015_06_02_Zapis_shromazdeni_SVJ.pdf") %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2014_zapis, "2014_06_25_Zapis_shromazdeni_SVJ.pdf") %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2013_zapis, "2013_09_25_Zapis_shromazdeni_SVJ.pdf") %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.MimoradneSchuze2013_zapis, "2013_03_20_Zapis_mimoradne_shromazdeni_SVJ.pdf") %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2012_zapis, "2012_06_11_Zapis_shromazdeni_SVJ.pdf") %>, <%= linkDownfile(DownFile.Schuze2012_notarskyZapis, "2012_06_11_Shromazdeni_SVJ_notarsky_zapis.pdf") %></li>
+<%--
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Stanovy_SVJ, "Aktuální stanovy SVJ") %></li>
+ --%>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.SHROMAZDENI_3) %>, <%= linkDownfile(DownFile.SHROMAZDENI_3_NotarskyZapis) %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.SHROMAZDENI_2) %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; 2010_02_11_Schuze_shromazdeni_SVJ_1:  
+        <%= linkDownfile(DownFile.SHROMAZDENI_1a, "část a") %>, <%= linkDownfile(DownFile.SHROMAZDENI_1b, "část b") %>, 
+        <%= linkDownfile(DownFile.SHROMAZDENI_1c, "část c") %>, <%= linkDownfile(DownFile.SHROMAZDENI_1d, "část d") %> 
+    </li>
+</ul>
+<br/>
+<br/>
 
 <h3>Zápisy ze schůzí výboru</h3>
 <p>Zde můžete nahlédnout co a kdy se projednávalo na schůzi, kdo byl čím pověřen a kdo a co zařídil</p>
@@ -150,28 +172,7 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
         <%= linkDownfile(DownFile.Zapis_KK_20120124_a, "část a") %>, <%= linkDownfile(DownFile.Zapis_KK_20120124_b, "část b") %> 
     </li>
 </ul>
-<br/>
-<br/>
 
-<h3>Zápisy ze shromáždění SVJ</h3>
-<p></p>
-<br/>
-<ul>
-    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2015_zapis, "2015_06_02_Zapis_schuze_SVJ.pdf") %></li>
-    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2014_zapis, "2014_06_25_Zapis_schuze_SVJ.pdf") %></li>
-    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2013_zapis, "2013_09_25_Zapis_schuze_SVJ.pdf") %></li>
-    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.MimoradneSchuze2013_zapis, "2013_03_20_Zapis_mimoradne_schuze_SVJ.pdf") %></li>
-    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2012_zapis) %>, <%= linkDownfile(DownFile.Schuze2012_notarskyZapis) %></li>
-<%--
-    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Stanovy_SVJ, "Aktuální stanovy SVJ") %></li>
- --%>
-    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.SHROMAZDENI_3) %>, <%= linkDownfile(DownFile.SHROMAZDENI_3_NotarskyZapis) %></li>
-    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.SHROMAZDENI_2) %></li>
-    <li><img src="img/icons/pdf.gif"/> &nbsp; 2010_02_11_Schuze_shromazdeni_SVJ_1:  
-        <%= linkDownfile(DownFile.SHROMAZDENI_1a, "část a") %>, <%= linkDownfile(DownFile.SHROMAZDENI_1b, "část b") %>, 
-        <%= linkDownfile(DownFile.SHROMAZDENI_1c, "část c") %>, <%= linkDownfile(DownFile.SHROMAZDENI_1d, "část d") %> 
-    </li>
-</ul>
 <% }
     if ("c".equals(type)) {
 %>
