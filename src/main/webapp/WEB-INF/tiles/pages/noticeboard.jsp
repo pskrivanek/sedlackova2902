@@ -22,7 +22,7 @@ String archive = (String) request.getAttribute("a");
 if (!StringUtils.isEmpty(archive)) {
 %>
 <div class="archive">
- Archív zpráv z roku <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
+ Archív zpráv z roku <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
 </div>
 <br/>
 <hr/>
@@ -53,8 +53,6 @@ Souhrný seznam je možné stáhnout <%= linkDownfile(DownFile.OdectyMericu2017,
 <br/>
 <br/>
 
-
-
 <h3 id="vymena_vytahu_2017">Výměna výtahů v roce 2017</h3>
 <p>V roce 2017 bude proveda výměna zbývajících výtahů v našem domě.<br/> 
 Zde je harmonogram <b>začátku výměny</b> výtahu:</p>
@@ -73,6 +71,15 @@ Zde je harmonogram <b>začátku výměny</b> výtahu:</p>
 <p>Předpokládaná délka realizace jednoho výtahu je 4 týdny.</p>
 <br/>
 <br/>
+
+<div class="archive">
+ Archív zpráv z roku <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
+</div>
+
+<%
+}
+if ("2016".equals(archive)) {
+%>
 
 <h3 id="kabelove_site_3aktualizace">Instalace kabeláže ve vchodech - 3.aktualizace</h3>
 <p>instalace kabeláže od nových providerů UPC a NetBox se chýlí ke konci. Zbývá doinstalovat kabeláž do cca 30 bytů v celém domě.<br/>
@@ -421,10 +428,6 @@ Návrh Nesouhlasu, v editovatelné formě, najdete <%= linkDownfile(DownFile.Poz
 <i>Výbor SVJ</i><br/>
 <br/>
 <br/>
-<div class="archive">
- Archív zpráv z roku <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
-</div>
-
 <%
 }
 if ("2015".equals(archive)) {
