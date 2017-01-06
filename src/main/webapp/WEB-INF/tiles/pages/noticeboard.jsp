@@ -31,6 +31,49 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="odecty_bytovych_mericu_2017">Odečty bytových měřičů leden 2017</h3>
+<p>v termímu od 7.1.2017 do 21.1.2017 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě.</p><br/>
+Zde jsou termíny odečtu po jednotlivých vchodech. Čas je orientační.</p>
+<ul>
+    <li>Sedláčkova 12: &nbsp; <i>Dne 7.1.2017 &nbsp; v 9:00 - 11:30 hod</i></li>
+    <li>Sedláčkova 14: &nbsp; <i>Dne 7.1.2017 &nbsp; v 11:30 - 12:30 hod</i></li>
+    <li>Sedláčkova 16: &nbsp; <i>Dne 7.1.2017 &nbsp; v 12:30 - 13:45 hod</i></li>
+    <li>Sedláčkova 18: &nbsp; <i>Dne 7.1.2017 &nbsp; v 13:45 - 15:00 hod</i></li>
+    <li>Sedláčkova 20: &nbsp; <i>Dne 11.1.2017 &nbsp; v 15:00 - 16:15 hod</i></li>
+    <li>Sedláčkova 22: &nbsp; <i>Dne 11.1.2017 &nbsp; v 16:15 - 17:30 hod</i></li>
+    <li>Sedláčkova 24: &nbsp; <i>Dne 11.1.2017 &nbsp; v 17:30 - 18:45 hod</i></li>
+    <li>Sedláčkova 26: &nbsp; <i>Dne 11.1.2017 &nbsp; v 18:45 - 20:00 hod</i></li>
+    <li>Sedláčkova 28: &nbsp; <i>Dne 18.1.2017 &nbsp; v 15:00 - 16:15 hod</i></li>
+    <li>Sedláčkova 30: &nbsp; <i>Dne 18.1.2017 &nbsp; v 16:15 - 17:30 hod</i></li>
+    <li>Sedláčkova 32: &nbsp; <i>Dne 18.1.2017 &nbsp; v 17:30 - 18:45 hod</i></li>
+    <li>Sedláčkova 34: &nbsp; <i>Dne 21.1.2017 &nbsp; v 9:00 - 11:00 hod</i></li>
+</ul>
+Souhrný seznam je možné stáhnout <%= linkDownfile(DownFile.OdectyMericu2017, "zde") %><br/><br/>
+<p>Pokud nebudete v uvedenou dobu přítomni, můžete stavy a výrobní čísla měřičů tepla a vodoměrů zaslat e-mailem na adresu <a href="mailto:odecty@thera.cz">odecty@thera.cz</a>.</p>
+<br/>
+<br/>
+
+
+
+<h3 id="vymena_vytahu_2017">Výměna výtahů v roce 2017</h3>
+<p>V roce 2017 bude proveda výměna zbývajících výtahů v našem domě.<br/> 
+Zde je harmonogram <b>začátku výměny</b> výtahu:</p>
+<ul>
+<li>Sedláčkova 20: &nbsp; <i>od 9.1.2017</i></li>
+<li>Sedláčkova 16: &nbsp; <i>od 1.2.2017</i></li>
+<li>Sedláčkova 22: &nbsp; <i>od 1.3.2017</i></li>
+<li>Sedláčkova 18: &nbsp; <i>od 3.4.2017</i></li>
+<li>Sedláčkova 24: &nbsp; <i>od 2.5.2017</i></li>
+<li>Sedláčkova 28: &nbsp; <i>od 1.6.2017</i></li>
+<li>Sedláčkova 30: &nbsp; <i>od 3.7.2017</i></li>
+<li>Sedláčkova 32: &nbsp; <i>od 1.8.2017</i></li>
+<li>Sedláčkova 34: &nbsp; <i>od 4.9.2017</i></li>
+</ul>
+<br/>
+<p>Předpokládaná délka realizace jednoho výtahu je 4 týdny.</p>
+<br/>
+<br/>
+
 <h3 id="kabelove_site_3aktualizace">Instalace kabeláže ve vchodech - 3.aktualizace</h3>
 <p>instalace kabeláže od nových providerů UPC a NetBox se chýlí ke konci. Zbývá doinstalovat kabeláž do cca 30 bytů v celém domě.<br/>
 Pokud jste majiteli bytu, který nemá přivedeny tyto nové kabely, prosím aby jste se co nejdříve ozvali na telefonní číslo <b>+420 607 134 090</b>, nejpozději <b>do pátku 25.11.2016 do 12 hodin</b>. Po tomto termínu budou všechny díry v sádrokartónu zpět zapraveny do původního stavu, bez servisních dvířek. Je zbytečné hyzdit chodby servisními dvířky, které se nikdy nepoužijí.</p><br/>

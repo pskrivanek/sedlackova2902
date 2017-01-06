@@ -19,6 +19,16 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Odečty bytových měřičů leden 2017</h4>
+<p>v termímu od 7.1.2017 do 21.1.2017 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů ... 
+<a href="noticeboard.html#odecty_bytovych_mericu_2017">více zde</a><p>
+<br/><br/>
+
+<h4>Výměna výtahů v roce 2017</h4>
+<p>V roce 2017 bude proveda výměna zbývajících výtahů v našem domě. ... <a href="noticeboard.html#vymena_vytahu_2017">více zde</a></p>
+<br/><br/>
+
+<%--
 <h4>Doplnění rozvodů kabelové sítě - <span style="color: red">3. aktualizace</span></h4>
 <p>instalace kabeláže od nových providerů UPC a NetBox se chýlí ke konci. Zbývá doinstalovat kabeláž do cca 30 bytů v celém domě. ... <a href="noticeboard.html#kabelove_site_3aktualizace">více zde</a></p></p>
 <br/><br/>
@@ -32,7 +42,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <p>jak bylo na shromáždění SVJ dne 9.6.2016 oznámeno a odhlasováno proběhne výměna stávajících výtahů za nové typu Schindler 6300 ... <a href="noticeboard.html#vytahy_2016_aktualizace">více zde</a></p>
 <br/><br/>
 
-<%--
+
 <h4>Doplnění rozvodů kabelové sítě - <span style="color: red">2. aktualizace</span></h4>
 <p>instalace kabelů se dostala do další fáze a nyní bude probíhat "zatahování" kabelů do jednotlivých bytů. ... <a href="noticeboard.html#kabelove_site_2aktualizace">více zde</a></p>
 <br/><br/>
