@@ -31,6 +31,23 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="aktualizace_vymeny_vytahu_2017">Aktualizace výměny výtahů v roce 2017</h3>
+<p>Zde je aktualizovaný harmonogram <b>začátku výměny</b> zbylých výtahu v roce 2017:</p>
+<ul>
+<li><b>Sedláčkova 22</b>: &nbsp; <i>od <b>27.2.2017</b></i></li>
+<li>Sedláčkova 18: &nbsp; &nbsp;<i>od 3.4.2017</i></li>
+<li>Sedláčkova 24: &nbsp; &nbsp;<i>od 2.5.2017</i></li>
+<li><b>Sedláčkova 28</b>: &nbsp; <i>od <b>29.5.2017</b></i></li>
+<li><b>Sedláčkova 30</b>: &nbsp; <i>od <b>10.7.2017</b></i></li>
+<li>Sedláčkova 32: &nbsp; &nbsp;<i>od 1.8.2017</i></li>
+<li>Sedláčkova 34: &nbsp; &nbsp;<i>od 4.9.2017</i></li>
+</ul>
+<br/>
+<p>Předpokládaná délka realizace jednoho výtahu je 4 týdny.</p>
+<br/>
+<br/>
+
+
 <h3 id="odecty_bytovych_mericu_2017">Odečty bytových měřičů leden 2017</h3>
 <p>v termímu od 7.1.2017 do 21.1.2017 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě.</p><br/>
 Zde jsou termíny odečtu po jednotlivých vchodech. Čas je orientační.</p>
