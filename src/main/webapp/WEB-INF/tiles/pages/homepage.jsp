@@ -19,6 +19,11 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Instalace kamerového systému</h4>
+<p>Dne 27.2.2017 začaly práce na instalaci kamerového systému na základě registrace u ÚOOÚ. ... <a href="noticeboard.html#instalace_kameroveho_systemu">více zde</a></p>
+<br/><br/>
+
+
 <h4>Aktualizace výměny výtahů v roce 2017</h4>
 <p>aktualizovaný harmonogram začátku výměny zbylých výtahu v roce 2017 je
 <a href="noticeboard.html#aktualizace_vymeny_vytahu_2017">zde</a><p>

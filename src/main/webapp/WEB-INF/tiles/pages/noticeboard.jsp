@@ -31,6 +31,21 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="instalace_kameroveho_systemu">Instalace kamerového systému</h3>
+<p>Dne 27.2.2017 začaly práce na instalaci kamerového systému na základě registrace u ÚOOÚ. Instalace by měla být dokončena do 6 týdnů.<br/><br/>
+S instalací kamerového systému budou zároveň provedeny přípravné práce pro instalaci:
+<ul>
+<li> kamer do výtahů</li>
+<li> přístupový systém na bezkontaktní karty a čipy</li>
+</ul>
+<br/>
+V obou případech se jedná o natažení kabeláže tak aby se již nemuselo zasahovat do sádrokartónových podhledů.
+</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3 id="aktualizace_vymeny_vytahu_2017">Aktualizace výměny výtahů v roce 2017</h3>
 <p>Zde je aktualizovaný harmonogram <b>začátku výměny</b> zbylých výtahu v roce 2017:</p>
 <ul>
