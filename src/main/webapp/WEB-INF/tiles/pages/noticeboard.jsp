@@ -31,6 +31,16 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="odstavka_vody_2017">Odstávka vody 22.3.2017 od 10 hodin</h3>
+<p>ve středu 22. března 2017 proběhnou servisní práce na tlakově-regulačním ventilu přívodu vody do domu Sedláčkova 2902.<br/>
+Na základě uvedeného bude odstávka vody, a to <b>22.3.2017 od 10:00 do cca 12:00</b> hodin<br/> 
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+
+
 <h3 id="instalace_kameroveho_systemu">Instalace kamerového systému</h3>
 <p>Dne 27.2.2017 začaly práce na instalaci kamerového systému na základě registrace u ÚOOÚ. Instalace by měla být dokončena do 6 týdnů.<br/><br/>
 S instalací kamerového systému budou zároveň provedeny přípravné práce pro instalaci:

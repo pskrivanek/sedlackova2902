@@ -19,6 +19,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Odstávka vody 22.3.2017 od 10 hodin</h4>
+<p>ve středu 22. března 2017 proběhnou servisní práce na tlakově-regulačním ventilu přívodu vody ... <a href="noticeboard.html#odstavka_vody_2017">více zde</a></p>
+<br/><br/>
+
 <h4>Instalace kamerového systému</h4>
 <p>Dne 27.2.2017 začaly práce na instalaci kamerového systému na základě registrace u ÚOOÚ. ... <a href="noticeboard.html#instalace_kameroveho_systemu">více zde</a></p>
 <br/><br/>
