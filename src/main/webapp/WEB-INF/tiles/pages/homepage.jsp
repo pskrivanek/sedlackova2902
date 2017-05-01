@@ -19,6 +19,12 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Shromáždění SVJ v úterý 6.6.2017</h4>
+<p>v úterý 6.6.2017 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=i">více zde</a></p>
+<br/>
+<br/>
+
+<%--
 <h4>Odstávka vody 22.3.2017 od 10 hodin</h4>
 <p>ve středu 22. března 2017 proběhnou servisní práce na tlakově-regulačním ventilu přívodu vody ... <a href="noticeboard.html#odstavka_vody_2017">více zde</a></p>
 <br/><br/>
@@ -33,7 +39,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <a href="noticeboard.html#aktualizace_vymeny_vytahu_2017">zde</a><p>
 <br/><br/>
 
-<%--
+
 <h4>Odečty bytových měřičů leden 2017</h4>
 <p>v termímu od 7.1.2017 do 21.1.2017 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů ... 
 <a href="noticeboard.html#odecty_bytovych_mericu_2017">více zde</a><p>

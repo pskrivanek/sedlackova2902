@@ -31,6 +31,29 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3>Shromáždění SVJ v úterý 6.6.2017</h3>
+<p>v úterý 6.6.2017 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích.</p>
+<ul>
+<li>registrace účastníků od 15:00</li>
+<li>začátek shromáždění v 16:30</li>
+</ul>
+<br/>
+<p>Oficiální pozvánka s programem je ke stažení <%= linkDownfile(DownFile.Schuze2017_pozvanka, "zde") %>. Bližší informace budou aktualizovány <a href="documents.html?t=i">zde</a>.</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+
+<h3>Kamerový systém</h3>
+<p>instalace kamerového systému byla dokončena a převzata na začátku dobna. Od té doby jsou na všech vchodových dveřích vylepeny upozorňující nálepky.<br/> 
+Kamerový systém je plně funkční a pořizuje záznam na 7 dní. Pokud by to bylo více dní, museli bychom záznamy posílat na ÚOOÚ. <br/>Zároveň byly provedeny přípravné práce pro kamery do výtahů a otevírání dveří přes čipy, viz <a href="documents.html?t=i#Program">body na shromáždění 6.6.2017</a>.
+</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3 id="odstavka_vody_2017">Odstávka vody 22.3.2017 od 10 hodin</h3>
 <p>ve středu 22. března 2017 proběhnou servisní práce na tlakově-regulačním ventilu přívodu vody do domu Sedláčkova 2902.<br/>
 Na základě uvedeného bude odstávka vody, a to <b>22.3.2017 od 10:00 do cca 12:00</b> hodin<br/> 
@@ -42,7 +65,7 @@ Na základě uvedeného bude odstávka vody, a to <b>22.3.2017 od 10:00 do cca 1
 
 
 <h3 id="instalace_kameroveho_systemu">Instalace kamerového systému</h3>
-<p>Dne 27.2.2017 začaly práce na instalaci kamerového systému na základě registrace u ÚOOÚ. Instalace by měla být dokončena do 6 týdnů.<br/><br/>
+<p>Dne 27.2.2017 začaly práce na instalaci kamerového systému na základě <a href="https://forms.uoou.cz/registration.aspx?id=195531" target="contractor">registrace u ÚOOÚ</a>. Instalace by měla být dokončena do 6 týdnů.<br/><br/>
 S instalací kamerového systému budou zároveň provedeny přípravné práce pro instalaci:
 <ul>
 <li> kamer do výtahů</li>

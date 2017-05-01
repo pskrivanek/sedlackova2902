@@ -44,13 +44,14 @@
             out.println(generateItem("documents.html", "h", "h".equals(type) || type == null, "Návody a rady"));
             out.println(generateItem("documents.html", "p", "p".equals(type) || type == null, "Energetický štítek"));
             out.println(generateItem("documents.html", "a", "a".equals(type) || type == null, "Dražba 28.3.2011"));
-            out.println(generateItem("documents.html", "s", "s".equals(type) || type == null, "Schůze SVJ 24.11.2011"));
-            out.println(generateItem("documents.html", "z", "z".equals(type) || type == null, "Schůze SVJ 11.6.2012"));
+            out.println(generateItem("documents.html", "s", "s".equals(type) || type == null, "Shromáždění SVJ 24.11.2011"));
+            out.println(generateItem("documents.html", "z", "z".equals(type) || type == null, "Shromáždění SVJ 11.6.2012"));
             out.println(generateItem("documents.html", "x", "x".equals(type) || type == null, "Mimořádná schůze SVJ 20.3.2013"));
-            out.println(generateItem("documents.html", "t", "t".equals(type) || type == null, "Schůze SVJ 25.9.2013"));
-            out.println(generateItem("documents.html", "f", "f".equals(type) || type == null, "Schůze SVJ 25.6.2014"));
-            out.println(generateItem("documents.html", "j", "j".equals(type) || type == null, "Schůze SVJ 2.6.2015"));
-            out.println(generateItem("documents.html", "k", "k".equals(type) || type == null, "Schůze SVJ 9.6.2016"));
+            out.println(generateItem("documents.html", "t", "t".equals(type) || type == null, "Shromáždění SVJ 25.9.2013"));
+            out.println(generateItem("documents.html", "f", "f".equals(type) || type == null, "Shromáždění SVJ 25.6.2014"));
+            out.println(generateItem("documents.html", "j", "j".equals(type) || type == null, "Shromáždění SVJ 2.6.2015"));
+            out.println(generateItem("documents.html", "k", "k".equals(type) || type == null, "Shromáždění SVJ 9.6.2016"));
+            out.println(generateItem("documents.html", "i", "i".equals(type) || type == null, "Shromáždění SVJ 6.6.2017"));
 		}       
 	%>
 </div>
