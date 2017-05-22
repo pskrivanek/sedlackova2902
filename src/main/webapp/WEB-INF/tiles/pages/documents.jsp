@@ -1328,16 +1328,16 @@ Dělnický dům na ulici Jamborova č. 65, Brno-Líšeň <b>v úterý 6.6.2017 v
 <h4>Klíčové body programu:</h4>
 <ul>
 <li>Výroční zpráva výboru a správce o správě domu a pozemků a o dalších činnostech SVJ za rok 2016</li>
-<li>Projednání hospodaření, hlasování o schválení účetní závěrky SVJ za rok 2016 a rozpočtu na rok 2018<!-- <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2016, "účetní závěrky SVJ za rok 2016") %> a o <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_rozpocet2018, "rozpočtu na rok 2018") %> --> </li>
+<li>Projednání hospodaření, hlasování o schválení<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2016, "účetní závěrky SVJ za rok 2016") %> a <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_rozpocet2018, "rozpočtu na rok 2018") %></li>
 <li>Prezentace a hlasování o navrhovaných opravách a investicích:
 	<ul>
 		<li>Výmalba společných prostor</li>
 		<li>Doplnění kamerového sytému ve výtazích</li>
 		<li>Instalace elektronických čteček ke vchodovým dveřím</li>
-		<li>Instalace klecí v prodtoru odpadkových kontejnerů</li>
+		<li>Instalace klecí v prostoru odpadkových kontejnerů</li>
 	</ul>
 </li>
-<li>Doplňující volba členů Výboru SVJ. <i>Pokud má někdo zájem o členství ve výboru, tak svou kandidaturu oznamte písemně nebo emilaem kterému koliv členu výboru.</i></li>
+<li>Doplňující volba členů Výboru SVJ.<i> Pokud má někdo zájem o členství ve výboru, tak svou kandidaturu oznamte písemně nebo emailem kterému koliv členu výboru.</i></li>
 <li>Diskuze</li>
 </ul>
 

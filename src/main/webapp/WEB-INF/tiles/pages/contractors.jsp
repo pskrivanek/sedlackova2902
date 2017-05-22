@@ -25,9 +25,9 @@
 </tr>
 <tr>
     <td>Elektro instalace</td>
-    <td>Zika</td>
-	<td>Ne</ne>
-    <td>+420 604 900 090</td>    
+    <td>Valerio Bevilacqua</td>
+    <td>Ne</ne>
+    <td>+420 604 163 186</td>
 </tr>
 <tr>
     <td>Kanalizace (čištění ucpaných odpadů)</td>
@@ -121,11 +121,6 @@ Na základě těchto zkušeností pak vedeme s dodavateli příslušná jednán�
 		<td><a href="http://www.ceskapojistovna.cz" target="contractor">Česká pojištovna</a></td>
 		<td></td>
 	</tr>
-	<tr>
-		<td>Zabezpečení domu</td>
-		<td><a href="http://www.navos.cz" target="contractor">Navos</a></td>
-		<td></td>
-	</tr>
 </table>
 <br/><br/>
 <h3>Internet a televize:</h3>
@@ -196,6 +191,8 @@ Výše měsíčních částek se odvíjí od stanovených pravidelných záloh. 
 </table>
 <br/>
  --%>
+Účetní závěrka za rok 2016:
+    <a href="documents.html?f=<%= DownFile.UcetniZaverka_2016.getFileId() %>" title="<%= DownFile.Schuze_b4.getFileName() %>">zde</a><br/>
 Účetní závěrka za rok 2015:
     <a href="documents.html?f=<%= DownFile.UcetniZaverka_2015.getFileId() %>" title="<%= DownFile.Schuze_b4.getFileName() %>">zde</a><br/>
 Účetní závěrka za rok 2014:
