@@ -31,6 +31,15 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3>Čištění garážových prostor dne 5.6.2017</h3>
+<p>Dobrý den majitelé a nájemníci garážových stání pod domem Sedláčkova 2902. Rád bych Vás požádal o spolupráci při čištění prostoru garážových stání dne 5.6.2017 od 8 do 15 hodin. <br/>Největší pomocí z Vaší strany bude vyklizení Vašeho parkovacího stání - vyparkování auta/motorky/ ... a případně dalších dočasně odložených věcí. Proběhne strojové a ruční čištění celého prostoru po zimě. 
+Předem děkuji za spolupráci. <br/>V případě nejasností mne kontaktujte.</p><br/>
+<i>
+Ing. Radim Zemánek<br/>
+e-mail: a2.sedlackova2902@gmail.com</i><br/>
+</br><br/>
+
+
 <h3>Shromáždění SVJ v úterý 6.6.2017</h3>
 <p>v úterý 6.6.2017 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích.</p>
 <ul>

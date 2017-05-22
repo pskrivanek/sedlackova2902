@@ -19,6 +19,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Čištění garážových prostor dne 5.6.2017</h4>
+<p>majitelé a nájemníci garážových stání pod domem Sedláčkova 2902. Rád bych Vás požádal o spolupráci při čištění prostoru garážových stání dne 5.6.2017 od 8 do 15 hodin ... <a href="noticeboard.html">více zde</a></p>
+<br/><br/>
+
 <h4>Shromáždění SVJ v úterý 6.6.2017</h4>
 <p>v úterý 6.6.2017 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=i">více zde</a></p>
 <br/>
