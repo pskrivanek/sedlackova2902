@@ -1332,8 +1332,8 @@ Dělnický dům na ulici Jamborova č. 65, Brno-Líšeň <b>v úterý 6.6.2017 v
 <li>Prezentace a hlasování o navrhovaných opravách a investicích:
 	<ul>
 		<li>Výmalba společných prostor</li>
-		<li>Doplnění kamerového sytému ve výtazích</li>
-		<li>Instalace elektronických čteček ke vchodovým dveřím</li>
+		<li><img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_kamerovySystemVytahy, "Doplnění kamerového systému ve výtazích") %></li>
+		<li><img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_elektronickeCtecky, "Instalace elektronických čteček ke vchodovým dveřím") %></li>
 		<li>Instalace klecí v prostoru odpadkových kontejnerů</li>
 	</ul>
 </li>
