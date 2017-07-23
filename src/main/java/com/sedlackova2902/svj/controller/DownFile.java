@@ -1,11 +1,12 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	ZAPIS_18(570, "2017_06_25_schuze_vyboru_SVJ_18.pdf", "520 kB"),
 	Schuze2017_elektronickeCtecky(568, "schuze2017/ElektronickeCtecky.pdf", "128 kB"),
 	Schuze2017_kamerovySystemVytahy(567, "schuze2017/KamerovySystemVytahy.pdf", "128 kB"),
 	Schuze2017_rozpocet2018(566, "schuze2017/Rozpocet_2018.pdf", "231 kB"),
 	UcetniZaverka_2016(565, "Ucetni_zaverka_2016.pdf", "4.5 MB"),
-	Schuze2017_zapis(564, "schuze2017/Zapis_shromazdeni_SVJ.pdf", "1.8 MB"),
+	Schuze2017_zapis(564, "schuze2017/Zapis_shromazdeni_SVJ.pdf", "271 kB"),
 	Schuze2017_zmocneniSJMDoc(554, "schuze2017/Zmocneni_SJM.doc", "37 kB"),
 	Schuze2017_zmocneniSJM(553, "schuze2017/Zmocneni_SJM.pdf", "217 kB"),
 	Schuze2017_plnaMocDoc(552, "schuze2017/Plna_moc.doc", "35 kB"),

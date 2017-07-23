@@ -20,7 +20,7 @@ public class DocumentsController {
 
 	private static final String docPath = "/opt/webfiles/downfiles"; //"/opt/webfiles/downfiles";//"/home/pskrivanek/downfiles/";
 
-    private String defaultValue = "i";
+    private String defaultValue = "e";
 
     private String posibleValue = ",i,k,v,r,e,c,h,a,s,z,r,x,p,t,f,j,";//",h,e,c,";
 

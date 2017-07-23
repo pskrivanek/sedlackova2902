@@ -129,6 +129,7 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
 <p>Zde můžete nahlédnout co a kdy se projednávalo na schůzi, kdo byl čím pověřen a kdo a co zařídil</p>
 <br/>
 <ul>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.ZAPIS_18) %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.ZAPIS_17) %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.ZAPIS_16) %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.ZAPIS_15) %></li>
@@ -1307,9 +1308,7 @@ Kompletní program schůze je v pozvánce, kterou si můžete stáhnout <%= link
         <li><a href="#Program">Klíčové body programu</a></li>
         <li><a href="#Plna_moc">Informace k plné moci</a></li>
         <br/>
-        <!--
         <li><%= linkDownfile(DownFile.Schuze2017_zapis, "Zápis ze schůze") %></li>
-        -->
     </ul>
 <br/>
 <hr/>
@@ -1328,13 +1327,15 @@ Dělnický dům na ulici Jamborova č. 65, Brno-Líšeň <b>v úterý 6.6.2017 v
 <h4>Klíčové body programu:</h4>
 <ul>
 <li>Výroční zpráva výboru a správce o správě domu a pozemků a o dalších činnostech SVJ za rok 2016</li>
-<li>Projednání hospodaření, hlasování o schválení<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2016, "účetní závěrky SVJ za rok 2016") %> a <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_rozpocet2018, "rozpočtu na rok 2018") %></li>
+<li>Projednání hospodaření, hlasování o schválení<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2016, "účetní závěrky SVJ za rok 2016") %> a <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_rozpocet2018, "rozpočtu na rok 2018") %><br/><br/></li>
 <li>Prezentace a hlasování o navrhovaných opravách a investicích:
 	<ul>
 		<li>Výmalba společných prostor</li>
 		<li><img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_kamerovySystemVytahy, "Doplnění kamerového systému ve výtazích") %></li>
-		<li><img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_elektronickeCtecky, "Instalace elektronických čteček ke vchodovým dveřím") %></li>
-		<li>Instalace klecí v prostoru odpadkových kontejnerů</li>
+		<li><img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_elektronickeCtecky, "Instalace elektronických čteček ke vchodovým dveřím") %>
+		<ul><li>na shromáždění bude k dispozici čtečka, můžete si vyzkoušet jestli Vaš čip/kartu detekuje</li></ul><br/>
+		</li>
+		<li>Instalace klecí v prostoru odpadkových kontejnerů<br/><br/></li>
 	</ul>
 </li>
 <li>Doplňující volba členů Výboru SVJ.<i> Pokud má někdo zájem o členství ve výboru, tak svou kandidaturu oznamte písemně nebo emailem kterému koliv členu výboru.</i></li>
