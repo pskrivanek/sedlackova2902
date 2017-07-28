@@ -31,6 +31,17 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="aktualizace_vymeny_vytahu_2017_2">Další aktualizace výměny výtahů v roce 2017</h3>
+<p>Zde je aktualizovaný harmonogram výměnu zbylých výtahu, kde se o týden odsouvá zahájení viz:</p>
+<ul>
+<li><b>Sedláčkova 32:</b> &nbsp; &nbsp;<i>zahájení <b>7.8.2017</b> a předání 31.8.2017</i></li>
+<li>Sedláčkova 34: &nbsp; &nbsp;<i>zahájení 4.9.2017 a předání 4.10.2017</i></li>
+</ul>
+<br/>
+<p>Předpokládaná délka realizace jednoho výtahu je 3 až 4 týdny.</p>
+<br/>
+<br/>
+
 <h3>Čištění garážových prostor dne 5.6.2017</h3>
 <p>Dobrý den majitelé a nájemníci garážových stání pod domem Sedláčkova 2902. Rád bych Vás požádal o spolupráci při čištění prostoru garážových stání dne 5.6.2017 od 8 do 15 hodin. <br/>Největší pomocí z Vaší strany bude vyklizení Vašeho parkovacího stání - vyparkování auta/motorky/ ... a případně dalších dočasně odložených věcí. Proběhne strojové a ruční čištění celého prostoru po zimě. 
 Předem děkuji za spolupráci. <br/>V případě nejasností mne kontaktujte.</p><br/>
