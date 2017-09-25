@@ -31,6 +31,16 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+
+<h3 id="odstavka_horkovodu_2017">Odstávka horkovodu od 11.10 do 12.10.2017</h3>
+<p>V termínu od středy 11.10.2017 5.00 hod. do čtvrtka 12.10.2017 20.00 hod. bude odstaven a vypuštěn horkovod DN 500 Líšeň v úseku L 162 – L 164 (ulice Vlkova) z důvodu vystrojení šachty L 164.<br/>
+V době odstávky dojde v našem domě Sedláčkova 2902 k <b>přerušení dodávky tepla a nebude v provozu ani ohřev teplé vody</b>.</br><br/>
+Uvedená doba odstávky je maximální, pracovníci TB udělají vše proto, aby byl horkovod zprovozněn v co možná nejkratším termínu.<br/>
+Odstávka bude probíhat v souladu se zákonem 458/2000 Sb. § 76 odstavec 4 písmeno c (provádění plánovaných rekonstrukcí a oprav s oznámením 15 dnů předem).
+</p>
+<br/>
+<br/>
+
 <h3 id="aktualizace_vymeny_vytahu_2017_2">Další aktualizace výměny výtahů v roce 2017</h3>
 <p>Zde je aktualizovaný harmonogram výměnu zbylých výtahu, kde se o týden odsouvá zahájení viz:</p>
 <ul>

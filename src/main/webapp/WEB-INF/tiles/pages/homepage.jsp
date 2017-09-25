@@ -19,10 +19,17 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Odstávka horkovodu od 11.10 do 12.10.2017</h4>
+<p>V termínu od středy 11.10.2017 5.00 hod. do čtvrtka 12.10.2017 20.00 hod. bude odstaven a vypuštěn horkovod, viz ...<a href=
+"noticeboard.html#odstavka_horkovodu_2017">více zde</a></p>
+<br/><br/>
+
+
 <h4>Další aktualizace výměny výtahů v roce 2017</h4>
 <p>Zde je aktualizovaný harmonogram výměnu zbylých výtahu, kde se o týden odsouvá zahájení viz ...<a href="noticeboard.html#aktualizace_vymeny_vytahu_2017_2">více zde</a></p>
 <br/><br/>
 
+<%--
 <h4>Čištění garážových prostor dne 5.6.2017</h4>
 <p>majitelé a nájemníci garážových stání pod domem Sedláčkova 2902. Rád bych Vás požádal o spolupráci při čištění prostoru garážových stání dne 5.6.2017 od 8 do 15 hodin ... <a href="noticeboard.html">více zde</a></p>
 <br/><br/>
@@ -32,7 +39,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/>
 <br/>
 
-<%--
+
 <h4>Odstávka vody 22.3.2017 od 10 hodin</h4>
 <p>ve středu 22. března 2017 proběhnou servisní práce na tlakově-regulačním ventilu přívodu vody ... <a href="noticeboard.html#odstavka_vody_2017">více zde</a></p>
 <br/><br/>
