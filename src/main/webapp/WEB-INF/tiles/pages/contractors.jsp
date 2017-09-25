@@ -60,6 +60,12 @@
     <td>+420 774 163 381</td>
 </tr>
 <tr>
+    <td>Kovovýroba, Zámečnictví</td>
+    <td>Aleš Kadlec</a></td>
+	<td>?</td>
+    <td>+420 603 879 030</td>
+</tr>
+<tr>
 	<td>Vodoinstalace, Kanalizace (havarie / opravy)</td>
 	<td><a href="http://www.nonstop-opravy.cz/" target="contractor">Havarijní a poruchová služba</a></td>
 	<td>Ano</td>
