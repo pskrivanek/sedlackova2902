@@ -1,6 +1,8 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	BergaPokladnaOznameni(575,"Berga_oznameni_neprijimani_hotovosti.pdf", "40 kB"),
+	
 	ZAPIS_18(570, "2017_06_25_schuze_vyboru_SVJ_18.pdf", "520 kB"),
 	Schuze2017_elektronickeCtecky(568, "schuze2017/ElektronickeCtecky.pdf", "128 kB"),
 	Schuze2017_kamerovySystemVytahy(567, "schuze2017/KamerovySystemVytahy.pdf", "128 kB"),

@@ -19,6 +19,19 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Od 1.ledna 2018 platby pouze elektronicky</h4>
+<p>zde je informace od vedení naší správcovské firmy Berga týkající se vybírání hotovostních plateb od 01.01.2018 ... <a href=
+"noticeboard.html#berga_pokladna_oznameni">více zde</a></p>
+</p>
+<br/><br/>
+
+
+<h4>Termíny dokončení pokládky dlažby</h4>
+Výměna výtahu je dokončena ve všech vchodech a nyní zbývá ve vchodech 12,14 a 26 předělat pokládku dlažby před dveřmi výtahu... <a href=
+"noticeboard.html#dokonceni_pokladky_dlazby">více zde</a></p>
+<br/><br/>
+
+<%--
 <h4>Odstávka horkovodu od 11.10 do 12.10.2017</h4>
 <p>V termínu od středy 11.10.2017 5.00 hod. do čtvrtka 12.10.2017 20.00 hod. bude odstaven a vypuštěn horkovod, viz ...<a href=
 "noticeboard.html#odstavka_horkovodu_2017">více zde</a></p>
@@ -29,7 +42,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <p>Zde je aktualizovaný harmonogram výměnu zbylých výtahu, kde se o týden odsouvá zahájení viz ...<a href="noticeboard.html#aktualizace_vymeny_vytahu_2017_2">více zde</a></p>
 <br/><br/>
 
-<%--
+
 <h4>Čištění garážových prostor dne 5.6.2017</h4>
 <p>majitelé a nájemníci garážových stání pod domem Sedláčkova 2902. Rád bych Vás požádal o spolupráci při čištění prostoru garážových stání dne 5.6.2017 od 8 do 15 hodin ... <a href="noticeboard.html">více zde</a></p>
 <br/><br/>

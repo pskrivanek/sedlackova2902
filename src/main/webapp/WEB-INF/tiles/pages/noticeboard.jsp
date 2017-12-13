@@ -31,6 +31,40 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="berga_pokladna_oznameni">Od 1.ledna 2018 platby pouze elektronicky</h3>
+<p><%= linkDownfile(DownFile.BergaPokladnaOznameni, "zde") %> je informace od vedení naší správcovské firmy Berga, týkající se vybírání hotovostních plateb:<br/><br/>
+ &nbsp; – <i>z důvodu zavedení EET od 01.01.2018 naše provozovna již <b>nebude přijímat žádnou hotovost!!!</b></i><br/><br/>
+Veškeré platby prosím provádějte elektronicky. Všechny potřebné údaje máte na evidenčním listu, který jste v minulosti obdrželi.
+</p>
+<br/>
+<br/>
+
+
+<h3 id="dokonceni_pokladky_dlazby">Termíny dokončení pokládky dlažby</h3>
+<p>Výměna výtahu je dokončena ve všech vchodech a nyní zbývá ve vchodech 12,14 a 26 předělat pokládku dlažby před dveřmi výtahu.<br/>
+Termíny realizace:
+<ul>
+<li>Sedláčkova 12: &nbsp; nástup 04.12</li>
+<li>Sedláčkova 14: &nbsp; nástup 11.12</li>
+<li>Sedláčkova 26: &nbsp; nástup 18.12</li>
+</ul>
+<br/>
+Předpokládaná doba realizace jednoho vchodu je 3 dny (max. 4 dny v případě nějakého problému).
+<ol>
+<li>den vysekání a podbetonování,</li>
+<li>den pokládka dlažby,</li>
+<li>den pokládka soklu + zaspárování dlažby,</li>
+<li>den zaspárování soklu (při provozu).</li>
+</ol>
+<br/>
+<b>Při bourání betonu, při pokládce nové dlažby a následném vytvrzení lepidla pod dlažbou budou výtahy mimo provoz.</b><br/><br/>
+Samozřejmě, bude snaha minimalizovat omezení provozu.
+</p><br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+
 
 <h3 id="odstavka_horkovodu_2017">Odstávka horkovodu od 11.10 do 12.10.2017</h3>
 <p>V termínu od středy 11.10.2017 5.00 hod. do čtvrtka 12.10.2017 20.00 hod. bude odstaven a vypuštěn horkovod DN 500 Líšeň v úseku L 162 – L 164 (ulice Vlkova) z důvodu vystrojení šachty L 164.<br/>
