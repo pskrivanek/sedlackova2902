@@ -19,6 +19,11 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Odečty bytových měřičů leden 2018</h4>
+<p>v termímu od 9.1.2018 do 12.1.2018 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů ... 
+<a href="noticeboard.html#odecty_bytovych_mericu_2018">více zde</a><p>
+<br/><br/>
+
 <h4>Od 1.ledna 2018 platby pouze elektronicky</h4>
 <p>zde je informace od vedení naší správcovské firmy Berga týkající se vybírání hotovostních plateb od 01.01.2018 ... <a href=
 "noticeboard.html#berga_pokladna_oznameni">více zde</a></p>
@@ -26,12 +31,12 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/>
 
 
+<%--
 <h4>Termíny dokončení pokládky dlažby</h4>
 Výměna výtahu je dokončena ve všech vchodech a nyní zbývá ve vchodech 12,14 a 26 předělat pokládku dlažby před dveřmi výtahu... <a href=
 "noticeboard.html#dokonceni_pokladky_dlazby">více zde</a></p>
 <br/><br/>
 
-<%--
 <h4>Odstávka horkovodu od 11.10 do 12.10.2017</h4>
 <p>V termínu od středy 11.10.2017 5.00 hod. do čtvrtka 12.10.2017 20.00 hod. bude odstaven a vypuštěn horkovod, viz ...<a href=
 "noticeboard.html#odstavka_horkovodu_2017">více zde</a></p>

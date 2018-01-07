@@ -31,6 +31,29 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="odecty_bytovych_mericu_2018">Odečty bytových měřičů leden 2018</h3>
+<p>v termímu od 9.1.2018 do 12.1.2018 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě.</p><br/>
+Zde jsou termíny odečtu po vchodech: </p>
+<ul>
+    <li>Sedláčkova 12: &nbsp; <i>Dne &nbsp; 9.1.2017 &nbsp; 15:00 - 17:00 hod</i></li>
+    <li>Sedláčkova 14: &nbsp; <i>Dne 11.1.2017 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 16: &nbsp; <i>Dne 11.1.2017 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 18: &nbsp; <i>Dne 11.1.2017 &nbsp; 15:00 - 17:00 hod</i></li>
+    <li>Sedláčkova 20: &nbsp; <i>Dne &nbsp; 9.1.2017 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 22: &nbsp; <i>Dne &nbsp; 9.1.2017 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 24: &nbsp; <i>Dne 10.1.2017 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 26: &nbsp; <i>Dne 10.1.2017 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 28: &nbsp; <i>Dne 12.1.2017 &nbsp; 15:00 - 17:00 hod</i></li>
+    <li>Sedláčkova 30: &nbsp; <i>Dne 12.1.2017 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 32: &nbsp; <i>Dne 12.1.2017 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 34: &nbsp; <i>Dne 10.1.2017 &nbsp; 15:00 - 17:00 hod</i></li>
+</ul>
+Souhrný seznam ale po dnech je možné stáhnout <%= linkDownfile(DownFile.OdectyMericu2018, "zde") %><br/><br/>
+<p>Pokud nebudete v uvedenou dobu přítomni, můžete stavy a výrobní čísla měřičů tepla a vodoměrů zaslat e-mailem na adresu <a href="mailto:odecty@thera.cz">odecty@thera.cz</a>.</p>
+<br/>
+<br/>
+
+
 <h3 id="berga_pokladna_oznameni">Od 1.ledna 2018 platby pouze elektronicky</h3>
 <p><%= linkDownfile(DownFile.BergaPokladnaOznameni, "zde") %> je informace od vedení naší správcovské firmy Berga, týkající se vybírání hotovostních plateb:<br/><br/>
  &nbsp; – <i>z důvodu zavedení EET od 01.01.2018 naše provozovna již <b>nebude přijímat žádnou hotovost!!!</b></i><br/><br/>
