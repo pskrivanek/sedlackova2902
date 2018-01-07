@@ -22,7 +22,7 @@ String archive = (String) request.getAttribute("a");
 if (!StringUtils.isEmpty(archive)) {
 %>
 <div class="archive">
- Archív zpráv z roku <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
+ Archív zpráv z roku <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
 </div>
 <br/>
 <hr/>
@@ -62,7 +62,13 @@ Veškeré platby prosím provádějte elektronicky. Všechny potřebné údaje m
 <br/>
 <br/>
 
-
+<div class="archive">
+ Archív zpráv z roku <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
+</div>
+<%
+}
+if ("2017".equals(archive)) {
+%>
 <h3 id="dokonceni_pokladky_dlazby">Termíny dokončení pokládky dlažby</h3>
 <p>Výměna výtahu je dokončena ve všech vchodech a nyní zbývá ve vchodech 12,14 a 26 předělat pokládku dlažby před dveřmi výtahu.<br/>
 Termíny realizace:
@@ -224,9 +230,6 @@ Zde je harmonogram <b>začátku výměny</b> výtahu:</p>
 <br/>
 <br/>
 
-<div class="archive">
- Archív zpráv z roku <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
-</div>
 
 <%
 }

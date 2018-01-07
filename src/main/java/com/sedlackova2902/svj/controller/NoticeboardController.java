@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class NoticeboardController {
 	protected final Log logger = LogFactory.getLog(ContractorsController.class);
 
-	private String posibleValue = ",2016,2015,2014,2013,2012,2011,2010,";//",h,e,c,";
+	private String posibleValue = ",2017,2016,2015,2014,2013,2012,2011,2010,";//",h,e,c,";
 	
 	@RequestMapping("/noticeboard")
 	public ModelAndView showNoticeboard(@RequestParam( value="a", required=false) String archive) {
