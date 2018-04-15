@@ -194,6 +194,7 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
       <i>S uplaťňováním reklamací vhledem k našemu dodavateli ABD vs. Na Panence nelze očekávat že by se něco podařilo, proto si musíme pomoct sami přes soukromé specialisty. Nalezte zde proto návody a rady, připadně odkazy na osvědčené lidi.</i>
       <br/><br/>
       <ul>
+		<li><a href="#Ovladac_garazovych_vrat">Ovladač garážových vrat</a></li>
         <li><a href="#Kapajici_nebo_praskle_topeni">Kapajicí nebo prasklé topení</a></li>
         <li><a href="#Okna_a_balkonove_dvere">Okna a balkónové dveře</a></li>
         <li><a href="#Zabouchnute_dvere">Zabouchnuté dveře</a></li>
@@ -206,11 +207,22 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
       <br/>
       <hr/>
       <br/> 
+      <a id="Ovladac_garazovych_vrat" name="Ovladac_garazovych_vrat"></a>
+	  <h1>Ovladač garážových vrat</h1>
+	  <p>Jetliže si zničíte nebo potřebujete nový dálkový ovladač, můžete si koupit u firmy Lomax v její <a href="https://www.lomax.cz/kontakt/lomax-brno.html?vzorkovna=230" target="contractor" >vzorkové prodejně</a>. Nový ovladač Vám pak nakóduje <a href="committee.html">Skřivánek nebo Zemánek</a>.</br/>
+	  Ovladač by měl pracovat na frekvenci 868,3 MHz:
+	  <ul>
+		<li><a href="https://www.1pohony.cz/dalkovy-ovladac-lomax-digital-302-2-kanalovy-ovladac-868-3-mhz-lx302-868/?gclid=CjwKCAiA_c7UBRAjEiwApCZi8ZqumYZwt88H2Ts7QVw9FhqLdS9S87Wqb3WfRWGiptrfEBKrJDKuiRoC-N8QAvD_BwE" target="contractor">2 tlačítkový ovladač - Marantec Digital 302 - 868,3 MHZ</a></li>
+		<li><a href="https://www.1pohony.cz/lomax-digital-313-3-tlacitkovy-ovladac-pro-pohony-marantec-na-vrata-lomax-868-3-mhz/?gclid=CjwKCAiA_c7UBRAjEiwApCZi8bUNhAGrFyGRA93oWBUd9L0S_t60RlbXk_lslxLsISSAfOeBPMZx9BoC_lgQAvD_BwE" target="contractor">3 tlačítkový ovladač - Marantec Digital 313 - 868,3 MHZ</a></li>
+		<li><a href="http://eshop.montego.cz/o/dalkove-ovladace-Lomax-dalkove-ovladani-vrat-Lomax" target="contractor">4 tlačítkový ovladač - Marantec Digital 304 - 868,3 MHZ</a></li>
+	  </ul>
+	  </p>
+      <br/><br/>
       <a id="Kapajici_nebo_praskle_topeni" name="Kapajici_nebo_praskle_topeni"></a>
       <h1>Kapajicí nebo prasklé topení</h1>
       <p>Pokud zjistíte že vám kapou raditátory nečekejte na havárii a raději se obraťe na instalatéry nebo přímo na <a href="contractors.html?t=s">havarijní servis tepláren</a>. Pokud vám prasklo potrubí tak pak již jen havarijní servis tepláren, tel kontakt: <b>+420 545 162 206</b> nebo <b>+420 603 291 699</b> nebo <b>+420 605 209 744</b>.
       </p>
-      <br/><br/>      
+      <br/><br/>
       <a id="Okna_a_balkonove_dvere" name="Okna_a_balkonove_dvere"></a>
       <h1>Okna a balkónové dveře</h1> 
       <p>Kování v oknech a balkonových dveří je typu <b>SIEGENIA A300</b> a dostupné informace jsou na 
@@ -253,7 +265,7 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
       <a id="Nefunkcni_garazova_vrata" name="Nefunkcni_garazova_vrata"></a>
       <h1>Nefunkční garážová vrata</h1>
       <p>Pokud dojde k závadě na garážových vratech, tak závada je většinou čistě mechanická.
-        Stačí proto kontaktovat pana <a href="committee.html">Ševčíka, Skřivánka nebo Valáška</a>, a oni závadu odstraní sami nebo Vám poradí jak ji odstranit.
+        Stačí proto kontaktovat pana <a href="committee.html">Zemánka, Skřivánka nebo Valáška</a>, a oni závadu odstraní sami nebo Vám poradí jak ji odstranit.
         Každopádně pokud nevíte jak provést opravu tak <b>do vrat nevrtejte ať nenaděláte ješte větší škodu!</b></p><br/>
       <p>
         K závadě může dojít pokud se někdo snaží otevřít zavírající se dveře. Takže dveře raději nechte zavřít a následně je znovu otevřete.
