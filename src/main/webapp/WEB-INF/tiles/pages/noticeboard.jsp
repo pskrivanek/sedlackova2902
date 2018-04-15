@@ -31,6 +31,36 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="instalace_led_modulu">Instalace LED modulů</h3>
+<p>Na konci března skončila výměna osvětlení ve společných prostorech našeho domu. Stávající klasické žárovky, kterých je na trhu již nedostatek byly nahrazeny LED moduly.<br/>
+<b>Chodby jsou lépe osvětleny a spotřeba el. energie bude menší.</b><br/>
+Při zapnutí je ale větší napěťová špička. Na některých chodbách se tak může stát, že pohybové čídlo zůstává sepnuté a světla svítí.
+Pokud to zjistíte kontaktujte <a href="committee.html?t=c">svého zástupce</a>.
+</p><br/>
+<i>Výbor SVJ</i><br/>
+<br/><br/>
+
+<h3 id="novy_majitel_vnitrobloku">Vnitroblok má nového majitele</h3>
+<p>Insolvenčnímu správci se podařilo prodat vnitroblok, který tak má nového majitele společnost ESPYRA, a.s.<br/><br/>
+Záměrem je vnitroblok dokončit a následně zprovoznit jako garážový dům. Místa v něm budou k dispozici jak obyvatelům našeho bytového domu, tak i lidem „zvenku“.<br/>
+Je plánováno i něco navíc – místa pro motorky, uzavřené, zamykatelné sklady (třeba když někomu nestačí sklepní kóje).<br/>
+Pokud má někdo zájem, může napsat na níže uvedený kontakt. Jakmile budou jasné detaily, ceny atd., bude každý jednotlivě informován a následně se domluví řešení na míru.<br/>
+K dispozici bude i výhodný speciální úvěr pro financování nákupu garážových stání s kompletním servisem.<br/>
+<br/>
+Kontaktní osoba je:
+<table style="margin-left:30px;">
+<tr><td style="padding:1px">Ing. Richard Kala</td></tr>
+<tr><td style="padding:1px">manažer projektů </td></tr>
+<tr><td style="padding:1px">AVRIOINVEST, a.s.</td></tr>
+<tr><td style="padding:1px">Sochorova 23, 616 00 Brno</td></tr>
+<tr><td style="padding:1px">email: <a href="mailto:kala@avrioinvest.cz">kala@avrioinvest.cz</a></td></tr>
+<tr><td style="padding:1px">web: <a href="http://www.avrioinvest.cz" target="contractor">www.avrioinvest.cz</a></td></tr>
+</table>
+
+</p>
+<br/>
+<br/>
+
 <h3 id="odecty_bytovych_mericu_2018">Odečty bytových měřičů leden 2018</h3>
 <p>v termímu od 9.1.2018 do 12.1.2018 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě.</p><br/>
 Zde jsou termíny odečtu po vchodech: </p>

@@ -19,6 +19,16 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+
+<h4>Instalace LED modulů</h4>
+<p>Na konci března skončila výměna osvětlení ve společných prostorech našeho domu. Stávající klasické žárovky, ...<a href=
+"noticeboard.html#instalace_led_modulu">více zde</a></p>
+<br/><br/>
+<h4>Vnitroblok má nového majitele</h4>
+<p>Insolvenčnímu správci se podařilo prodat vnitroblok, který tak má nového majitele společnost ESPYRA, a.s. ... <a href=
+"noticeboard.html#novy_majitel_vnitrobloku">více zde</a></p>
+
+<%--
 <h4>Odečty bytových měřičů leden 2018</h4>
 <p>v termímu od 9.1.2018 do 12.1.2018 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů ... 
 <a href="noticeboard.html#odecty_bytovych_mericu_2018">více zde</a><p>
