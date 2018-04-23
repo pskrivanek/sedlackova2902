@@ -19,6 +19,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Navážení materiálu k dokončení vnitrobloku</h4>
+<p>ve čtvrtek 26.4.2018 se začíná navážet meteriál k dokončení garážového domu/vnitrobloku <a href=
+"noticeboard.html#navazeni_materialu">více zde</a></p>
+<br/><br/>
 
 <h4>Instalace LED modulů</h4>
 <p>Na konci března skončila výměna osvětlení ve společných prostorech našeho domu. Stávající klasické žárovky, ...<a href=

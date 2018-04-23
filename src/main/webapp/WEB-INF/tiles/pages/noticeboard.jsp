@@ -31,6 +31,30 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="navazeni_materialu">Navážení materiálu k dokončení vnitrobloku</h3>
+<p>ve <b>čtvrtek 26.4.2018</b> se začíná navážet meteriál k dokončení garážového domu/vnitrobloku.<br/><br/>
+Prosíme všechny o následující:
+<ul>
+<li>Neparkovat před všemi vjezdy do garáží</li>
+<li>Neparkovat na žádném z našich sedmi venkovních parkovacích stání
+přilehlých ke stěně parkovacího domu</li>
+<li>Po dobu výstavby, počínaje 26.4. omezit parkování na komunikaci po její levé
+straně od zatáčky po konce parkovacího domu (<%= linkDownfile(DownFile.NavazeniMeterialuVnitroblok, "viz obrázek") %>), kvůli možnosti
+vytočení velkých nákladních automobilů.</li>
+</ul><br/>
+Dále žádáme majitele bytů, jejichž terasy sousedí s objektem garáží o odstranění
+konstrukcí, které se dotýkají nebo jsou namontovány k atice našeho objektu. Tato se
+bude opatřovat systémovou okapnicí (plechovou římsou) a namontované konstrukce
+tomu v tuto chvíli brání.<br/>
+<br/>
+Kompletní výzvu v PDF můžte stáhnout <%= linkDownfile(DownFile.NavazeniMeterialuVnitroblok, "zde") %>.<br/><br/>
+<i>
+S přátelským pozdravem<br/>
+Ing. Richard Kala<br/>
+manažer projektů<br/>
+</p>
+<br/><br/>
+
 <h3 id="instalace_led_modulu">Instalace LED modulů</h3>
 <p>Na konci března skončila výměna osvětlení ve společných prostorech našeho domu. Stávající klasické žárovky, kterých je na trhu již nedostatek byly nahrazeny LED moduly.<br/>
 <b>Chodby jsou lépe osvětleny a spotřeba el. energie bude menší.</b><br/>
