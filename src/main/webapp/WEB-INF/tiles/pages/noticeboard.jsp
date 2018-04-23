@@ -32,7 +32,7 @@ if (!StringUtils.isEmpty(archive)) {
 if (StringUtils.isEmpty(archive)) {
 %>
 <h3 id="navazeni_materialu">Navážení materiálu k dokončení vnitrobloku</h3>
-<p>ve <b>čtvrtek 26.4.2018</b> se začíná navážet meteriál k dokončení garážového domu/vnitrobloku.<br/><br/>
+<p>ve <b>čtvrtek 26.4.2018</b> se začíná navážet materiál k dokončení garážového domu/vnitrobloku.<br/><br/>
 Prosíme všechny o následující:
 <ul>
 <li>Neparkovat před všemi vjezdy do garáží</li>
@@ -52,6 +52,7 @@ Kompletní výzvu v PDF můžte stáhnout <%= linkDownfile(DownFile.NavazeniMete
 S přátelským pozdravem<br/>
 Ing. Richard Kala<br/>
 manažer projektů<br/>
+</i>
 </p>
 <br/><br/>
 

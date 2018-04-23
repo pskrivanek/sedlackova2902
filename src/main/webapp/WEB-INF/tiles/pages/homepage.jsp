@@ -20,7 +20,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/>
 
 <h4>Navážení materiálu k dokončení vnitrobloku</h4>
-<p>ve čtvrtek 26.4.2018 se začíná navážet meteriál k dokončení garážového domu/vnitrobloku <a href=
+<p>ve čtvrtek 26.4.2018 se začíná navážet materiál k dokončení garážového domu/vnitrobloku <a href=
 "noticeboard.html#navazeni_materialu">více zde</a></p>
 <br/><br/>
 
