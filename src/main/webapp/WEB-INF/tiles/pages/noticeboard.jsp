@@ -31,6 +31,21 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="vyuctovani_sluzeb_2017">Vyúčtování služeb za rok 2017</h3>
+<p>Dne 28.4.2018 bylo distribuováno do Vašich poštovních stránek vyúčtování služeb spojených s užíváním prostoru za rok 2017.<br/><br/>
+Jestliže jste vyúčtování služeb za rok 2017 nenašli ve své poštovní schránce, nebylo Vám doručeno z důvodu neoznačení či špatného označení Vaší poštovní schránky, nebo z důvodu nalášení jiné korespondenční adresy pro zasílání pošty na správu nemovistostí.<br/>
+Vlastníky, kteří nemají označenou poštovní schránku tímto vyzůváme, aby tak učinili ve svém vlastním zájmu.<br/>
+Vlastníci, kteří neobrdželi vyúčtování služeb za rok 2017 si jej mohou vyzvednout v úředních hodinách (tj. Po 8:00-11:30, 13:00-17:00; St od 8:00-11:30, 13:00-18:00) na provozovně správce Berga S.N. s.r.o. Kotlářská 989/51a, Brno, popřípadě se domluvit na jiném způsobu doručení.<br/>
+<br/>
+<i>
+S pozdravem<br/>
+Monika Svojanovská, účetní<br/>
+tel: 533 338 637<br/>
+email: m.svojanovska@e-kpm.cz<br/>
+</i>
+</p>
+<br/><br/>
+
 <h3 id="navazeni_materialu">Navážení materiálu k dokončení vnitrobloku</h3>
 <p>ve <b>čtvrtek 26.4.2018</b> se začíná navážet materiál k dokončení garážového domu/vnitrobloku.<br/><br/>
 Prosíme všechny o následující:

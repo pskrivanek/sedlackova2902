@@ -18,6 +18,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <div align="right">výbor Společenství</div>
 <br/><br/><br/>
 <br/>
+<h4>Vyúčtování služeb za rok 2017</h4>
+<p>Dne 28.4.2018 bylo distribuováno do Vašich poštovních stránek vyúčtování služeb spojených s užíváním prostoru za rok 2017 <a href=
+"noticeboard.html#vyuctovani_sluzeb_2017">více zde</a></p>
+<br/><br/>
 
 <h4>Navážení materiálu k dokončení vnitrobloku</h4>
 <p>ve čtvrtek 26.4.2018 se začíná navážet materiál k dokončení garážového domu/vnitrobloku <a href=
