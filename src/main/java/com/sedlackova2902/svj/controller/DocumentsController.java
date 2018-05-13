@@ -20,9 +20,9 @@ public class DocumentsController {
 
 	private static final String docPath = "/opt/webfiles/downfiles"; //"/opt/webfiles/downfiles";//"/home/pskrivanek/downfiles/";
 
-    private String defaultValue = "e";
+    private String defaultValue = "w";
 
-    private String posibleValue = ",i,k,v,r,e,c,h,a,s,z,r,x,p,t,f,j,";//",h,e,c,";
+    private String posibleValue = ",w,i,k,v,r,e,c,h,a,s,z,r,x,p,t,f,j,";//",h,e,c,";
 
 
 	@RequestMapping("/documents")

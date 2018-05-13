@@ -18,16 +18,20 @@ které nás budou v souvislosti s naším domem zajímat.
 <div align="right">výbor Společenství</div>
 <br/><br/><br/>
 <br/>
+<h4>Shromáždění SVJ v pondělí 4.6.2018</h4>
+<p>v pondělí 4.6.2018 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=w">více zde</a></p>
+<br/><br/>
+
 <h4>Vyúčtování služeb za rok 2017</h4>
-<p>Dne 28.4.2018 bylo distribuováno do Vašich poštovních stránek vyúčtování služeb spojených s užíváním prostoru za rok 2017 <a href=
+<p>Dne 28.4.2018 bylo distribuováno do Vašich poštovních stránek vyúčtování služeb spojených s užíváním prostoru za rok 2017 ... <a href=
 "noticeboard.html#vyuctovani_sluzeb_2017">více zde</a></p>
 <br/><br/>
 
 <h4>Navážení materiálu k dokončení vnitrobloku</h4>
-<p>ve čtvrtek 26.4.2018 se začíná navážet materiál k dokončení garážového domu/vnitrobloku <a href=
+<p>ve čtvrtek 26.4.2018 se začíná navážet materiál k dokončení garážového domu/vnitrobloku ... <a href=
 "noticeboard.html#navazeni_materialu">více zde</a></p>
 <br/><br/>
-
+<%--
 <h4>Instalace LED modulů</h4>
 <p>Na konci března skončila výměna osvětlení ve společných prostorech našeho domu. Stávající klasické žárovky, ...<a href=
 "noticeboard.html#instalace_led_modulu">více zde</a></p>
@@ -36,7 +40,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <p>Insolvenčnímu správci se podařilo prodat vnitroblok, který tak má nového majitele společnost ESPYRA, a.s. ... <a href=
 "noticeboard.html#novy_majitel_vnitrobloku">více zde</a></p>
 
-<%--
+
 <h4>Odečty bytových měřičů leden 2018</h4>
 <p>v termímu od 9.1.2018 do 12.1.2018 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů ... 
 <a href="noticeboard.html#odecty_bytovych_mericu_2018">více zde</a><p>

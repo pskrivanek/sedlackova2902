@@ -1,6 +1,12 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	Schuze2018_zmocneniSJMDoc(584, "schuze2018/Zmocneni_SJM.doc", "42.5 kB"),
+	Schuze2018_zmocneniSJM(583, "schuze2018/Zmocneni_SJM.pdf", "212 kB"),
+	Schuze2018_plnaMocDoc(582, "schuze2018/Plna_moc.dec", "39.9 kB"),
+	Schuze2018_plnaMoc(581, "schuze2018/Plna_moc.pdf", "157 kB"),
+	Schuze2018_pozvanka_plna_moc(580, "schuze2018/Pozvanka_pna_moc.pdf", "46.9 kB"),
+
 	NavazeniMeterialuVnitroblok(577, "Avrioinvest_vyzva.pdf", "61 kB"),
 	OdectyMericu2018(576, "Odecty_mericu_2018.pdf", "342 kB"),
 	BergaPokladnaOznameni(575,"Berga_oznameni_neprijimani_hotovosti.pdf", "40 kB"),
