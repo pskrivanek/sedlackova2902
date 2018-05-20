@@ -18,6 +18,15 @@ které nás budou v souvislosti s naším domem zajímat.
 <div align="right">výbor Společenství</div>
 <br/><br/><br/>
 <br/>
+<h4>Hlučné práce v objektu garážového domu</h4>
+<p>Ve dnech 23., 24., 25. a 28.5. budou v objektu garážového domu probíhat hlučné práce a je možné, že se hluk protáhne i do večerních hodin ... <a href="noticeboard.html#hlucne_prace_vnitroblok">více zde</a>
+</p>
+<br/><br/>
+
+<h4>Problém s domovním telefonem nebo el.vrátným</h4>
+<p>Pokud máte problém s domacím telefonem nebo el.vrátným, a tipy ... <a href="noticeboard.html#problem_domovni_telefon">více zde</a></p>
+<br/><br/>
+
 <h4>Shromáždění SVJ v pondělí 4.6.2018</h4>
 <p>v pondělí 4.6.2018 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=w">více zde</a></p>
 <br/><br/>
@@ -26,12 +35,12 @@ které nás budou v souvislosti s naším domem zajímat.
 <p>Dne 28.4.2018 bylo distribuováno do Vašich poštovních stránek vyúčtování služeb spojených s užíváním prostoru za rok 2017 ... <a href=
 "noticeboard.html#vyuctovani_sluzeb_2017">více zde</a></p>
 <br/><br/>
-
+<%--
 <h4>Navážení materiálu k dokončení vnitrobloku</h4>
 <p>ve čtvrtek 26.4.2018 se začíná navážet materiál k dokončení garážového domu/vnitrobloku ... <a href=
 "noticeboard.html#navazeni_materialu">více zde</a></p>
 <br/><br/>
-<%--
+
 <h4>Instalace LED modulů</h4>
 <p>Na konci března skončila výměna osvětlení ve společných prostorech našeho domu. Stávající klasické žárovky, ...<a href=
 "noticeboard.html#instalace_led_modulu">více zde</a></p>

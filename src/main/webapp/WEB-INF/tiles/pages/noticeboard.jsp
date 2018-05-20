@@ -31,7 +31,38 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
-<h3>Shromáždění SVJ v pondělí 4.6.2018</h3>
+<h3 id="hlucne_prace_vnitroblok">Hlučné práce v objektu garážového domu</h3>
+<p>Na žádost vlastníka garážového domu - vnitroblok tímto předáváme informaci o prováděných pracích:</p>
+<div style="margin-left:30px;"><i>Ve dnech <b>23., 24., 25. a 28.5.</b> budou v objektu garážového domu probíhat hlučné práce a je možné, že se hluk protáhne i do večerních hodin.<br/>
+V této době se bude pracovat na konečném povrchu podlah v garážích (drátkobeton), výroba tohoto povrchu má pevně stanovený technologický postup, který se nedá přerušit, dokud není dokončen.<br/>
+</i>
+<br/>
+Žádáme tímto obyvatele o shovívavost a trpělivost a omlouváme se předem za způsobené nepohodlí.
+</div>
+<br/>
+<i>AVRIOINVEST, a.s.<br/>
+Sochorova 23, 616 00 Brno<br/>
+web: www.avrioinvest.cz<br/>
+</i><br/>
+<br/>
+<br/>
+
+</p>
+
+<h3 id="problem_domovni_telefon">Problém s domovním telefonem nebo vrátným</h3>
+<p>Pokud máte problém s domacím telefonem nebo el.vrátným, a tipy které jsou uvedené <a href="documents.html?t=h#El_zamek_vchodovych_dveri">zde</a> nepomáhají, tak se rovnou domluvte s našim panem elektrikářem:
+<div style="margin-left:30px;">
+pan Bevilaqua<br/>
+tel: +420 604 163 186
+</div><br/>
+V případě, že problém bude ve společných prostorech, opravu hradí SVJ. V opačeném případě <b>všechny náklady, tzn dopravu, práci, materiál, atd. hradíte Vy</b>.
+</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+<h3 id="shromazdeni_2018">Shromáždění SVJ v pondělí 4.6.2018</h3>
 <p>v pondělí 4.6.2018 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích.</p>
 <ul>
 <li>prezence členů od 15:00</li>
@@ -50,7 +81,7 @@ if (StringUtils.isEmpty(archive)) {
 Jestliže jste vyúčtování služeb za rok 2017 nenašli ve své poštovní schránce, nebylo Vám doručeno z důvodu neoznačení či špatného označení Vaší poštovní schránky, nebo z důvodu nalášení jiné korespondenční adresy pro zasílání pošty na správu nemovistostí.<br/>
 Vlastníky, kteří nemají označenou poštovní schránku tímto vyzůváme, aby tak učinili ve svém vlastním zájmu.<br/>
 Vlastníci, kteří neobrdželi vyúčtování služeb za rok 2017 si jej mohou vyzvednout v úředních hodinách (tj. Po 8:00-11:30, 13:00-17:00; St od 8:00-11:30, 13:00-18:00) na provozovně správce Berga S.N. s.r.o. Kotlářská 989/51a, Brno, popřípadě se domluvit na jiném způsobu doručení.<br/><br/>
-Nejběžnější otázky a odpovědi k vyúčtování naleznete <a href="documents.html?t=v">zde<br/>
+Nejběžnější otázky a odpovědi k vyúčtování naleznete <a href="documents.html?t=v">zde</a><br/>
 <br/>
 <i>
 S pozdravem<br/>
