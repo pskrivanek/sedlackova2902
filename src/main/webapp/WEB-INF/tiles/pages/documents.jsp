@@ -1439,8 +1439,12 @@ Dělnický dům na ulici Jamborova č. 65, Brno-Líšeň <b>v pondělí 4.6.2018
 <ul>
 <li>Zpráva kontrolní komise</li>
 <li>Výrocní zpráva výboru a správce o správe domu a pozemku a o dalších cinnostech SVJ, aktuální informace o probíhajících akcích</li>
-<li>Projednání hospodaření, hlasování o schválení<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2016, "účetní závěrky SVJ za rok 2016") %> a <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_rozpocet2018, "rozpočtu na rok 2018") %><br/><br/></li>
-<li>Projednání hospodaření, hlasování o schválení účetní závěrky SVJ za rok 2017 a rozpočtu na rok 2019<br/><br/></li>
+<li>Projednání hospodaření, hlasování o schválení 
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2016, "účetní závěrky SVJ za rok 2016") %> a 
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2017_rozpocet2018, "rozpočtu na rok 2018") %><br/</li>
+<li>Projednání hospodaření, hlasování o schválení 
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2017, "účetní závěrky SVJ za rok 2017") %> a 
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2018_rozpocet2019, "rozpočtu na rok 2019") %><br/></li>
 <li>Prezentace a hlasování o navrhovaných opravách a investicích:
 	<ul>
 		<li>Výmalba společných prostor</li>
