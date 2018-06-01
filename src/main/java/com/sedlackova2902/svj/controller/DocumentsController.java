@@ -22,7 +22,7 @@ public class DocumentsController {
 
     private String defaultValue = "w";
 
-    private String posibleValue = ",w,i,k,v,r,e,c,h,a,s,z,r,x,p,t,f,j,";//",h,e,c,";
+    private String posibleValue = ",w,i,k,g,v,r,e,c,h,a,s,z,r,x,p,t,f,j,";//",h,e,c,";
 
 
 	@RequestMapping("/documents")

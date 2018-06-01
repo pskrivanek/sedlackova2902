@@ -39,6 +39,7 @@
 		} else if ("documents.html".equals(path)) {
             out.println(generateItem("documents.html", "r", "r".equals(type) || type == null, "Stanovy SVJ"));
             out.println(generateItem("documents.html", "e", "e".equals(type) || type == null, "Zápisy SVJ"));
+            out.println(generateItem("documents.html", "g", "g".equals(type) || type == null, "GDPR"));
             out.println(generateItem("documents.html", "c", "c".equals(type) || type == null, "Smlouvy"));
             out.println(generateItem("documents.html", "v", "v".equals(type) || type == null, "Vyúčtování - často kladené otázky"));
             out.println(generateItem("documents.html", "h", "h".equals(type) || type == null, "Návody a rady"));

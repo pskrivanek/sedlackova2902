@@ -47,6 +47,16 @@
     </li>
 </ul>
  --%>
+<%
+    }
+    if ("g".equals(type)) {
+%>
+<h3>GDPR -  General Data Protection Regulation</h3>
+<p><br/>Dne 25. 5. 2018 nabývá účinnosti obecné nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. 4. 2016 o ochraně fyzických osob
+v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů).<br/>
+<br/>
+V souvislosti s tímto nařízením byla přijata <%= linkDownfile(DownFile.GDPR_smernice, "Směrnice pro nakládání s osobními údaji") %>.</p>
+
  <% 
     }
     if ("v".equals(type)) {

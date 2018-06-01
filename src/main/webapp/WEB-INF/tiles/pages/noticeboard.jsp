@@ -27,10 +27,21 @@ if (!StringUtils.isEmpty(archive)) {
 <br/>
 <hr/>
 <br/>
-<% 
+<%
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3>GDPR -  General Data Protection Regulation</h3>
+<p>Dne 25. 5. 2018 nabývá účinnosti obecné nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. 4. 2016 o ochraně fyzických osob
+v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů).<br/>
+<br/>
+V souvislosti s tímto nařízením byla přijata <%= linkDownfile(DownFile.GDPR_smernice, "Směrnice pro nakládání s osobními údaji") %>.</p>
+<br/>
+<i>Výbor SVJ<br/>
+</i>
+<br/>
+<br/>
+
 <h3 id="hlucne_prace_vnitroblok">Hlučné práce v objektu garážového domu</h3>
 <p>Na žádost vlastníka garážového domu - vnitroblok tímto předáváme informaci o prováděných pracích:</p>
 <div style="margin-left:30px;"><i>Ve dnech <b>23., 24., 25. a 28.5.</b> budou v objektu garážového domu probíhat hlučné práce a je možné, že se hluk protáhne i do večerních hodin.<br/>
