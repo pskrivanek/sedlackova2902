@@ -1,7 +1,7 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
-	GDPR_smernice(590, "GDPR_smernice_SVJ_Sedlackova2902/pdf", "232 kB"),
+	GDPR_smernice(590, "GDPR_smernice_SVJ_Sedlackova2902.pdf", "232 kB"),
 
 	Schuze2018_rozpocet2019(586, "schuze2018/Rozpocet_2019.pdf", "117 kB"),
 	UcetniZaverka_2017(585, "Ucetni_zaverka_2017.pdf", "528 kB"),

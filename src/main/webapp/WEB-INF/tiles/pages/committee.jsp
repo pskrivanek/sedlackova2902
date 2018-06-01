@@ -110,6 +110,11 @@ if ("c".equals(type)) {
 	if ("cc".equals(type)) {%>
 <h2>Kontrolní komise SVJ a její členové:</h2>
 <p>Kontrolní komise byla ustanovena dne 11.2.2010 na první schůzi SVJ jako reakce na samovolné zvolení p.Jonáše jednatelem SVJ.</p><br/> 
+<br/>
+Kontrolní komise zanikla
+<br/>
+<br/>
+<!--
 <table class="oam_table">
 	<thead>
 	<tr>
@@ -134,6 +139,7 @@ if ("c".equals(type)) {
 		<td>člen kontrolní komise</td>
 	</tr>
 </table>
+-->
 <%	} 
 	if ("i".equals(type)) {%>
 
