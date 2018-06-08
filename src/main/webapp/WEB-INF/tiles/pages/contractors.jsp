@@ -119,7 +119,7 @@ Na základě těchto zkušeností pak vedeme s dodavateli příslušná jednán�
 	</tr>
 	<tr>
 		<td>Správce</td>
-		<td>BERGA S.N. s.r.o.</td>
+		<td><a href="http://www.berga.cz" target="contractor">BERGA S.N. s.r.o.</a></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -221,13 +221,22 @@ Vyúčtování spotřeby el. energie ve společných prostorách za druhé polol
 %>
 <h3>Provoz výtahů</h3>
 <p>Provoz a servis výtahů je zajištěn jejich dodavatelem, společností <a href="http://www.schindler-cz.cz/prg-index/prg-ser.htm" target="contractor">Schindler CZ a.s.</a>.
-Servisní činnosti jsou prováděny na základě uzavřené „Servisní smlouvy č. HS 61065 E o poskytování prací a služeb“.</p><br/>
-<p>Z uvedené smlouvy vyplývá povinnost dodavatele k nastoupení na opravu, a to následovně:</p>
-<table border="0" style="width: 400px">
-	<tr><td style="padding:5px"> - v pracovní dny</td><td style="padding:5px">do 3 hodin od nahlášení</td></tr>
+Servisní činnosti jsou prováděny na základě uzavřené Servisní smlouvy ze dne 6.1.2017.</p><br/>
+<p>Vybrané ustanovení:<!%-- login to e_skrivape --%>
+<ul>
+	<li>Dispečink pro hlášení poruch 24hod/7dní tel: <b>+420 844 844 808</b></li>
+	<li>Vyproštění uvízlých osob s nástupem na vyproštění nejpozději do 60 min od nahlášení na dispečink</li>
+	<li>Nástup na opravu nejpozději do 3 hodin v pracovní dny od 7:00 do 15:30 od nahlášení na dispečink</li>
+	<li>Nástup na opravu v prodloužené pracovní době 7:00 až 22:00 hod vč. víkendů a svátků</li>
+	<li>Opravy (práce technika) v pracovních dnech v čase 7:00 až 15:30 hod</li>
+	<li>Garantovaná funkčnost zařízení po dobu 98,5% provozního času</li>
+	<li>On-line informační systém <a href="https://www.schindler.com/cz/internet/cs/servis/dashboard.html" target="contractor">Dashboard</a></li>
+</ul>
+<!--
+	<tr><td style="padding:5px"> - v pracovní dny od 7:00 do 15:30</td><td style="padding:5px">do 3 hodin od nahlášení</td></tr>
     <tr><td style="padding:5px"> - o víkendech a svátcích</td><td style="padding:5px">do 3 hodin od nahlášení</td></tr>
-    <tr><td style="padding:5px"> - vyproštění osob</td><td style="padding:5px">do 1 hodiny</td></tr>
-</table>
+    <tr><td style="padding:5px"> - vyproštění osob</td><td style="padding:5px">do 60 min od nahlášení na dispečink 24hod/7dní</td></tr>
+-->
 <br/>
 <p>Kontakty pro nahlášení poruchy: <b>+420 844 844 808</b><p><br/>
 <p>Volejte, prosím, ihned při zjištění poruchy výtahu a nečekejte na to, že zavolá někdo jiný!!! Čím později se porucha nahlásí, tím později bude odstraněna.</p>

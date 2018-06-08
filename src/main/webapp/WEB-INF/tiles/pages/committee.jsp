@@ -110,11 +110,11 @@ if ("c".equals(type)) {
 	if ("cc".equals(type)) {%>
 <h2>Kontrolní komise SVJ a její členové:</h2>
 <p>Kontrolní komise byla ustanovena dne 11.2.2010 na první schůzi SVJ jako reakce na samovolné zvolení p.Jonáše jednatelem SVJ.</p><br/> 
-<br/>
+<!-- <br/>
 Kontrolní komise zanikla
+<br/> -->
 <br/>
-<br/>
-<!--
+
 <table class="oam_table">
 	<thead>
 	<tr>
@@ -125,21 +125,21 @@ Kontrolní komise zanikla
 	</thead>
 	<tr>
 		<td><a href="mailto:komise.sedlackova2902@gmail.com">komise.sedlackova2902@gmail.com</a></td>
-		<td>Lucie Chlpíková</td>
+		<td>Aneta Carbolová</td>
 		<td>člen kontrolní komise</td>
 	</tr>
 	<tr>
 		<td><a href="mailto:komise.sedlackova2902@gmail.com">komise.sedlackova2902@gmail.com</a></td>
-		<td>Marek Nosek</td>
+		<td>Šárka Adamová</td>
 		<td>člen kontrolní komise</td>
 	</tr>
 	<tr>
 		<td><a href="mailto:komise.sedlackova2902@gmail.com">komise.sedlackova2902@gmail.com</a></td>
-		<td>Antotnín Adam</td>
+		<td>Renata Šusterová</td>
 		<td>člen kontrolní komise</td>
 	</tr>
 </table>
--->
+
 <%	} 
 	if ("i".equals(type)) {%>
 
