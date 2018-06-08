@@ -18,6 +18,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <div align="right">výbor Společenství</div>
 <br/><br/><br/>
 <br/>
+<h4><h3>Úklid garážových stání - 14.6.2018</h4>
+<p>Ve čtvrtek dne 14.6.2018 bude provedeno čištění garážových stání pod domem Sedláčkova 2902 ... <a href="noticeboard.html#cisteni_garazi_2018">více zde</a></p>
+
+<%--
 <h4>Hlučné práce v objektu garážového domu</h4>
 <p>Ve dnech 23., 24., 25. a 28.5. budou v objektu garážového domu probíhat hlučné práce a je možné, že se hluk protáhne i do večerních hodin ... <a href="noticeboard.html#hlucne_prace_vnitroblok">více zde</a>
 </p>
@@ -35,7 +39,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <p>Dne 28.4.2018 bylo distribuováno do Vašich poštovních stránek vyúčtování služeb spojených s užíváním prostoru za rok 2017 ... <a href=
 "noticeboard.html#vyuctovani_sluzeb_2017">více zde</a></p>
 <br/><br/>
-<%--
+
 <h4>Navážení materiálu k dokončení vnitrobloku</h4>
 <p>ve čtvrtek 26.4.2018 se začíná navážet materiál k dokončení garážového domu/vnitrobloku ... <a href=
 "noticeboard.html#navazeni_materialu">více zde</a></p>

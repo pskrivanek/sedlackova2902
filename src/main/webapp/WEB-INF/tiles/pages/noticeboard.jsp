@@ -31,14 +31,26 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="cisteni_garazi_2018">Úklid garážových stání - 14.6.2018</h3>
+<p>Dobrý den majitelé a nájemníci garážových stání pod domem Sedláčkova 2902. Rád bych Vás požádal o spolupráci při čištění prostoru garážových stání <b>dne 14.6.2018 od 8 do 17 hodin</b>. Největší pomocí z Vaší strany bude vyklizení Vašeho parkovacího stání - vyparkování auta/motorky/ ... a případně dalších dočasně odložených věcí. Proběhne strojové a ruční čištění celého prostoru po zimě a navíc ometení všech rozvodů trubek a vzduchotechniky.<br/>
+Předem děkuji za spolupráci. V případě nejasností se mi prosím ozvěte.</p>
+<br/>
+<i>
+Ing. Radim Zemánek<br/>
+tel: 733 149 202<br/>
+email: <a href="mailto:a2.sedlackova2902@gmail.com">a2.sedlackova2902@gmail.com</a><br/>
+</i>
+<br/>
+<br/>
+
+
 <h3>GDPR -  General Data Protection Regulation</h3>
 <p>Dne 25. 5. 2018 nabývá účinnosti obecné nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. 4. 2016 o ochraně fyzických osob
 v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů).<br/>
 <br/>
 V souvislosti s tímto nařízením byla přijata <%= linkDownfile(DownFile.GDPR_smernice, "Směrnice pro nakládání s osobními údaji") %>.</p>
 <br/>
-<i>Výbor SVJ<br/>
-</i>
+<i>Výbor SVJ</i><br/>
 <br/>
 <br/>
 
@@ -99,6 +111,7 @@ S pozdravem<br/>
 Monika Svojanovská, účetní<br/>
 tel: 533 338 637<br/>
 email: m.svojanovska@e-kpm.cz<br/>
+<a href="http://www.berga.cz" target="contractor">www.berga.cz</a>
 </i>
 </p>
 <br/><br/>
