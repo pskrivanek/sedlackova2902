@@ -125,7 +125,7 @@ Kontrolní komise zanikla
 	</thead>
 	<tr>
 		<td><a href="mailto:komise.sedlackova2902@gmail.com">komise.sedlackova2902@gmail.com</a></td>
-		<td>Aneta Carbolová</td>
+		<td>Alena Carbolová</td>
 		<td>člen kontrolní komise</td>
 	</tr>
 	<tr>
