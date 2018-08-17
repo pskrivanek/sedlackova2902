@@ -31,6 +31,41 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="vymena_vchodovych_dveri">Výměna vchodových dveří</h3>
+<p>v pondělí 20.8.2018 ráno se začne od vchodu 12 a 14 s výměnou vchodových dveří. Předpoklad jsou dvoje dveře první den a pokud vše dobře půjde mohly by se další den vyměnit dveře v dalších 3 vchodech 16,18,20. Takový je předpoklad. Nejzašší termín výměny všech dveří se očekává v pondělí 27.8.2018. Při výměně dveří bude součinnost se zámečníky pro výměnu vložek, aby zůstala zachovaná funkčnost stávajících klíčů. El. vrátní mohou být dočasně nefuknční (otevírání z bytu), protože je nutná součinnost elektrikáře a ten nebude k dispozici každý den.<br/>
+<ul>
+<li><%= linkDownfile(DownFile.HMG_vymena_vchodovych_dveri, "HMG výměny") %></li>
+</ul>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+<h3 id="vymena_vodomeru_2018">Výměna vodoměru - 2018</h3>
+<p>V říjnu 2018 dojde k výměně vodoměrů v bytových jednotkách našeho SVJ.<br/>
+K výměně vodoměrů dojde v termínech 1.-5.10.,  8.-12.10. a 15.-16.10.
+Na každý vchod je vyhrazený jeden pracovní den. U vchodů 12 a 34 budou výměnu provádět dva instalatéři. Jeden půjde od přízemí nahoru, druhý od posledního bytu dolu.</p>
+<p>U ostatních vchodů bude výměnu provádět jeden instalatér a vždy půjde od přízemí nahoru.</p>
+<p>Náhradní termíny budou stanoveny podle počtu nezpřístupněných bytů.</p>
+<p>HMG budou ještě před realizací vyvěšeny zhotovitelem ve vchodech.</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+<h3 id="garazovy_dum_sedlackova">Garážový dům Sedláčkova</h3>
+<p>Garážový dům ve vnitrobloku je hotový a je možné si kopit garážové stání. Zde jsou letáčky:
+<ul>
+	<li><%= linkDownfile(DownFile.GD_letak, "Garážového domu") %></li>
+	<li><%= linkDownfile(DownFile.GD_finance_MP, "financování přes modrou pyramidu") %></li>
+	<li><%= linkDownfile(DownFile.GD_finance_KB, "financování přes KB") %></li>
+</ul>
+</p>
+<br/>
+<i>AvrioReal, s.r.o</i><br/>
+<br/>
+<br/>
+
 <h3 id="cisteni_garazi_2018">Úklid garážových stání - 14.6.2018</h3>
 <p>Dobrý den majitelé a nájemníci garážových stání pod domem Sedláčkova 2902. Rád bych Vás požádal o spolupráci při čištění prostoru garážových stání <b>dne 14.6.2018 od 8 do 17 hodin</b>. Největší pomocí z Vaší strany bude vyklizení Vašeho parkovacího stání - vyparkování auta/motorky/ ... a případně dalších dočasně odložených věcí. Proběhne strojové a ruční čištění celého prostoru po zimě a navíc ometení všech rozvodů trubek a vzduchotechniky.<br/>
 Předem děkuji za spolupráci. V případě nejasností se mi prosím ozvěte.</p>

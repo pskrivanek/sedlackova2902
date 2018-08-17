@@ -18,10 +18,19 @@ které nás budou v souvislosti s naším domem zajímat.
 <div align="right">výbor Společenství</div>
 <br/><br/><br/>
 <br/>
+
+<h4><h3>Výměna vchodových dveří</h4>
+<p>v pondělí 20.8.2018 ráno se začne od vchodu 12 a 14 s výměnou vchodových dveří ... <a href="noticeboard.html#vymena_vchodovych_dveri">více zde</a></p>
+<br/><br/>
+
+<h4><h3>Výměna vodoměru - 2018</h4>
+<p>V říjnu 2018 dojde k výměně vodoměrů v bytových jednotkách našeho SVJ ... <a href="noticeboard.html#vymena_vodomeru_2018">více zde</a></p>
+
+
+<%--
 <h4><h3>Úklid garážových stání - 14.6.2018</h4>
 <p>Ve čtvrtek dne 14.6.2018 bude provedeno čištění garážových stání pod domem Sedláčkova 2902 ... <a href="noticeboard.html#cisteni_garazi_2018">více zde</a></p>
 
-<%--
 <h4>Hlučné práce v objektu garážového domu</h4>
 <p>Ve dnech 23., 24., 25. a 28.5. budou v objektu garážového domu probíhat hlučné práce a je možné, že se hluk protáhne i do večerních hodin ... <a href="noticeboard.html#hlucne_prace_vnitroblok">více zde</a>
 </p>

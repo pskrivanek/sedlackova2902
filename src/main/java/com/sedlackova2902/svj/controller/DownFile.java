@@ -1,8 +1,13 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	HMG_vymena_vchodovych_dveri(600, "HMG_vchodove_dvere.pdf", "250 kB"),
+	GD_letak(595, "garazovy_dum/AR_letak_garaze_Sedlackova.pdf", "430 kB"),
+	GD_finance_MP(594, "garazovy_dum/letak_modra_pyramida_GS.pdf", "662 kB"),
+	GD_finance_KB(593, "garazovy_dum/KB_spotrebitelsky_uver_letacek.pdf", "248 kB"),
 	GDPR_smernice(590, "GDPR_smernice_SVJ_Sedlackova2902.pdf", "232 kB"),
 
+	Schuze2018_zapis(587, "schuze2018/Zapis_shromazdeni_SVJ.pdf", "2.4 MB"),
 	Schuze2018_rozpocet2019(586, "schuze2018/Rozpocet_2019.pdf", "117 kB"),
 	UcetniZaverka_2017(585, "Ucetni_zaverka_2017.pdf", "528 kB"),
 	Schuze2018_zmocneniSJMDoc(584, "schuze2018/Zmocneni_SJM.doc", "42.5 kB"),

@@ -116,6 +116,8 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
 <p></p>
 <br/>
 <ul>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2018_zapis, "2018_06_04_Zapis_shromazdeni_SVJ.pdf") %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2017_zapis, "2017_06_06_Zapis_shromazdeni_SVJ.pdf") %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2016_zapis, "2016_06_09_Zapis_shromazdeni_SVJ.pdf") %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2015_zapis, "2015_06_02_Zapis_shromazdeni_SVJ.pdf") %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2014_zapis, "2014_06_25_Zapis_shromazdeni_SVJ.pdf") %></li>
@@ -1429,7 +1431,7 @@ Kdy je potřeba plná moc:
         <li><a href="#Program">Klíčové body programu</a></li>
         <li><a href="#Plna_moc">Informace k plné moci</a></li>
         <br/>
-        <!-- <li><%= linkDownfile(DownFile.Schuze2017_zapis, "Zápis ze schůze") %></li> -->
+        <li><%= linkDownfile(DownFile.Schuze2018_zapis, "Zápis ze schůze") %></li> 
     </ul>
 <br/>
 <hr/>
