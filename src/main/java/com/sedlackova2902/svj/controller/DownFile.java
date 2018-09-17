@@ -1,6 +1,19 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	HMG_2018_vymena_vodomeru_34(621, "2018_hgm_vymeny_vodomery/Sedlackova_34.pdf", "68 kB"),
+	HMG_2018_vymena_vodomeru_32(620, "2018_hgm_vymeny_vodomery/Sedlackova_32.pdf", "64 kB"),
+	HMG_2018_vymena_vodomeru_30(619, "2018_hgm_vymeny_vodomery/Sedlackova_30.pdf", "63 kB"),
+	HMG_2018_vymena_vodomeru_28(618, "2018_hgm_vymeny_vodomery/Sedlackova_28.pdf", "60 kB"),
+	HMG_2018_vymena_vodomeru_26(617, "2018_hgm_vymeny_vodomery/Sedlackova_26.pdf", "60 kB"),
+	HMG_2018_vymena_vodomeru_24(616, "2018_hgm_vymeny_vodomery/Sedlackova_24.pdf", "60 kB"),
+	HMG_2018_vymena_vodomeru_22(615, "2018_hgm_vymeny_vodomery/Sedlackova_22.pdf", "60 kB"),
+	HMG_2018_vymena_vodomeru_20(614, "2018_hgm_vymeny_vodomery/Sedlackova_20.pdf", "60 kB"),
+	HMG_2018_vymena_vodomeru_18(613, "2018_hgm_vymeny_vodomery/Sedlackova_18.pdf", "50 kB"),
+	HMG_2018_vymena_vodomeru_16(612, "2018_hgm_vymeny_vodomery/Sedlackova_16.pdf", "51 kB"),
+	HMG_2018_vymena_vodomeru_14(611, "2018_hgm_vymeny_vodomery/Sedlackova_14.pdf", "51 kB"),
+	HMG_2018_vymena_vodomeru_12(610, "2018_hgm_vymeny_vodomery/Sedlackova_12.pdf", "54 kB"),
+
 	HMG_vymena_vchodovych_dveri(600, "HMG_vchodove_dvere.pdf", "250 kB"),
 	GD_letak(595, "garazovy_dum/AR_letak_garaze_Sedlackova.pdf", "430 kB"),
 	GD_finance_MP(594, "garazovy_dum/letak_modra_pyramida_GS.pdf", "662 kB"),

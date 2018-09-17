@@ -31,6 +31,13 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="vymalba_spolecnych_prostor">Výmalba společných prostor</h3>
+<p>ve středu 19.9.2018 začne výmalba společných prostor domu. Začne se vchodem S14. Podle rychlosti prací se pak určí přechod na další vchod.</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3 id="vymena_vchodovych_dveri">Výměna vchodových dveří</h3>
 <p>v pondělí 20.8.2018 ráno se začne od vchodu 12 a 14 s výměnou vchodových dveří. Předpoklad jsou dvoje dveře první den a pokud vše dobře půjde mohly by se další den vyměnit dveře v dalších 3 vchodech 16,18,20. Takový je předpoklad. Nejzašší termín výměny všech dveří se očekává v pondělí 27.8.2018. Při výměně dveří bude součinnost se zámečníky pro výměnu vložek, aby zůstala zachovaná funkčnost stávajících klíčů. El. vrátní mohou být dočasně nefuknční (otevírání z bytu), protože je nutná součinnost elektrikáře a ten nebude k dispozici každý den.<br/>
 <ul>
@@ -46,9 +53,22 @@ if (StringUtils.isEmpty(archive)) {
 K výměně vodoměrů dojde v termínech 1.-5.10.,  8.-12.10. a 15.-16.10.
 Na každý vchod je vyhrazený jeden pracovní den. U vchodů 12 a 34 budou výměnu provádět dva instalatéři. Jeden půjde od přízemí nahoru, druhý od posledního bytu dolu.</p>
 <p>U ostatních vchodů bude výměnu provádět jeden instalatér a vždy půjde od přízemí nahoru.</p>
-<p>Náhradní termíny budou stanoveny podle počtu nezpřístupněných bytů.</p>
+<p>Náhradní termíny budou stanoveny podle počtu nezpřístupněných bytů. Zde je kompletní harmonogram po vchodech:</p>
+<ul>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_12, "Sedláčkova 12 - dne 1.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_14, "Sedláčkova 14 - dne 2.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_16, "Sedláčkova 16 - dne 3.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_18, "Sedláčkova 18 - dne 4.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_20, "Sedláčkova 20 - dne 5.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_22, "Sedláčkova 22 - dne 8.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_24, "Sedláčkova 24 - dne 9.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_26, "Sedláčkova 26 - dne 10.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_28, "Sedláčkova 28 - dne 11.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_30, "Sedláčkova 30 - dne 12.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_32, "Sedláčkova 32 - dne 15.10.2018") %></li>
+    <li><%= linkDownfile(DownFile.HMG_2018_vymena_vodomeru_34, "Sedláčkova 34 - dne 16.10.2018") %></li>
+</ul><br/>
 <p>HMG budou ještě před realizací vyvěšeny zhotovitelem ve vchodech.</p>
-<br/>
 <i>Výbor SVJ</i><br/>
 <br/>
 <br/>
@@ -210,18 +230,18 @@ Kontaktní osoba je:
 <p>v termímu od 9.1.2018 do 12.1.2018 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě.</p><br/>
 Zde jsou termíny odečtu po vchodech: </p>
 <ul>
-    <li>Sedláčkova 12: &nbsp; <i>Dne &nbsp; 9.1.2017 &nbsp; 15:00 - 17:00 hod</i></li>
-    <li>Sedláčkova 14: &nbsp; <i>Dne 11.1.2017 &nbsp; 18:30 - 20:00 hod</i></li>
-    <li>Sedláčkova 16: &nbsp; <i>Dne 11.1.2017 &nbsp; 17:00 - 18:30 hod</i></li>
-    <li>Sedláčkova 18: &nbsp; <i>Dne 11.1.2017 &nbsp; 15:00 - 17:00 hod</i></li>
-    <li>Sedláčkova 20: &nbsp; <i>Dne &nbsp; 9.1.2017 &nbsp; 17:00 - 18:30 hod</i></li>
-    <li>Sedláčkova 22: &nbsp; <i>Dne &nbsp; 9.1.2017 &nbsp; 18:30 - 20:00 hod</i></li>
-    <li>Sedláčkova 24: &nbsp; <i>Dne 10.1.2017 &nbsp; 17:00 - 18:30 hod</i></li>
-    <li>Sedláčkova 26: &nbsp; <i>Dne 10.1.2017 &nbsp; 18:30 - 20:00 hod</i></li>
-    <li>Sedláčkova 28: &nbsp; <i>Dne 12.1.2017 &nbsp; 15:00 - 17:00 hod</i></li>
-    <li>Sedláčkova 30: &nbsp; <i>Dne 12.1.2017 &nbsp; 17:00 - 18:30 hod</i></li>
-    <li>Sedláčkova 32: &nbsp; <i>Dne 12.1.2017 &nbsp; 18:30 - 20:00 hod</i></li>
-    <li>Sedláčkova 34: &nbsp; <i>Dne 10.1.2017 &nbsp; 15:00 - 17:00 hod</i></li>
+    <li>Sedláčkova 12: &nbsp; <i>Dne &nbsp; 9.1.2018 &nbsp; 15:00 - 17:00 hod</i></li>
+    <li>Sedláčkova 14: &nbsp; <i>Dne 11.1.2018 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 16: &nbsp; <i>Dne 11.1.2018 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 18: &nbsp; <i>Dne 11.1.2018 &nbsp; 15:00 - 17:00 hod</i></li>
+    <li>Sedláčkova 20: &nbsp; <i>Dne &nbsp; 9.1.2018 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 22: &nbsp; <i>Dne &nbsp; 9.1.2018 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 24: &nbsp; <i>Dne 10.1.2018 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 26: &nbsp; <i>Dne 10.1.2018 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 28: &nbsp; <i>Dne 12.1.2018 &nbsp; 15:00 - 17:00 hod</i></li>
+    <li>Sedláčkova 30: &nbsp; <i>Dne 12.1.2018 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 32: &nbsp; <i>Dne 12.1.2018 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 34: &nbsp; <i>Dne 10.1.2018 &nbsp; 15:00 - 17:00 hod</i></li>
 </ul>
 Souhrný seznam ale po dnech je možné stáhnout <%= linkDownfile(DownFile.OdectyMericu2018, "zde") %><br/><br/>
 <p>Pokud nebudete v uvedenou dobu přítomni, můžete stavy a výrobní čísla měřičů tepla a vodoměrů zaslat e-mailem na adresu <a href="mailto:odecty@thera.cz">odecty@thera.cz</a>.</p>

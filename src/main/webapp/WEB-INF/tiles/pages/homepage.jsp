@@ -19,11 +19,15 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
-<h4><h3>Výměna vchodových dveří</h4>
+<h4>Výmalba společných prostor</h4>
+<p>ve středu 19.9.2018 začne výmalba společných prostor domu. Začne se vchodem S14 ... <a href="noticeboard.html#vymalba_spolecnych_prostor">více zde</a></p></p> 
+<br/><br/>
+
+<h4>Výměna vchodových dveří</h4>
 <p>v pondělí 20.8.2018 ráno se začne od vchodu 12 a 14 s výměnou vchodových dveří ... <a href="noticeboard.html#vymena_vchodovych_dveri">více zde</a></p>
 <br/><br/>
 
-<h4><h3>Výměna vodoměru - 2018</h4>
+<h4>Výměna vodoměru - 2018</h4>
 <p>V říjnu 2018 dojde k výměně vodoměrů v bytových jednotkách našeho SVJ ... <a href="noticeboard.html#vymena_vodomeru_2018">více zde</a></p>
 
 
