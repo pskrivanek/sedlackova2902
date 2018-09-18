@@ -31,6 +31,12 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="instalace_kamer_do_vytahu">Instalace kamer do výtahů</h3>
+<p>ve středu 19.9.2018 proběhne instalace kamer do kabin výtahů. Plánovaná odstávka výtahu v každém vchodě je cca 30 minut a začne se vchodem S12 v 8 hodin ráno.</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/><br/>
+
 <h3 id="vymalba_spolecnych_prostor">Výmalba společných prostor</h3>
 <p>ve středu 19.9.2018 začne výmalba společných prostor domu. Začne se vchodem S14. Podle rychlosti prací se pak určí přechod na další vchod.</p>
 <br/>

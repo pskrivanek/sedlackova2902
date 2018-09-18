@@ -19,6 +19,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Instalace kamer do výtahů</h4>
+<p>ve středu 19.9.2018 proběhne instalace kamer do kabin výtahů. Plánovaná odstávka výtahu v každém vchodě je cca 30 minut.</p>
+<br/><br/>
+
 <h4>Výmalba společných prostor</h4>
 <p>ve středu 19.9.2018 začne výmalba společných prostor domu. Začne se vchodem S14 ... <a href="noticeboard.html#vymalba_spolecnych_prostor">více zde</a></p></p> 
 <br/><br/>
