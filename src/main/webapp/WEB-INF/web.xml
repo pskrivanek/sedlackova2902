@@ -22,6 +22,10 @@
 		<servlet-name>spring</servlet-name>
 		<url-pattern>*.html</url-pattern>
 	</servlet-mapping>
+	<servlet-mapping>
+        <servlet-name>spring</servlet-name>
+        <url-pattern>/cctv</url-pattern>
+    </servlet-mapping>
 	
     <filter>
         <filter-name>encoding-filter</filter-name>

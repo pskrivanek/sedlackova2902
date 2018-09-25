@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tiles-definitions PUBLIC
        "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
        "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
@@ -49,6 +49,11 @@
         <put-attribute name="title" value="Dokumenty, návody a rady" />
         <put-attribute name="body" value="/WEB-INF/tiles/pages/documents.jsp" />
         <put-attribute name="subNavigation" value="/WEB-INF/tiles/commons/subnavigation.jsp" />
+    </definition>
+
+    <definition name="cctv" extends="definition.simple">
+        <put-attribute name="title" value="CCTV" />
+        <put-attribute name="body" value="/WEB-INF/tiles/pages/cctv.jsp" />
     </definition>
 
 </tiles-definitions>
