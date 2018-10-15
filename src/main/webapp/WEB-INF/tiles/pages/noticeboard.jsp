@@ -31,6 +31,15 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="garazovy_dum">Garážový dům v provozu</h3>
+<p>Garážový dům ve vnitrobloku BD Sedláčkova 2902 je již v provozu.
+<b>NEPARKOVAT na vjezdech a výjezdech do garážového domu!</b>
+Blokující vozy mohou být odtaženy.</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/><br/>
+
+
 <h3 id="instalace_kamer_do_vytahu">Instalace kamer do výtahů</h3>
 <p>ve středu 19.9.2018 proběhne instalace kamer do kabin výtahů. Plánovaná odstávka výtahu v každém vchodě je cca 30 minut a začne se vchodem S12 v 8 hodin ráno.</p>
 <br/>
