@@ -31,6 +31,13 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="pojistna_smlouva_2018">Aktualizovaná pojistná smlouva SVJ</h3>
+<p>Došlo k aktualizaci Pojistné smlouvy majetku pro náš dům Sedláčkova 2902. Nová smlouva je platná od 11/2018 a došlo k navýšení pojistné částky a snížení částky ročního pojistného. Novou smlouvu si můžete stáhnout <%= linkDownfile(DownFile.POJISTKA_201811, "zde") %>. </p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/><br/>
+
+
 <h3 id="garazovy_dum">Garážový dům v provozu</h3>
 <p>Garážový dům ve vnitrobloku BD Sedláčkova 2902 je již v provozu.
 <b>NEPARKOVAT na vjezdech a výjezdech do garážového domu!</b>

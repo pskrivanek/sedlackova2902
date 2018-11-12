@@ -192,8 +192,9 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
 <h3>Uzavřené smlouvy SVJ</h3>
 <br/>  
 <ul>
-    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.POJISTKA_201311) %> - období 2013/2014</li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.POJISTKA_201811) %> - období 2018/2019</li>
     <%--
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.POJISTKA_201311) %> - období 2013/2014</li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.POJISTKA_201111) %> - období 2011/2012</li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.POJISTKA) %> - období 2010/2011</li>
      --%>

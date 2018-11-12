@@ -14,6 +14,8 @@ public enum DownFile {
 	HMG_2018_vymena_vodomeru_14(611, "2018_hgm_vymeny_vodomery/Sedlackova_14.pdf", "51 kB"),
 	HMG_2018_vymena_vodomeru_12(610, "2018_hgm_vymeny_vodomery/Sedlackova_12.pdf", "54 kB"),
 
+	POJISTKA_201811(605, "Pojisteni_majetku_2018.pdf", "320 kB"),
+
 	HMG_vymena_vchodovych_dveri(600, "HMG_vchodove_dvere.pdf", "250 kB"),
 	GD_letak(595, "garazovy_dum/AR_letak_garaze_Sedlackova.pdf", "430 kB"),
 	GD_finance_MP(594, "garazovy_dum/letak_modra_pyramida_GS.pdf", "662 kB"),
