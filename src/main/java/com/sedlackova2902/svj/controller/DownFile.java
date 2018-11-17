@@ -1,6 +1,8 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	OstavkaVodyBlokyC(625, "Odstavka_vody_bloky_C.pdf", "119 kB"),
+
 	HMG_2018_vymena_vodomeru_34(621, "2018_hgm_vymeny_vodomery/Sedlackova_34.pdf", "68 kB"),
 	HMG_2018_vymena_vodomeru_32(620, "2018_hgm_vymeny_vodomery/Sedlackova_32.pdf", "64 kB"),
 	HMG_2018_vymena_vodomeru_30(619, "2018_hgm_vymeny_vodomery/Sedlackova_30.pdf", "63 kB"),

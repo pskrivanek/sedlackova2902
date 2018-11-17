@@ -31,6 +31,18 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="odstavka_vody_blok_c">Odstávka vody v "C" blocích</h3>
+<p>
+Ve všech "C" blocích - vchody Sedláčkova 12, Sedláčkova 14, Sedláčkova 16 a Sedláčkova 18, bude
+z důvodu výměny havarijních ventilů vodorovného potrubí vody uzavřen přívod teplé a studené vody.<br/>
+<b>Voda bude zastavena ve středu 21.11.2018 od 22 hodin a znovu puštěna v 18 hodin 22.11.2018.</b><br/>
+<br/>
+<i>Během této doby nepoteče studená a tepla voda. Doporučujeme si proto vytvořit zásobu vody i na splachování WC.</i><br/> Informační letáček je k dispozici <%= linkDownfile(DownFile.OstavkaVodyBlokyC, "zde") %> <br/>
+</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/><br/>
+
 <h3 id="pojistna_smlouva_2018">Aktualizovaná pojistná smlouva SVJ</h3>
 <p>Došlo k aktualizaci Pojistné smlouvy majetku pro náš dům Sedláčkova 2902. Nová smlouva je platná od 11/2018 a došlo k navýšení pojistné částky a snížení částky ročního pojistného. Novou smlouvu si můžete stáhnout <%= linkDownfile(DownFile.POJISTKA_201811, "zde") %>. </p>
 <br/>

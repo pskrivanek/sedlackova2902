@@ -19,6 +19,11 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Odstávka vody v "C" blocích</h4>
+<p>Ve všech "C" blocích - vchody Sedláčkova 12, Sedláčkova 14, Sedláčkova 16 a Sedláčkova 18 bude
+z důvodu výměny havarijních ventilů ... <a href="noticeboard.html#odstavka_vody_blok_c">více zde</a></p>
+<br/><br/>
+
 <h4>Aktualizovaná pojistná smlouva SVJ</h4>
 <p>Došlo k aktualizaci Pojistné smlouvy majetku pro náš dům Sedláčkova 2902. Nová smlouva je platná od 11/2018 a došlo k ... <a href="noticeboard.html#pojistna_smlouva_2018">více zde</a></p>
 <br/><br/>
