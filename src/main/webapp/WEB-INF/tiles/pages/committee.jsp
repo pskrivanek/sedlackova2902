@@ -25,7 +25,7 @@ if ("c".equals(type)) {
 		<td align="center">Sedláčkova 20</td>
 		<td align="center">A1</td>
 		<td><a href="mailto:a1.sedlackova2902@gmail.com">a1.sedlackova2902@gmail.com</a></td>
-		<td>Ing. Jiří Ševčík</td>
+		<td>Marek Nosek</td>
 		<td>místopředseda</td>
 	</tr>
 	<tr>

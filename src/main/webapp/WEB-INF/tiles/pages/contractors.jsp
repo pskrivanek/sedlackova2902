@@ -114,7 +114,7 @@ Na základě těchto zkušeností pak vedeme s dodavateli příslušná jednán�
 	</tr>
 	<tr>
 		<td>Úklid</td>
-		<td><a href="http://homepartner.cz" target="contractor">Home Partner s.r.o.</a></td>
+		<td><a href="http://bruco.cz" target="contractor">BRUCO spol. s r.o.</a></td>
 		<td></td>
 	</tr>
 	<tr>
