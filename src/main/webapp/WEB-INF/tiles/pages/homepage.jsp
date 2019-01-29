@@ -19,6 +19,24 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Přerušení dodávky vody</h4>
+<p>z důvodu havárie kulového ventilu Vám sdělujeme, že <b>ve čtvrtek 31.1.2019 od 8:00 do 10:00</b> bude ...
+<a href="noticeboard.html#preruseni_dodavky_vody_012019">více zde</a><p>
+<br/><br/>
+
+
+<h4>Odečty bytových měřičů leden 2019</h4>
+<p>v termímu od 8.1.2019 do 11.1.2019 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů ... 
+<a href="noticeboard.html#odecty_bytovych_mericu_2019">více zde</a><p>
+<br/><br/>
+
+<h4>Výmalba společných prostor</h4>
+<p>ve středu 19.9.2018 začne výmalba společných prostor domu. Začne se vchodem S14 ... <a href="noticeboard.html?a=2018#vymalba_spolecnych_prostor">více zde</a></p></p> 
+<br/><br/>
+
+
+
+<%--
 <h4>Odstávka vody v "C" blocích</h4>
 <p>Ve všech "C" blocích - vchody Sedláčkova 12, Sedláčkova 14, Sedláčkova 16 a Sedláčkova 18 bude
 z důvodu výměny havarijních ventilů ... <a href="noticeboard.html#odstavka_vody_blok_c">více zde</a></p>
@@ -32,12 +50,6 @@ z důvodu výměny havarijních ventilů ... <a href="noticeboard.html#odstavka_
 <p>Garážový dům ve vnitrobloku BD Sedláčkova 2902 je již v provozu. NEPARKOVAT na vjezdech a výjezdech do garážového domu! ...<a href="noticeboard.html#garazovy_dum">více zde</a></p>
 <br/><br/>
 
-<h4>Výmalba společných prostor</h4>
-<p>ve středu 19.9.2018 začne výmalba společných prostor domu. Začne se vchodem S14 ... <a href="noticeboard.html#vymalba_spolecnych_prostor">více zde</a></p></p> 
-<br/><br/>
-
-
-<%--
 <h4>Instalace kamer do výtahů</h4>
 <p>ve středu 19.9.2018 proběhne instalace kamer do kabin výtahů. Plánovaná odstávka výtahu v každém vchodě je cca 30 minut.</p>
 <br/><br/>

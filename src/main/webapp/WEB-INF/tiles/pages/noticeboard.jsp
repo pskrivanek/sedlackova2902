@@ -22,7 +22,7 @@ String archive = (String) request.getAttribute("a");
 if (!StringUtils.isEmpty(archive)) {
 %>
 <div class="archive">
- Archív zpráv z roku <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
+ Archív zpráv z roku <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
 </div>
 <br/>
 <hr/>
@@ -31,6 +31,53 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="preruseni_dodavky_vody_012019">Přerušení dodávky vody</h3>
+<p>z důvodu havárie kulového ventilu Vám sdělujeme, že <b>ve čtvrtek 31.1.2019 od 8:00 do 10:00</b> bude zcela přerušena dodávka vody ve vchodech:
+<ul>
+<li>Sedláčkova 12</li>
+<li>Sedláčkova 14</li>
+<li>Sedláčkova 16</li>
+<li>Sedláčkova 18</li>
+</ul>
+<br/>
+Děkujeme Vám za pochopení.
+</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+<h3 id="odecty_bytovych_mericu_2019">Odečty bytových měřičů leden 2019</h3>
+<p>v termímu od 8.1.2019 do 11.1.2019 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě.<br/>
+Zde jsou termíny odečtu po vchodech: </p>
+
+<ul>
+    <li>Sedláčkova 12: &nbsp; <i>Dne &nbsp; 8.1.2019 &nbsp; 15:00 - 17:00 hod</i></li>
+    <li>Sedláčkova 14: &nbsp; <i>Dne 10.1.2019 &nbsp; 18:00 - 20:00 hod</i></li>
+    <li>Sedláčkova 16: &nbsp; <i>Dne 10.1.2019 &nbsp; 16:30 - 18:00 hod</i></li>
+    <li>Sedláčkova 18: &nbsp; <i>Dne 10.1.2019 &nbsp; 15:00 - 16:30 hod</i></li>
+    <li>Sedláčkova 20: &nbsp; <i>Dne &nbsp; 8.1.2019 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 22: &nbsp; <i>Dne &nbsp; 8.1.2019 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 24: &nbsp; <i>Dne &nbsp; 9.1.2019 &nbsp; 17:00 - 18:30 hod</i></li>
+    <li>Sedláčkova 26: &nbsp; <i>Dne &nbsp; 9.1.2019 &nbsp; 18:30 - 20:00 hod</i></li>
+    <li>Sedláčkova 28: &nbsp; <i>Dne 11.1.2019 &nbsp; 15:00 - 16:30 hod</i></li>
+    <li>Sedláčkova 30: &nbsp; <i>Dne 11.1.2019 &nbsp; 16:30 - 18:00 hod</i></li>
+    <li>Sedláčkova 32: &nbsp; <i>Dne 11.1.2019 &nbsp; 18:00 - 20:00 hod</i></li>
+    <li>Sedláčkova 34: &nbsp; <i>Dne &nbsp; 9.1.2019 &nbsp; 15:00 - 17:00 hod</i></li>
+</ul>
+<br/>
+<p>Pokud nebudete v uvedenou dobu přítomni, můžete stavy a výrobní čísla měřičů tepla a vodoměrů zaslat e-mailem na adresu <a href="mailto:odecty@thera.cz">odecty@thera.cz</a>.</p>
+<br/>
+<br/>
+
+<div class="archive">
+ Archív zpráv z roku <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
+</div>
+<%
+}
+if ("2018".equals(archive)) {
+%>
+
 <h3 id="odstavka_vody_blok_c">Odstávka vody v "C" blocích</h3>
 <p>
 Ve všech "C" blocích - vchody Sedláčkova 12, Sedláčkova 14, Sedláčkova 16 a Sedláčkova 18, bude
@@ -261,7 +308,7 @@ Kontaktní osoba je:
 <br/>
 
 <h3 id="odecty_bytovych_mericu_2018">Odečty bytových měřičů leden 2018</h3>
-<p>v termímu od 9.1.2018 do 12.1.2018 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě.</p><br/>
+<p>v termímu od 9.1.2018 do 12.1.2018 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě.<br/>
 Zde jsou termíny odečtu po vchodech: </p>
 <ul>
     <li>Sedláčkova 12: &nbsp; <i>Dne &nbsp; 9.1.2018 &nbsp; 15:00 - 17:00 hod</i></li>
@@ -291,9 +338,6 @@ Veškeré platby prosím provádějte elektronicky. Všechny potřebné údaje m
 <br/>
 <br/>
 
-<div class="archive">
- Archív zpráv z roku <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
-</div>
 <%
 }
 if ("2017".equals(archive)) {
