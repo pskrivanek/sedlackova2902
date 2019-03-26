@@ -1,6 +1,10 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	HMG_2019_kulove_ventily_blok_A(628, "2019_kulove_ventily_blok_a.pdf", "99 kB"),
+	HMG_2019_kulove_ventily_blok_B(627, "2019_kulove_ventily_blok_b.pdf", "99 kB"),
+	HMG_2019_kulove_ventily_blok_C(626, "2019_kulove_ventily_blok_c.pdf", "99 kB"),
+
 	OstavkaVodyBlokyC(625, "Odstavka_vody_bloky_C.pdf", "119 kB"),
 
 	HMG_2018_vymena_vodomeru_34(621, "2018_hgm_vymeny_vodomery/Sedlackova_34.pdf", "68 kB"),

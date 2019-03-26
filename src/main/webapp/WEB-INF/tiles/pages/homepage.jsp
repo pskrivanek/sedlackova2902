@@ -19,6 +19,12 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Odstávky vody po blocích</h4>
+<p>z důvodů výměny ventilů v suterénu bude provedena odstávka topení, teplé a studené vody. Oprava/odstávka bude <b>vždy na den</b> a bude probíhat následovně ... 
+<a href="noticeboard.html?vymena_hlavnich_kulovych_ventilu">více zde</a></p>
+<br/><br/>
+
+
 <h4>Přerušení dodávky vody</h4>
 <p>z důvodu havárie kulového ventilu Vám sdělujeme, že <b>ve čtvrtek 31.1.2019 od 8:00 do 10:00</b> bude ...
 <a href="noticeboard.html#preruseni_dodavky_vody_012019">více zde</a><p>

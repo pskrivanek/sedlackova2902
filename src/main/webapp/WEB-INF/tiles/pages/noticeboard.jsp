@@ -31,6 +31,38 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="vymena_hlavnich_kulovych_ventilu">Odstávky vody po blocích</h3>
+z důvodů výměny ventilů v suterénu bude provedena odstávka topení, teplé a studené vody. <b>Oprava/odstávka bude vždy na den</b> a bude probíhat následovně:
+<ul>
+ <li>v daný den večer se <b>v 21 hodin</b> začne voda vypouštět a dojde k zastavení topení.
+ <li> následující den od 8 hodin ráno se začnou vyměnovat kulové závěry od stupaček, které jsou umístěny v suterénu a ve skepních prostorech.
+ <li> opravy by měly skončit nejpozději <b>v 18 hodin</b>. Po skonční opravy se začne voda zase napouštět a bude zapnuto topení.
+</ul>
+<br/>
+Výměny (a tím pádem odstávky), budou probíhat vždy po blocích, podle následujícícho harmonogramu:
+<ul>
+	<li>Blok C (vchody S12, S14, S16, S18) &nbsp; - <i>dne &nbsp; 8.4.2019 od 21 hodin do &nbsp; 9.4.2019 18 hodin</i></li>
+	<li>Blok A (vchody S20, S22, S24, S26) &nbsp; - <i>dne &nbsp; 9.4.2019 od 21 hodin do 10.4.2019 18 hodin</i></li>
+	<li>Blok B (vchody S28 ,S30, S32, S34) &nbsp; - <i>dne 10.4.2019 od 21 hodin do 11.4.2019 18 hodin</i></li>
+</ul>
+<br/>
+<b>Zároveň chceme poprosit o součinnost zejména ty, kteří mají tyto uzávěry ve sklepních kójích.</b> Tyto majitle kontaktuje pověřený pracovník: Vlastimil Kaláb 725 005 378
+<br/><br/>
+Oznamení pro jednotlivé bloky, si může stáhnout zde:
+<%= linkDownfile(DownFile.HMG_2019_kulove_ventily_blok_A, "Blok A") %>,
+<%= linkDownfile(DownFile.HMG_2019_kulove_ventily_blok_B, "Blok B") %>,
+<%= linkDownfile(DownFile.HMG_2019_kulove_ventily_blok_C, "Blok C") %>.
+
+<br/>
+Děkujeme Vám za spolupráci.
+</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+
+
 <h3 id="preruseni_dodavky_vody_012019">Přerušení dodávky vody</h3>
 <p>z důvodu havárie kulového ventilu Vám sdělujeme, že <b>ve čtvrtek 31.1.2019 od 8:00 do 10:00</b> bude zcela přerušena dodávka vody ve vchodech:
 <ul>
