@@ -19,12 +19,17 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
-<h4>Odstávky vody po blocích</h4>
+<h4>Odstávka vody dne 01.04.2019 v době od 12:00 - 16:00 hod</h4>
+<p>Odstávka je z důvodu technologické přípravy před avizovanou opravou/rekonstrukcí vodorovného potrubí ... <a href="noticeboard.html?odstavka_vody_duben">více zde</a></p>
+<br/><br/>
+
+<h4>Odstávky vody po blocích ve dnech 8.4 - 11.4.2019</h4>
 <p>z důvodů výměny ventilů v suterénu bude provedena odstávka topení, teplé a studené vody. Oprava/odstávka bude <b>vždy na den</b> a bude probíhat následovně ... 
 <a href="noticeboard.html?vymena_hlavnich_kulovych_ventilu">více zde</a></p>
 <br/><br/>
 
 
+<%--
 <h4>Přerušení dodávky vody</h4>
 <p>z důvodu havárie kulového ventilu Vám sdělujeme, že <b>ve čtvrtek 31.1.2019 od 8:00 do 10:00</b> bude ...
 <a href="noticeboard.html#preruseni_dodavky_vody_012019">více zde</a><p>
@@ -42,7 +47,6 @@ které nás budou v souvislosti s naším domem zajímat.
 
 
 
-<%--
 <h4>Odstávka vody v "C" blocích</h4>
 <p>Ve všech "C" blocích - vchody Sedláčkova 12, Sedláčkova 14, Sedláčkova 16 a Sedláčkova 18 bude
 z důvodu výměny havarijních ventilů ... <a href="noticeboard.html#odstavka_vody_blok_c">více zde</a></p>

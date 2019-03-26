@@ -31,7 +31,20 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
-<h3 id="vymena_hlavnich_kulovych_ventilu">Odstávky vody po blocích</h3>
+<h3 id="odstavka_vody_duben">Odstávka vody dne 01.04.2019 v době od 12:00 - 16:00 hod</h3>
+<p>Odstávka je z důvodu technologické přípravy před <a href="#vymena_hlavnich_kulovych_ventilu">avizovanou opravou/rekonstrukcí vodorovného potrubí<a> v týdnu od 08.04.2019 v našem BD.<br/>
+Příprava sestává z výměny hlavních šoupátek na potrubí DN100 a DN150 <b>pro bloky A a B</b>.
+</p>
+<br/>
+Děkujeme Vám za spolupráci.
+</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+
+<h3 id="vymena_hlavnich_kulovych_ventilu">Odstávky vody po blocích ve dnech 8.4 - 11.4.2019</h3>
 z důvodů výměny ventilů v suterénu bude provedena odstávka topení, teplé a studené vody. <b>Oprava/odstávka bude vždy na den</b> a bude probíhat následovně:
 <ul>
  <li>v daný den večer se <b>v 21 hodin</b> začne voda vypouštět a dojde k zastavení topení.
