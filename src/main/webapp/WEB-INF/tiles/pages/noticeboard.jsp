@@ -31,13 +31,28 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="prechodna_uprava_provozu">Přechodná úprava provozu</h3>
+<p>Informace z MÚ Líšeň, která se týká opravy komunikace na ulici Sedláčkova:</p>
+<p style="padding-left: 30px;"><i>
+Z důvodu opravy povrchu komunikace na ul. Sedláčkova bude upraven provoz na přilehlých komunikacích.<br/>
+Termín realizace je <b>2 měsíce</b> v období <b>15.4. - 1.10.2019</b>, skutečný termín bude upřesněn.<br/>
+S obsluhovatelností našeho domu se počítá tak, aby nebyla narušena uživatelská práva členů našeho SVJ.<br/>
+Vyjímkou bude technologický proces položení finálního povrchu, který se bude provádět <b>maximálně 2 dny</b> v nepracovních dnech.
+<b>V tomto čase nebude možný vjezd a výjezd z prostoru GS.</b></i>
+</p>
+<br/>
+Vyhláška je dostupná zde na <a target="contractor" href="https://www.brno-lisen.cz/verejna-vyhlaska-stanoveni-prechodne-upravy-provozu-na-pozemnich-komunikacich/t7415">webu Líšně</a> nebo <%= linkDownfile(DownFile.PrechodnaUpravaProvozu, "zde") %>.
+</p>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3 id="odstavka_vody_duben">Odstávka vody dne 01.04.2019 v době od 12:00 - 16:00 hod</h3>
-<p>Odstávka je z důvodu technologické přípravy před <a href="#vymena_hlavnich_kulovych_ventilu">avizovanou opravou/rekonstrukcí vodorovného potrubí<a> v týdnu od 08.04.2019 v našem BD.<br/>
+<p>Odstávka je z důvodu technologické přípravy před <a href="#vymena_hlavnich_kulovych_ventilu">avizovanou opravou/rekonstrukcí vodorovného potrubí</a> v týdnu od 08.04.2019 v našem BD.<br/>
 Příprava sestává z výměny hlavních šoupátek na potrubí DN100 a DN150 <b>pro bloky A a B</b>.
 </p>
 <br/>
 Děkujeme Vám za spolupráci.
-</p>
 <br/>
 <i>Výbor SVJ</i><br/>
 <br/>

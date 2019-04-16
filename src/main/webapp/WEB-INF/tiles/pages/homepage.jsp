@@ -19,13 +19,17 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Přechodná úprava provozu</h4>
+<p>Informace z MÚ Líšeň, která se týká opravy komunikace na ulici Sedláčkova ... <a href="noticeboard.html#prechodna_uprava_provozu">více zde</a></p>
+<br/><br/>
+
 <h4>Odstávka vody dne 01.04.2019 v době od 12:00 - 16:00 hod</h4>
-<p>Odstávka je z důvodu technologické přípravy před avizovanou opravou/rekonstrukcí vodorovného potrubí ... <a href="noticeboard.html?odstavka_vody_duben">více zde</a></p>
+<p>Odstávka je z důvodu technologické přípravy před avizovanou opravou/rekonstrukcí vodorovného potrubí ... <a href="noticeboard.html#odstavka_vody_duben">více zde</a></p>
 <br/><br/>
 
 <h4>Odstávky vody po blocích ve dnech 8.4 - 11.4.2019</h4>
 <p>z důvodů výměny ventilů v suterénu bude provedena odstávka topení, teplé a studené vody. Oprava/odstávka bude <b>vždy na den</b> a bude probíhat následovně ... 
-<a href="noticeboard.html?vymena_hlavnich_kulovych_ventilu">více zde</a></p>
+<a href="noticeboard.html#vymena_hlavnich_kulovych_ventilu">více zde</a></p>
 <br/><br/>
 
 
