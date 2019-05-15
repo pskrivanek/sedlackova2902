@@ -31,6 +31,20 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="shromazdeni_2019">Shromáždění SVJ ve středu 5.6.2019</h3>
+<p>ve středu 5.6.2018 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích.</p>
+<ul>
+<li>prezence členů od 15:00</li>
+<li>začátek shromáždění v 16:30</li>
+</ul>
+<br/>
+<p>Oficiální pozvánka s programem je ke stažení <%= linkDownfile(DownFile.Schuze2019_pozvanka_plna_moc, "zde") %>. Bližší informace budou aktualizovány <a href="documents.html?t=q">zde</a>.</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+
 <h3 id="prechodna_uprava_provozu">Přechodná úprava provozu</h3>
 <p>Informace z MÚ Líšeň, která se týká opravy komunikace na ulici Sedláčkova:</p>
 <p style="padding-left: 30px;"><i>
@@ -41,7 +55,7 @@ Vyjímkou bude technologický proces položení finálního povrchu, který se b
 <b>V tomto čase nebude možný vjezd a výjezd z prostoru GS.</b></i>
 </p>
 <br/>
-Vyhláška je dostupná zde na <a target="contractor" href="https://www.brno-lisen.cz/verejna-vyhlaska-stanoveni-prechodne-upravy-provozu-na-pozemnich-komunikacich/t7415">webu Líšně</a> nebo <%= linkDownfile(DownFile.PrechodnaUpravaProvozu, "zde") %>.
+Vyhláška je dostupná na <a target="contractor" href="https://www.brno-lisen.cz/verejna-vyhlaska-stanoveni-prechodne-upravy-provozu-na-pozemnich-komunikacich/t7415">webu Líšně</a> nebo <%= linkDownfile(DownFile.PrechodnaUpravaProvozu, "zde") %>.
 </p>
 <i>Výbor SVJ</i><br/>
 <br/>

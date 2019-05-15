@@ -197,6 +197,8 @@ Výše měsíčních částek se odvíjí od stanovených pravidelných záloh. 
 </table>
 <br/>
  --%>
+Účetní závěrka za rok 2018:
+    <a href="documents.html?f=<%= DownFile.UcetniZaverka_2018.getFileId() %>" title="<%= DownFile.Schuze_b4.getFileName() %>">zde</a><br/>
 Účetní závěrka za rok 2017:
     <a href="documents.html?f=<%= DownFile.UcetniZaverka_2017.getFileId() %>" title="<%= DownFile.Schuze_b4.getFileName() %>">zde</a><br/>
 Účetní závěrka za rok 2016:

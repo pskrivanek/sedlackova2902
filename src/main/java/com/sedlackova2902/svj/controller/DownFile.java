@@ -1,6 +1,17 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+//	Schuze2018_zapis(587, "schuze2019/Zapis_shromazdeni_SVJ.pdf", "2.4 MB"),
+
+	Schuze2019_zmocneniSJMDoc(642, "schuze2019/Zmocneni_SJM.doc", "42.5 kB"),
+	Schuze2019_plnaMocDoc(641, "schuze2019/Plna_moc.doc", "39.9 kB"),
+	Schuze2019_plnaMoc(640, "schuze2019/Plna_moc.pdf", "157 kB"),
+	Schuze2019_zmocneniSJM(639, "schuze2019/Zmocneni_SJM.pdf", "212 kB"),
+	Schuze2019_rozpocet2020(638, "schuze2019/Rozpocet_2020.pdf", "117.9 kB"),
+	UcetniZaverka_2018(637, "Ucetni_zaverka_2018.pdf", "528 kB"),
+	Schuze2019_fondOprav(636, "schuze2019/Fond_oprav_2018.pdf", "143.7 kB"),
+	Schuze2019_pozvanka_plna_moc(635, "schuze2019/Pozvanka_plna_moc.pdf", "205.9 kB"),
+
 	PrechodnaUpravaProvozu(630, "Vyhlaska_2019-04-10-4.pdf", "6.45 MB"),
 	HMG_2019_kulove_ventily_blok_A(628, "2019_kulove_ventily_blok_a.pdf", "99 kB"),
 	HMG_2019_kulove_ventily_blok_B(627, "2019_kulove_ventily_blok_b.pdf", "99 kB"),

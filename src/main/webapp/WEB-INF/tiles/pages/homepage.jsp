@@ -19,6 +19,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Shromáždění SVJ ve středu 5.6.2019</h4>
+<p>ve středu 5.6.2019 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=q">více zde</a></p>
+<br/><br/>
+
 <h4>Přechodná úprava provozu</h4>
 <p>Informace z MÚ Líšeň, která se týká opravy komunikace na ulici Sedláčkova ... <a href="noticeboard.html#prechodna_uprava_provozu">více zde</a></p>
 <br/><br/>
