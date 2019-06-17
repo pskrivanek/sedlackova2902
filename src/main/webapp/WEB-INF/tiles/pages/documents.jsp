@@ -1539,9 +1539,7 @@ Kdy je potřeba plná moc:
         <li><a href="#Program">Klíčové body programu</a></li>
         <li><a href="#Plna_moc">Informace k plné moci</a></li>
         <br/>
-<%--
-        <li><%= linkDownfile(DownFile.Schuze2019_zapis, "Zápis ze schůze") %></li>
---%>
+        <li><%= linkDownfile(DownFile.Schuze2019_zapis, "Zápis ze shromáždění") %></li>
     </ul>
 <br/>
 <hr/>

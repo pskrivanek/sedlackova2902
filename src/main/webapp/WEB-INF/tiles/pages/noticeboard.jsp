@@ -31,8 +31,15 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="zapis_shromazdeni_2019">Zápis ze shromáždění SVJ 5.6.2019</h3>
+<p><%= linkDownfile(DownFile.Schuze2019_zapis, "zde") %> je zápis ze schromáždení SVJ který se konal ve středu 5.6.2019 v Dělnickém domě v Židenicích.</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3 id="shromazdeni_2019">Shromáždění SVJ ve středu 5.6.2019</h3>
-<p>ve středu 5.6.2018 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích.</p>
+<p>ve středu 5.6.2019 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích.</p>
 <ul>
 <li>prezence členů od 15:00</li>
 <li>začátek shromáždění v 16:30</li>

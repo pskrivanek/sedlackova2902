@@ -19,10 +19,15 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4 id="zapis_shromazdeni_2019">Zápis ze shromáždění SVJ 5.6.2019</h3>
+<p>zápis ze schromáždení SVJ který se konal ve středu 5.6.2019 v Dělnickém domě v Židenicích najde <a href="documents.html?t=q">zde</a></p>
+<br/><br/>
+
 <h4>Shromáždění SVJ ve středu 5.6.2019</h4>
 <p>ve středu 5.6.2019 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=q">více zde</a></p>
 <br/><br/>
 
+<%--
 <h4>Přechodná úprava provozu</h4>
 <p>Informace z MÚ Líšeň, která se týká opravy komunikace na ulici Sedláčkova ... <a href="noticeboard.html#prechodna_uprava_provozu">více zde</a></p>
 <br/><br/>
@@ -36,8 +41,6 @@ které nás budou v souvislosti s naším domem zajímat.
 <a href="noticeboard.html#vymena_hlavnich_kulovych_ventilu">více zde</a></p>
 <br/><br/>
 
-
-<%--
 <h4>Přerušení dodávky vody</h4>
 <p>z důvodu havárie kulového ventilu Vám sdělujeme, že <b>ve čtvrtek 31.1.2019 od 8:00 do 10:00</b> bude ...
 <a href="noticeboard.html#preruseni_dodavky_vody_012019">více zde</a><p>

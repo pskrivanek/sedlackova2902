@@ -1,8 +1,7 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
-//	Schuze2018_zapis(587, "schuze2019/Zapis_shromazdeni_SVJ.pdf", "2.4 MB"),
-
+	Schuze2019_zapis(643, "schuze2019/Zapis_shromazdeni_SVJ.pdf", "139 kB"),
 	Schuze2019_zmocneniSJMDoc(642, "schuze2019/Zmocneni_SJM.doc", "42.5 kB"),
 	Schuze2019_plnaMocDoc(641, "schuze2019/Plna_moc.doc", "39.9 kB"),
 	Schuze2019_plnaMoc(640, "schuze2019/Plna_moc.pdf", "157 kB"),
