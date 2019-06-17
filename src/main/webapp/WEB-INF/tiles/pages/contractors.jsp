@@ -246,7 +246,7 @@ Servisní činnosti jsou prováděny na základě uzavřené Servisní smlouvy z
 <br/>
 <br/>
 <h3>Havarijní servis Teplárny Brno a.s.</h3>
-<p>Je uzavřená SoD s TB - služby, s.r.o., dceřinou společností Teplárny Brno na havarijní stavy ( dále jen HS ) v rozsahu:</p><br/>
+<p>Je uzavřená SoD s TB - služby, s.r.o., dceřinou společností <a href="http://www.teplarny.cz/" target="contractor">Teplárny Brno</a> na havarijní stavy ( dále jen HS ) v rozsahu:</p><br/>
 <ul>
 <li type="1">Výkon HS se vztahuje na hlášené poruchy a havárie (dále jen závada) na objektu Sedláčkova 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34 v těchto oblastech:</li>
 <ul>
@@ -264,10 +264,13 @@ Předpokládá se úplné odstranění závady tak, aby v co největší míře 
 <li type="1">Zajištění pohotovosti HS je <b>bezplatné.</b></li>
 <li type="1">Výjezd HS na hlášenou závadu  bude účtován následovně:</li>
 <ul>
-<li><b>práce hodinovou zúčt. sazbou (HZS) v částce max. 300,- Kč bez DPH / hod./ prac</b>.</li>
-<li><b>použitý materiál dle vykázané nebo potvrzené spotřeby</b></li>
-<li><b>cestovné částkou 12,00 Kč bez DPH / km</b></li>
+<li><b>Výjezd havarijní služby na hlášenou závadu:</b> 150,- Kč / výjezd</li>
+<li><b>Práce havarijní služby na hlášené závadě:</b> 400,- Kč / hodina / pracovník.</li>
+<li><b>Cestovné havarijní služby na hlášenou závadu:</b> 12,00 Kč / km</li>
+<li><b>Použitý materiál:</b> Dle skutečné spotřeby</li>
 </ul>
+<li type="1">Kompletní ceník je ke stažení <a href="documents.html?f=<%= DownFile.Cenik_TB_2019.getFileId() %>" title="<%= DownFile.Cenik_TB_2019.getFileName() %>"><img src="img/icons/pdf.gif"/> zde</a></li>
+
 </ul>
 <br/>
 <p><i>

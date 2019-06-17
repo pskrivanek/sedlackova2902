@@ -19,7 +19,11 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
-<h4 id="zapis_shromazdeni_2019">Zápis ze shromáždění SVJ 5.6.2019</h3>
+<h4>Instalatérský servis TB</h4>
+<p>Jak bylo na shromáždění 5.6.2019 prezentováno, s <a href="http://www.teplarny.cz/" target="contractor">Teplárnami Brno</a> máme uzavřenou smlouvu na servis, kterou můžete využít i Vy ... <a href="contractors.html?t=s">více zde</a></p>
+<br/><br/>
+
+<h4>Zápis ze shromáždění SVJ 5.6.2019</h3>
 <p>zápis ze schromáždení SVJ který se konal ve středu 5.6.2019 v Dělnickém domě v Židenicích najde <a href="documents.html?t=q">zde</a></p>
 <br/><br/>
 

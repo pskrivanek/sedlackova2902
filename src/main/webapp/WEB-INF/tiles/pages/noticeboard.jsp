@@ -31,6 +31,15 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="instalatersky_servis_TB">Instalatérský servis TB</h3>
+<p>Jak bylo na shromáždění 5.6.2019 prezentováno, s <a href="http://www.teplarny.cz/" target="contractor">Teplárnami Brno</a> máme uzavřenou smlouvu na servis, kterou můžete využít i Vy jako členové SVJ. <br/>
+Ceník těchto služeb je možno stáhnou <%= linkDownfile(DownFile.Cenik_TB_2019, "zde") %> a popis nabízených služeb naleznete na <a href="contractors.html?t=s">našich stránkách</a>.
+</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3 id="zapis_shromazdeni_2019">Zápis ze shromáždění SVJ 5.6.2019</h3>
 <p><%= linkDownfile(DownFile.Schuze2019_zapis, "zde") %> je zápis ze schromáždení SVJ který se konal ve středu 5.6.2019 v Dělnickém domě v Židenicích.</p>
 <br/>

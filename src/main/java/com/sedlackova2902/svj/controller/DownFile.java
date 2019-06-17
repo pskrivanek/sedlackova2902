@@ -1,6 +1,8 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	Cenik_TB_2019(645, "Cenik_TB_havarijni_zamecnicke_prace.pdf", "199 kB"),
+
 	Schuze2019_zapis(643, "schuze2019/Zapis_shromazdeni_SVJ.pdf", "139 kB"),
 	Schuze2019_zmocneniSJMDoc(642, "schuze2019/Zmocneni_SJM.doc", "42.5 kB"),
 	Schuze2019_plnaMocDoc(641, "schuze2019/Plna_moc.doc", "39.9 kB"),
