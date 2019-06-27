@@ -31,6 +31,18 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="cisteni_garazi_2019">Úklid garážových stání v pátek 28.6.2019</h3>
+<p>v pátek 28.6.2019 od 8 do 17 hodin proběhne strojové čištění garážových prostor Sedláčkova 2902.<br/>
+Žádame proto, aby jste <b>po dobu čištění vyklidili Vaše garážové stání</b>.
+Tzn auto, motorka, věci na zemi, atd, které v garážích máte, tak po dobu čištění zde nebudou! Předejde se tak poškození Vašeho majetku čistícím strojem.<br/>
+V případě nejasnosti mne prosím kontaktujte. Předem děkuji za spolupráci<br/>
+<br/>
+<i>Ing. Petr Skřivánek<br/>
+tel: 723 418 927<br/>
+email: c4.sedlackova2902@gmail.com<br/></i>
+<br/>
+<br/>
+
 <h3 id="instalatersky_servis_TB">Instalatérský servis TB</h3>
 <p>Jak bylo na shromáždění 5.6.2019 prezentováno, s <a href="http://www.teplarny.cz/" target="contractor">Teplárnami Brno</a> máme uzavřenou smlouvu na servis, kterou můžete využít i Vy jako členové SVJ. <br/>
 Ceník těchto služeb je možno stáhnou <%= linkDownfile(DownFile.Cenik_TB_2019, "zde") %> a popis nabízených služeb naleznete na <a href="contractors.html?t=s">našich stránkách</a>.

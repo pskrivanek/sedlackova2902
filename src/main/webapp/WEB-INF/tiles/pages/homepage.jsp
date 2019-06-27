@@ -19,6 +19,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Úklid garážových stání v pátek 28.6.2019</h4>
+<p>V pátek dne 28.6.2019 bude provedeno čištění garážových stání pod domem Sedláčkova 2902 ... <a href="noticeboard.html#cisteni_garazi_2019">více zde</a></p>
+<br/><br/>
+
 <h4>Instalatérský servis TB</h4>
 <p>Jak bylo na shromáždění 5.6.2019 prezentováno, s <a href="http://www.teplarny.cz/" target="contractor">Teplárnami Brno</a> máme uzavřenou smlouvu na servis, kterou můžete využít i Vy ... <a href="contractors.html?t=s">více zde</a></p>
 <br/><br/>
