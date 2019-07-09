@@ -3,6 +3,7 @@ package com.sedlackova2902.svj.controller;
 public enum DownFile {
 	Cenik_TB_2019(645, "Cenik_TB_havarijni_zamecnicke_prace.pdf", "199 kB"),
 
+	Zprava_KK_2018(644, "schuze2019/Zapis_KK_2018.pdf", "103.8 kB"),
 	Schuze2019_zapis(643, "schuze2019/Zapis_shromazdeni_SVJ.pdf", "139 kB"),
 	Schuze2019_zmocneniSJMDoc(642, "schuze2019/Zmocneni_SJM.doc", "42.5 kB"),
 	Schuze2019_plnaMocDoc(641, "schuze2019/Plna_moc.doc", "39.9 kB"),
@@ -41,6 +42,7 @@ public enum DownFile {
 	GD_finance_KB(593, "garazovy_dum/KB_spotrebitelsky_uver_letacek.pdf", "248 kB"),
 	GDPR_smernice(590, "GDPR_smernice_SVJ_Sedlackova2902.pdf", "232 kB"),
 
+	Zprava_KK_2016(588, "schuze2018/Zapis_KK_2016.pdf", "1048.2 kB"),
 	Schuze2018_zapis(587, "schuze2018/Zapis_shromazdeni_SVJ.pdf", "2.4 MB"),
 	Schuze2018_rozpocet2019(586, "schuze2018/Rozpocet_2019.pdf", "117 kB"),
 	UcetniZaverka_2017(585, "Ucetni_zaverka_2017.pdf", "528 kB"),
@@ -71,6 +73,7 @@ public enum DownFile {
 	OverovaniMeridelLegislativniRamec(520, "Overovani_meridel-legislativni_ramec.pdf", "328 kB"),
 	Internet_kabelaz_garaz(515, "garaze-tazeni-kabelaze.png", "386 kB"),
 
+	Zprava_KK_2015(513, "schuze2016/Zprava_KK_2015.pdf", "23.2 kB"),
 	Schuze2016_zapis(512, "schuze2016/Zapis_shromazdeni_SVJ.pdf", "1.8 MB"),
 	Schuze2016_UPC_Souhlas_vlastnika(511, "schuze2016/UPC_Souhlas_vlastnika.pdf", "334 kB"),
 	Schuze2016_UPC_Poskytovane_sluzby(510, "schuze2016/UPC_Poskytovane_sluzby.pdf", "305 kB"),
@@ -90,6 +93,8 @@ public enum DownFile {
 	Stanovy_2015_SVJ(482, "SVJS2902_STANOVY_2015.pdf", "243 kB"),
 	EnergetickyStitek(481, "PENB_Sedlackova_12-34.pdf", "1063 kB"),
 	EnergetickyStitek_grafika(480, "EnergetickyStitek.pdf", "383 kB"),
+
+	Zprava_KK_2014(472, "schuze2015/Zprava_KK_2014.pdf", "34.7 kB"),
 	Schuze2015_notarsky_zapis(471, "schuze2015/Notarsky_zapis_shromazdeni_SVJ.pdf", "19.044 MB"),
 	ZAPIS_17(470, "2015_06_07_schuze_vyboru_SVJ_17.pdf", "558 kB"),
 	Schuze2015_zapis(469, "schuze2015/Zapis_shromazdeni_SVJ.pdf", "3200 kB"),

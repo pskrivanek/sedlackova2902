@@ -116,6 +116,7 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
 <p></p>
 <br/>
 <ul>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2019_zapis, "2019_06_05_Zapis_shromazdeni_SVJ.pdf") %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2018_zapis, "2018_06_04_Zapis_shromazdeni_SVJ.pdf") %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2017_zapis, "2017_06_06_Zapis_shromazdeni_SVJ.pdf") %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Schuze2016_zapis, "2016_06_09_Zapis_shromazdeni_SVJ.pdf") %></li>
@@ -180,6 +181,10 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
 <p></p>
 <br/>
 <ul>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Zprava_KK_2018, "Zpráva KK za rok 2018") %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Zprava_KK_2016, "Zpráva KK za rok 2016") %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Zprava_KK_2015, "Zpráva KK za rok 2015") %></li>
+    <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Zprava_KK_2014, "Zpráva KK za rok 2014") %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; <%= linkDownfile(DownFile.Zprava_KK_2011, "Zpráva KK za rok 2011") %></li>
     <li><img src="img/icons/pdf.gif"/> &nbsp; 2012_01_24_Zapis_kontroly_KK:  
         <%= linkDownfile(DownFile.Zapis_KK_20120124_a, "část a") %>, <%= linkDownfile(DownFile.Zapis_KK_20120124_b, "část b") %> 
