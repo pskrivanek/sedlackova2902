@@ -31,6 +31,14 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="instalace_elektronickych_ctecek">Instalace elektronických čteček</h3>
+<p>od úterý 10.9.2019 začně instalace elektronických čteček u vchodových dveří jak bylo odhlasováno <a href="documents.html?t=w">na shromáždění SVJ dne 4.6.2018</a>. Instalace bude provedena nejprve pro vchody C, následně pak vchody A a nakonec vchody B. <br/>
+O průběhu instalace a následné registrace čipů se dozvíte na těchto stránkách.</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3 id="cisteni_garazi_2019">Úklid garážových stání v pátek 28.6.2019</h3>
 <p>v pátek 28.6.2019 od 8 do 17 hodin proběhne strojové čištění garážových prostor Sedláčkova 2902.<br/>
 Žádame proto, aby jste <b>po dobu čištění vyklidili Vaše garážové stání</b>.

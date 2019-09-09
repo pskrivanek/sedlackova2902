@@ -19,6 +19,12 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Instalace elektronických čteček</h4>
+<p>od úterý 10.9.2019 začně instalace elektronických čteček u vchodových dveří ... <a href="noticeboard.html#instalace_elektronickych_ctecek">více zde</a></p>
+<br/><br/>
+
+
+<%--
 <h4>Úklid garážových stání v pátek 28.6.2019</h4>
 <p>V pátek dne 28.6.2019 bude provedeno čištění garážových stání pod domem Sedláčkova 2902 ... <a href="noticeboard.html#cisteni_garazi_2019">více zde</a></p>
 <br/><br/>
@@ -35,7 +41,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <p>ve středu 5.6.2019 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=q">více zde</a></p>
 <br/><br/>
 
-<%--
+
 <h4>Přechodná úprava provozu</h4>
 <p>Informace z MÚ Líšeň, která se týká opravy komunikace na ulici Sedláčkova ... <a href="noticeboard.html#prechodna_uprava_provozu">více zde</a></p>
 <br/><br/>
