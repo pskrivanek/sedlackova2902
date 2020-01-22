@@ -22,7 +22,7 @@ String archive = (String) request.getAttribute("a");
 if (!StringUtils.isEmpty(archive)) {
 %>
 <div class="archive">
- Archív zpráv z roku <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
+ Archív zpráv z roku <%= linkArchive("2019", archive) %>, <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
 </div>
 <br/>
 <hr/>
@@ -30,6 +30,47 @@ if (!StringUtils.isEmpty(archive)) {
 <%
 }
 if (StringUtils.isEmpty(archive)) {
+%>
+<h3 id="odecty_bytovych_mericu_2020">Odečty bytových měřičů leden 2020</h3>
+<p>v termímu od 6.1.2019 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě. Konkretní termín pro váš vchod je vyvěšen na vchodových dveří do domu.<br/>
+Pokud nebudete v uvedenou dobu přítomni, můžete stavy a <b>výrobní čísla</b> měřičů tepla a vodoměrů zaslat e-mailem na adresu <a href="mailto:odecty@thera.cz">odecty@thera.cz</a>.<br/>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+<h3 id="registrace_cipovych_karet">Registrace čipových karet</h3>
+<p>jak jste si mohli všimnout, tak u zvonkového tabla je nově nainstalovaná čtečka elektronických karet a čipů. V tuto chvíli je systém již v provozu a je možné přikročit
+k evidenci či distribuci karet a čipů (kartu nebo čip můžete mít vlastní).<br/>
+Jak na to:
+<ul>
+<li>Potřebujete čip/kartu, např čip (FOB) používaný v práci, v jídelně nebo platební kartu, elektronický flexipass či šalinkarktu atd ...</li>
+<li>Čtečka musí váš čip/kartu identifikovat - to zjistíte tak, že ji přiložíte ke čtečce, přesněji k symbolu čtečky, vyznačen na panelu čyečky.
+Pokud čtečka změní barvu, tak umí čip/kartu identifikovat. Standardně čtečka svítí modře, při čtení neznámé karty svítí červeně.
+Pokud je barva stále modrá, tak Váš čip/kartu čtečka neumí identifikovat</li>
+<li><b>Majitel</b> bytové jednotky se domluví se svým <a href="committee.html?t=c">zástupcem ve výboru SVJ</a> na termínu registrace identifikovatelné karty/čipu.<br/>
+<b>Majitel bytové jednotky se dostaví s platným průkazem totožnosti.</b></li>
+<li>Na každý byt je možno zaregistrovat max 4 čipy/karty (dále dle dohody) a ke každému čipu/kartě bude přiděleno jméno uživatele (majitel, dítěte, nájemník –
+ten kdo bude čip/kartu používat),</li>
+<li>Čip/kartu lze ze systému vyřadit na přání majitele (změna nájemníků, ztráta atd.) nebo pokud nebude čip/karta (3 měsíce) používaná.</li>
+<li>Otevírání klíčem zůstává dále funkční.</li>
+</ul>
+<br/>
+Kdo nemá čip/kartu, kterou by čtečka uměla identifikovat, může si čip koupit při registraci. Cena čipu je 15Kč/kus.<br/>
+<br/>
+Pokud někdo ztratí zaregistrovaný čip/kartu, tak to <a href="committee.html?t=c">svému zástupci</a> neprodleně nahlasí. Čip se jen v aplikaci deaktivuje.<br/>
+Pokud někdo naopak najdete čip, kterým jde otevřít vchodové dveře, tak ho prosím přineste ať se může majiteli vrátit. Není to Vaše a dříve či později se na to příjde ...</p>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+<div class="archive">
+ Archív zpráv z roku <%= linkArchive("2019", archive) %>, <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
+</div>
+<%
+}
+if ("2019".equals(archive)) {
 %>
 <h3 id="instalace_elektronickych_ctecek">Instalace elektronických čteček</h3>
 <p>od úterý 10.9.2019 začně instalace elektronických čteček u vchodových dveří jak bylo odhlasováno <a href="documents.html?t=w">na shromáždění SVJ dne 4.6.2018</a>. Instalace bude provedena nejprve pro vchody C, následně pak vchody A a nakonec vchody B. <br/>
@@ -180,9 +221,6 @@ Zde jsou termíny odečtu po vchodech: </p>
 <br/>
 <br/>
 
-<div class="archive">
- Archív zpráv z roku <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
-</div>
 <%
 }
 if ("2018".equals(archive)) {

@@ -25,96 +25,96 @@ if ("c".equals(type)) {
 		<td align="center">Sedláčkova 20</td>
 		<td align="center">A1</td>
 		<td><a href="mailto:a1.sedlackova2902@gmail.com">a1.sedlackova2902@gmail.com</a></td>
-		<td>Marek Nosek</td>
+		<td title="+420 603 595 208">Marek Nosek</td>
 		<td>místopředseda</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 22</td>
 		<td align="center">A2</td>
 		<td><a href="mailto:a2.sedlackova2902@gmail.com">a2.sedlackova2902@gmail.com</a></td>
-		<td>Ing. Radim Zemánek</td>
+		<td title="+420 733 149 202">Ing. Radim Zemánek</td>
 		<td>člen</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 24</td>
 		<td align="center">A3</td>
 		<td><a href="mailto:a3.sedlackova2902@gmail.com">a3.sedlackova2902@gmail.com</a></td>
-		<td>Ing. Petr Dzik</td>
+		<td title="+420 603 554 573">Ing. Petr Dzik</td>
 		<td>člen</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 26</td>
 		<td align="center">A4</td>
 		<td><a href="mailto:a4.sedlackova2902@gmail.com">a4.sedlackova2902@gmail.com</a></td>
-		<td>Ing. Petr Vozák</td>
+		<td title="+420 732 262 222">Ing. Petr Vozák</td>
 		<td>člen</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 28</td>
 		<td align="center">B1</td>
 		<td><a href="mailto:b1.sedlackova2902@gmail.com">b1.sedlackova2902@gmail.com</a></td>
-        <td>Michal Indrák</td>
+        <td title="+420 776 027 961">Michal Indrák</td>
         <td>člen</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 30</td>
 		<td align="center">B2</td>
 		<td><a href="mailto:b2.sedlackova2902@gmail.com">b2.sedlackova2902@gmail.com</a></td>
-		<td>Vratislav Běčák</td>
+		<td title="+420 736 127 972">Vratislav Běčák</td>
 		<td>člen</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 32</td>
 		<td align="center">B3</td>
 		<td><a href="mailto:b3.sedlackova2902@gmail.com">b3.sedlackova2902@gmail.com</a></td>
-		<td>Jiří Kadaník</td>
+		<td title="+420 606 046 910">Jiří Kadaník</td>
 		<td>člen</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 34</td>
 		<td align="center">B4</td>
 		<td><a href="mailto:b4.sedlackova2902@gmail.com">b4.sedlackova2902@gmail.com</a></td>
-		<td>RNDr. Martin Podhorský</td>
+		<td title="+420 732 360 964">RNDr. Martin Podhorský</td>
 		<td>člen</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 18</td>
 		<td align="center">C1</td>
 		<td><a href="mailto:c1.sedlackova2902@gmail.com">c1.sedlackova2902@gmail.com</a></td>
-		<td>Ing. Ladislav Valášek</td>
+		<td title="+420 777 588 373">Ing. Ladislav Valášek</td>
 		<td>předseda</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 16</td>
 		<td align="center">C2</td>
 		<td><a href="mailto:c2.sedlackova2902@gmail.com">c2.sedlackova2902@gmail.com</a></td>
-		<td>Ing. Hana Hrabcová</td>
+		<td title="+420 724 946 632">Ing. Hana Hrabcová</td>
 		<td>člen</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 14</td>
 		<td align="center">C3</td>
 		<td><a href="mailto:c3.sedlackova2902@gmail.com">c3.sedlackova2902@gmail.com</a></td>
-		<td>Mgr. Lucie Sýkorová, DiS</td>
+		<td title="+420 605 833 021">Mgr. Lucie Sýkorová, DiS</td>
 		<td>místopředseda</td>
 	</tr>
 	<tr>
 		<td align="center">Sedláčkova 12</td>
 		<td align="center">C4</td>
 		<td><a href="mailto:c4.sedlackova2902@gmail.com">c4.sedlackova2902@gmail.com</a></td>
-		<td>Ing. Petr Skřivánek</td>
+		<td title="+420 723 418 927">Ing. Petr Skřivánek</td>
 		<td>člen</td>
 	</tr>
 </table>
 <%	}
 	if ("cc".equals(type)) {%>
 <h2>Kontrolní komise SVJ a její členové:</h2>
-<p>Kontrolní komise byla ustanovena dne 11.2.2010 na první schůzi SVJ jako reakce na samovolné zvolení p.Jonáše jednatelem SVJ.</p><br/> 
-<!-- <br/>
-Kontrolní komise zanikla
-<br/> -->
+<p>Kontrolní komise byla ustanovena dne 11.2.2010 na první shromáždění SVJ jako reakce na samovolné zvolení p.Jonáše jednatelem SVJ.</p><br/> 
 <br/>
-
+Kontrolní komise zanikla na <a href="documents.html?t=q">shromáždění SVJ dne 5.6.2019</a>.
+<br/>
+<br/>
+<!--
 <table class="oam_table">
 	<thead>
 	<tr>
@@ -139,6 +139,7 @@ Kontrolní komise zanikla
 		<td>člen kontrolní komise</td>
 	</tr>
 </table>
+-->
 
 <%	} 
 	if ("i".equals(type)) {%>

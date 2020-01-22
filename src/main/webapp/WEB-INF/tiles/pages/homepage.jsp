@@ -19,8 +19,16 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Odečty bytových měřičů leden 2020</h4>
+<p>v termímu od 6.1.2019 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě ... <a href="noticeboard.html#odecty_bytovych_mericu_2020">více zde</a></p>
+<br/><br/>
+
+<h4>Registrace čipových karet</h4>
+<p>jak jste si mohli všimnout, tak u zvonkového tabla je nově nainstalovaná čtečka elektronických karet a čipů ... <a href="noticeboard.html#registrace_cipovych_karet">více zde</a></p>
+<br/><br/>
+
 <h4>Instalace elektronických čteček</h4>
-<p>od úterý 10.9.2019 začně instalace elektronických čteček u vchodových dveří ... <a href="noticeboard.html#instalace_elektronickych_ctecek">více zde</a></p>
+<p>od úterý 10.9.2019 začně instalace elektronických čteček u vchodových dveří ... <a href="noticeboard.html?a=2019#instalace_elektronickych_ctecek">více zde</a></p>
 <br/><br/>
 
 

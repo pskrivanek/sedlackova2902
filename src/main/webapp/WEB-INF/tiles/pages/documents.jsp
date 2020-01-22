@@ -268,8 +268,10 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
       <li>telefon má na spodní straně ovládání hlasitosti, který má tří stupně - hlasitě/slabě/vypnuto. Zkontrolujte jestli vám dítě u telefonu nevyplo vyzvánění.</li>
       <li>při zvednutí sluchátka nedojde k odskočení vidlice - telefon je hluchý a el. vrátný je nefunkční. Při zvednutí sluchátka je vidlici potřeba pomoct. Je to způsobeno "zkrouceným" krytem - instalační šrouby nejsou dotaženy stejně</li>
       <li>neaktivovaný el. vrátný - je potřeba podle <a href="documents.html?f=101" target="contracts">návodu</a> v kapitole <i>3.4.Programování kódu pro otevírání elektrického zámku</i> nastavit nějaký libovolný kód. Po jeho zadání bude otvírání přes tlačítko zámku funkční.</li>
-      </ul>
-      <br/><br/>
+      </ul><br/>
+	  Pokud i přes tyto tipy máte problém s domacím telefonem nebo el.vrátným, tak se rovnou domluvte s našim panem elektrikářem: pan Bevilaqua, tel: <b>+420 604 163 186</b>.<br/>
+	  V případě, že problém bude ve společných prostorech, opravu hradí SVJ. V opačeném případě <b>všechny náklady, tzn dopravu, práci, materiál, atd. hradíte Vy</b>.
+      <br/><br/><br/>
       <a id="Reklamace_a_odpovednost_za_vady" name="Reklamace_a_odpovednost_za_vady"></a>
       <h1>Reklamace a odpovědnost za vady</h1>
       <ul>
