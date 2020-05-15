@@ -1,6 +1,11 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	PerRollam_052020_zaverka2019(654, "perrollam_052020/Inventura_zavazku_a_pohledavek_31.12.2019_Sedlackova.pdf", "1.8 MB"),
+	PerRollam_052020_zp_dodatek(653, "perrollam_052020/ZP_nebyty-dodatek-ke-dni-29.4.2020.pdf", "283 kB"),
+	PerRollam_052020_zp(652, "perrollam_052020/ZP_nebyty-sedlackova-brno-okres-brno-mesto-2019-07-03.pdf", "2.1 MB"),
+	PerRollam_052020_vyzva(651, "perrollam_052020/Vyzva_k_hlasovani_per_rollam.pdf", "172 kB"),
+	Preruseni_dodavek_vody_20200526(650, "Preruseni_dodavek_vody_20200526.pdf", "181 kB"),
 	Cenik_TB_2019(645, "Cenik_TB_havarijni_zamecnicke_prace.pdf", "199 kB"),
 
 	Zprava_KK_2018(644, "schuze2019/Zapis_KK_2018.pdf", "103.8 kB"),

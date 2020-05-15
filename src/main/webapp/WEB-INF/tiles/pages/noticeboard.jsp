@@ -31,6 +31,33 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 style="color: red" id="vyzva_k_hlasovani_per_rollam">Výzva k hlasování per rollam</h3>
+<p>Vážení členové,<br/>
+dovolte nám Vás pozvat k hlasování našeho <b>Společenství vlastníků
+jednotek Sedláčkova čp. 2902</b>, které se bude konat per rollam: <b>31. května 2020</b>.<br/><br/>
+Detailní informace jsou v přiložených dokumentech:
+<ul>
+<li><%= linkDownfile(DownFile.PerRollam_052020_vyzva, "výzva k hlasování per rollam") %></li>
+<li><%= linkDownfile(DownFile.PerRollam_052020_zp, "znalecký posudek o ceně nomivitých věcí") %></li>
+<li><%= linkDownfile(DownFile.PerRollam_052020_zp_dodatek, "dodatek ke znaleckému posudku") %></li>
+<li><%= linkDownfile(DownFile.PerRollam_052020_zaverka2019, "účetní závěrka za rok 2019") %></li>
+</ul>
+<br/>
+</p>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+<h3 id="preruseni_dodavky_vody_20200526">Přerušení dodávky vody 26.5.2020</h3>
+<p>dne <b>26. 5. 2020 v době od 3:00 – 16:00 hod.</b> bude z důvodu provádění plánovaných oprav, udržovacích a revizních prací (ve smyslu znění zákona č. 274/2001 Sb. § 9)
+<b>přerušena dodávka vody pro náš bytový dům Sedláčkova 2902.</b><br/>
+Důvodem je výstavba nového napojení sídliště Vinohrady na stávající vodovodní řad. Toto napojení je podmiňující investicí pro plánovanou výměnu vodovodních řadů, které jsou vedeny v podzemním kolektoru v sídlišti Vinohrady a jsou za hranicí životnosti.<br/>
+Více informací je <%= linkDownfile(DownFile.Preruseni_dodavek_vody_20200526, "v přiloženém dokumentu") %>.</p>
+<br/>
+<i>informace z <a href="www.bvk.cz" target="contractor">BVK</a></i><br/>
+<br/>
+<br/>
+
 <h3 id="odecty_bytovych_mericu_2020">Odečty bytových měřičů leden 2020</h3>
 <p>v termímu od 6.1.2019 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě. Konkretní termín pro váš vchod je vyvěšen na vchodových dveří do domu.<br/>
 Pokud nebudete v uvedenou dobu přítomni, můžete stavy a <b>výrobní čísla</b> měřičů tepla a vodoměrů zaslat e-mailem na adresu <a href="mailto:odecty@thera.cz">odecty@thera.cz</a>.<br/>
