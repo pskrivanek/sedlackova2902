@@ -54,7 +54,7 @@ Detailní informace jsou v přiložených dokumentech:
 Důvodem je výstavba nového napojení sídliště Vinohrady na stávající vodovodní řad. Toto napojení je podmiňující investicí pro plánovanou výměnu vodovodních řadů, které jsou vedeny v podzemním kolektoru v sídlišti Vinohrady a jsou za hranicí životnosti.<br/>
 Více informací je <%= linkDownfile(DownFile.Preruseni_dodavek_vody_20200526, "v přiloženém dokumentu") %>.</p>
 <br/>
-<i>informace z <a href="www.bvk.cz" target="contractor">BVK</a></i><br/>
+<i>informace z <a href="http://www.bvk.cz" target="contractor">BVK</a></i><br/>
 <br/>
 <br/>
 
