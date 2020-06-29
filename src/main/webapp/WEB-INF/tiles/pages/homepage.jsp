@@ -19,6 +19,12 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Výsledek hlasování per rollam</h4>
+<p>Vážení členové,<br/>
+zde je stručný zápis z hlasování Společenství vlastníků jednotek Sedláčkova čp. 2902 konaného per rollam ode dne 31. května 2020 ... <a href="noticeboard.html#vysledek_hlasovani_per_rollam">více zde</a></p>
+<br/><br/>
+
+<%--
 <h4 style="color: red">Výzva k hlasování per rollam</h4>
 <p>dovolte nám Vás pozvat k hlasování našeho SVJ, které se bude konat per rollam: <b>31. května 2020</b> ... <a href="noticeboard.html#vyzva_k_hlasovani_per_rollam">více zde</a></p>
 <br/><br/>
@@ -26,7 +32,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <h4>Přerušení dodávky vody 26.5.2020</h4>
 <p>dne <b>26. 5. 2020 v době od 3:00 – 16:00 hod.</b> bude z důvodu provádění plánovaných oprav ... <a href="noticeboard.html#preruseni_dodavky_vody_20200526">více zde</a></p>
 <br/><br/>
-<%--
+
 
 <h4>Odečty bytových měřičů leden 2020</h4>
 <p>v termímu od 6.1.2019 bude probíhat oděčet stavu měříčů tepla a stavu vodoměrů v našem domě ... <a href="noticeboard.html#odecty_bytovych_mericu_2020">více zde</a></p>

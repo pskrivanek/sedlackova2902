@@ -31,6 +31,28 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3 id="vysledek_hlasovani_per_rollam">Výsledek hlasování per rollam</h3>
+<p>Vážení členové,<br/>
+zde je stručný zápis z hlasování Společenství vlastníků jednotek Sedláčkova čp. 2902 konaného per rollam ode dne 31. května 2020 10:00 hodin do 20. června 2020 20:00 hodin.<br/>
+Program hlasování per rollam o:
+<ul>
+<li>udělení předchozího souhlasu shromáždění k nabytí nemovitých
+věcí do vlastnictví SVJ Sedláčkova čp. 2902 - <b>schváleno</b>
+</li>
+<li>udělení předchozího souhlasu shromáždění k uzavření smlouvy
+o úvěru SVJ Sedláčkova čp. 2902 za účelem financování nabytí nemovitých věcí do vlastnictví SVJ Sedláčkova čp. 2902 - <b>schváleno</b>
+</li>
+<li>účetní uzávěrce za rok 2019 Společenství vlastníků jednotek
+Sedláčkova čp. 2902 - <b>schváleno</b>
+</li>
+</ul><br/>
+Kompletní zápis s výsledky hlasování naleznete <%= linkDownfile(DownFile.PerRollam_052020_zapis, "zde") %>.<br/>
+<br/>
+</p>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
 <h3 style="color: red" id="vyzva_k_hlasovani_per_rollam">Výzva k hlasování per rollam</h3>
 <p>Vážení členové,<br/>
 dovolte nám Vás pozvat k hlasování našeho <b>Společenství vlastníků
