@@ -6,6 +6,15 @@
 	String type = (String) request.getAttribute("type");
 	if ("c".equals(type)) {
 %>
+<script>
+	function openProdomia () {
+		var newwindow = window.open('https://prodomia.cz/kontakty');
+
+		$(newwindow).on('load', function(){
+			jQuery("#brno").click();
+		});
+	}
+</script>
 <h3>Kontakty</h3>
 <p>Seznam rychlých telefoních kontaktu v případě havarijní poruchy</p><br/>
 <table class="oam_table">
@@ -37,7 +46,7 @@
 </tr>
 <tr>
     <td>Topení nebo Voda</td>
-    <td>Ager - p.Kejř Oldřich</td>
+    <td><a href="https://prodomia.cz/kontakty" target="contractor">Prodomia</a> - p.Kejř Oldřich</td>
 	<td>Ne</td>
     <td>+420 533 338 654, +420 728 056 913</td>
 </tr>
@@ -76,6 +85,36 @@
 <p>Pokud daný kontakt použijete dejte pak prosím vědět svému zástupci, abychom měli zpětnou vazbu.<br/>
 Na základě těchto zkušeností pak vedeme s dodavateli příslušná jednání.</p>
 
+<br/>
+<br/>
+<h3>Správcovská firma <a href="javascript:openProdomia()">PRODOMIA</a></h3>
+<table class="oam_table">
+<thead>
+    <tr>
+        <th>Funkce</th>
+        <th>Jméno</th>
+		<th>Email</th>
+        <th>Tel. kontakt</th>
+    </tr>
+</thead>
+<tr>
+    <td>Hlavní účetní</td>
+    <td>Monika Svojanovská</td>
+	<td><a href="mailto:monika.svojanovska@prodomia.cz">monika.svojanovska@prodomia.cz</a></td>
+    <td>+420 773 776 869</td>
+</tr>
+<tr>
+    <td>Technik</td>
+    <td>Oldřich Kejř</td>
+	<td><a href="mailto:oldrich.kejr@prodomia.cz">oldrich.kejr@prodomia.cz</a></td>
+    <td>+420 728 056 913</td>
+</tr>
+<tr>
+    <td>Ředitelka provozovny</td>
+    <td>Ing. Zuzana Kelblová</td>
+	<td><a href="mailto:zuzana.kelblova@prodomia.cz">zuzana.kelblova@prodomia.cz</a></td>
+    <td>+420 724 633 602</td>
+</tr>
 
 <%  }
 	if ("l".equals(type)) { %>
@@ -84,6 +123,7 @@ Na základě těchto zkušeností pak vedeme s dodavateli příslušná jednán�
 <p>Zde je seznam smluvních dodavatelů, kteří nám poskytuji svoje služby a servis. 
 </p>
 <br/>
+
 <table class="oam_table">
 <thead>
 	<tr>
@@ -119,7 +159,7 @@ Na základě těchto zkušeností pak vedeme s dodavateli příslušná jednán�
 	</tr>
 	<tr>
 		<td>Správce</td>
-		<td><a href="http://www.berga.cz" target="contractor">BERGA S.N. s.r.o.</a></td>
+		<td><a href="http://www.prodomia.cz" target="contractor" onclick="openProdomia()">PRODOMIA</a></td>
 		<td></td>
 	</tr>
 	<tr>

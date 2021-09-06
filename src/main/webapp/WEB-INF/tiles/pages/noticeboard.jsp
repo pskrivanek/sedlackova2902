@@ -22,7 +22,7 @@ String archive = (String) request.getAttribute("a");
 if (!StringUtils.isEmpty(archive)) {
 %>
 <div class="archive">
- Archív zpráv z roku <%= linkArchive("2019", archive) %>, <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
+ Archív zpráv z roku <%= linkArchive("2020", archive) %>, <%= linkArchive("2019", archive) %>, <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>.
 </div>
 <br/>
 <hr/>
@@ -31,6 +31,58 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
+<h3>Shromáždění SVJ ve středu 6.10.2021</h3>
+<p>ve <b>středu 6.10.2021</b> se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích.</p>
+<br/>
+Bližší informace budou aktualizovány <a href="documents.html?t=u">zde</a>.<br/>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+<br/>
+
+<h3 id="vymena_mericu_tepla_odecet_vody_2021">Výměna měřičů tepla a odečty spotřeby vody</h3>
+<p>v následujích lednových dnech budou probíhat odečty bytových měřičů a zároveň i výměna měřičů tepla. Nový měřič tepla 'Maddalena microCLIMA EVO' bude bude obsahovat RF modul, který umožní v budoucnu dálkový odečet z chodby.<br/><br/>
+Zde jsou termíny odečtu a výměny po vchodech. V souborech pak harmonogramy výměny po patrech: </p>
+<ul>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_12, "Sedláčkova 12") %>: &nbsp; <i>Dne 25.1.2021 od &nbsp; 7:30 do 11:30 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_14, "Sedláčkova 14") %>: &nbsp; <i>Dne 25.1.2021 od 12:00 do 15:00 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_16, "Sedláčkova 16") %>: &nbsp; <i>Dne 27.1.2021 od &nbsp; 7:30 do 10:10 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_18, "Sedláčkova 18") %>: &nbsp; <i>Dne 27.1.2021 od 10:30 do 13:10 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_20, "Sedláčkova 20") %>: &nbsp; <i>Dne 27.1.2021 od 13:40 do 15:30 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_22, "Sedláčkova 22") %>: &nbsp; <i>Dne 25.1.2021 od 15:00 do 17:00 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_24, "Sedláčkova 24") %>: &nbsp; <i>Dne 26.1.2021 od 15:00 do 17:00 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_26, "Sedláčkova 26") %>: &nbsp; <i>Dne 28.1.2021 od 13:40 do 15:30 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_28, "Sedláčkova 28") %>: &nbsp; <i>Dne 28.1.2021 od 10:30 do 13:10 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_30, "Sedláčkova 30") %>: &nbsp; <i>Dne 28.1.2021 od &nbsp; 7:30 do 10:10 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_32, "Sedláčkova 32") %>: &nbsp; <i>Dne 26.1.2021 od 12:00 do 15:00 hod</i></li>
+    <li><%= linkDownfile(DownFile.VymenaMericuTepla_2021_34, "Sedláčkova 34") %>: &nbsp; <i>Dne 26.1.2021 od &nbsp; 7:30 do 11:30 hod</i></li>
+</ul>
+<br/>
+Kontakty pro spojení s technikem:
+<div style="margin-left:30px;">
+pan Michal Čečelský<br/>
+Mobil:      +420 725 407 475<br/>
+Telefon:  +420 543 211 435<br/>
+Email: <a href="mailto:technik@thera.cz">technik@thera.cz</a><br/>
+</div><br/>
+
+Bytové jednotky které nebudou zpřístupněny budou realizovány v náhradním termínu o kterém Vás budeme informovat.<br/>
+ 
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+
+<div class="archive">
+ Archív zpráv z roku <%= linkArchive("2020", archive) %>, <%= linkArchive("2019", archive) %>, <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
+</div>
+
+<%
+}
+if ("2020".equals(archive)) {
+%>
+
 <h3 id="vysledek_hlasovani_per_rollam">Výsledek hlasování per rollam</h3>
 <p>Vážení členové,<br/>
 zde je stručný zápis z hlasování Společenství vlastníků jednotek Sedláčkova čp. 2902 konaného per rollam ode dne 31. května 2020 10:00 hodin do 20. června 2020 20:00 hodin.<br/>
@@ -114,9 +166,6 @@ Pokud někdo naopak najdete čip, kterým jde otevřít vchodové dveře, tak ho
 <br/>
 <br/>
 
-<div class="archive">
- Archív zpráv z roku <%= linkArchive("2019", archive) %>, <%= linkArchive("2018", archive) %>, <%= linkArchive("2017", archive) %>, <%= linkArchive("2016", archive) %>, <%= linkArchive("2015", archive) %>, <%= linkArchive("2014", archive) %>, <%= linkArchive("2013", archive) %>, <%= linkArchive("2012", archive) %>, <%= linkArchive("2011", archive) %>, <%= linkArchive("2010", archive) %>
-</div>
 <%
 }
 if ("2019".equals(archive)) {

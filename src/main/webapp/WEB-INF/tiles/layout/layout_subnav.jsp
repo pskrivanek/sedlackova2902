@@ -17,12 +17,11 @@
     <meta name="google-site-verification" content="n8fd-2OSNi4SYGTodZO09_yILIYiVpa-jFPHOqlz00I" />
 	<title><spring:message code="page.title"/> - <tiles:insertAttribute name="title" ignore="true" /></title>
 	<link rel="stylesheet" href="<%= kontext + "/css/svj_001.css"%>" type="text/css" />
-	<!-- kalendar stylesheet -->
-	<link rel="stylesheet" href="<%=kontext + "/include/calendar/calendar.css"%>" type="text/css" media="all" />
 	<link rel="shortcut icon" href="<%=kontext + "/img/icons/favicon.ico" %>" type="image/vnd.microsoft.icon"> 
 	<link rel="icon" href="<%=kontext + "/img/icons/favicon.ico" %>" type="image/vnd.microsoft.icon">
 </head>
 <body>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script type="text/javascript">
 
 	  var _gaq = _gaq || [];

@@ -19,12 +19,22 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Shromáždění SVJ ve středu 6.10.2021</h4>
+<p>ve středu 6.10.2021 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=u">více zde</a></p>
+<br/><br/>
+
+<h4>Výměna měřičů tepla a odečty spotřeby vody</h4>
+<p>v následujích lednových dnech budou probíhat odečty bytových měřičů a zároveň i výměna měřičů tepla ... <a href="noticeboard.html#vymena_mericu_tepla_odecet_vody_2021">více zde</a></p>
+<br/><br/>
+
+
+<%--
+
 <h4>Výsledek hlasování per rollam</h4>
 <p>Vážení členové,<br/>
 zde je stručný zápis z hlasování Společenství vlastníků jednotek Sedláčkova čp. 2902 konaného per rollam ode dne 31. května 2020 ... <a href="noticeboard.html#vysledek_hlasovani_per_rollam">více zde</a></p>
 <br/><br/>
 
-<%--
 <h4 style="color: red">Výzva k hlasování per rollam</h4>
 <p>dovolte nám Vás pozvat k hlasování našeho SVJ, které se bude konat per rollam: <b>31. května 2020</b> ... <a href="noticeboard.html#vyzva_k_hlasovani_per_rollam">více zde</a></p>
 <br/><br/>

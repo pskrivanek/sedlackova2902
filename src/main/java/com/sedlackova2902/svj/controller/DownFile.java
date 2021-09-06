@@ -1,6 +1,22 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	Schuze2021_zapis(700, "schuze2021/Zapis_shromazdeni_SVJ.pdf", "139 kB"),
+
+
+	VymenaMericuTepla_2021_12(681, "vymena_mericu_2021/Rozpis_Sedlackova_12_25.1.2021.pdf", "123 kB"),
+	VymenaMericuTepla_2021_14(680, "vymena_mericu_2021/Rozpis_Sedlackova_14_25.1.2021.pdf", "123 kB"),
+	VymenaMericuTepla_2021_16(679, "vymena_mericu_2021/Rozpis_Sedlackova_16_27.1.2021.pdf", "122 kB"),
+	VymenaMericuTepla_2021_18(678, "vymena_mericu_2021/Rozpis_Sedlackova_18_27.1.2021.pdf", "121 kB"),
+	VymenaMericuTepla_2021_20(677, "vymena_mericu_2021/Rozpis_Sedlackova_20_27.1.2021.pdf", "121 kB"),
+	VymenaMericuTepla_2021_22(676, "vymena_mericu_2021/Rozpis_Sedlackova_22_25.1.2021.pdf", "121 kB"),
+	VymenaMericuTepla_2021_24(675, "vymena_mericu_2021/Rozpis_Sedlackova_24_26.1.2021.pdf", "122 kB"),
+	VymenaMericuTepla_2021_26(674, "vymena_mericu_2021/Rozpis_Sedlackova_26_28.1.2021.pdf", "121 kB"),
+	VymenaMericuTepla_2021_28(673, "vymena_mericu_2021/Rozpis_Sedlackova_28_28.1.2021.pdf", "121 kB"),
+	VymenaMericuTepla_2021_30(672, "vymena_mericu_2021/Rozpis_Sedlackova_30_28.1.2021.pdf", "122 kB"),
+	VymenaMericuTepla_2021_32(671, "vymena_mericu_2021/Rozpis_Sedlackova_32_26.1.2021.pdf", "122 kB"),
+	VymenaMericuTepla_2021_34(670, "vymena_mericu_2021/Rozpis_Sedlackova_34_26.1.2021.pdf", "123 kB"),
+
 	PerRollam_052020_zapis(655, "perrollam_052020/Zapis_schuze_shromazdeni_SVJ_Sedlackova.pdf", "192 kB"),
 	PerRollam_052020_zaverka2019(654, "perrollam_052020/Inventura_zavazku_a_pohledavek_31.12.2019_Sedlackova.pdf", "1.8 MB"),
 	PerRollam_052020_zp_dodatek(653, "perrollam_052020/ZP_nebyty-dodatek-ke-dni-29.4.2020.pdf", "283 kB"),

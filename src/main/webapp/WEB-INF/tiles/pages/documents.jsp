@@ -270,7 +270,7 @@ Bohužel náš systém generuje přeplatek, jako výsledek vyúčtování s mín
       <li>neaktivovaný el. vrátný - je potřeba podle <a href="documents.html?f=101" target="contracts">návodu</a> v kapitole <i>3.4.Programování kódu pro otevírání elektrického zámku</i> nastavit nějaký libovolný kód. Po jeho zadání bude otvírání přes tlačítko zámku funkční.</li>
       </ul><br/>
 	  Pokud i přes tyto tipy máte problém s domacím telefonem nebo el.vrátným, tak se rovnou domluvte s našim panem elektrikářem: pan Bevilaqua, tel: <b>+420 604 163 186</b>.<br/>
-	  V případě, že problém bude ve společných prostorech, opravu hradí SVJ. V opačeném případě <b>všechny náklady, tzn dopravu, práci, materiál, atd. hradíte Vy</b>.
+	  V případě, že problém bude ve společných prostorách, opravu hradí SVJ. V opačném případě <b>všechny náklady, tzn dopravu, práci, materiál, atd. hradíte Vy</b>.
       <br/><br/><br/>
       <a id="Reklamace_a_odpovednost_za_vady" name="Reklamace_a_odpovednost_za_vady"></a>
       <h1>Reklamace a odpovědnost za vady</h1>
@@ -1628,6 +1628,107 @@ Kdy je potřeba plná moc:
     </ul>
 </li>
 </ul>
+<br/><br/><br/>
+
+<%
+    }
+    if ("u".equals(type)) {
+%>
+<h3>Shromáždění SVJ ve středu 6.10.2021</h3>
+<p><i>Zde jsou podrobnosti k chystané schůzi SVJ která se bude konat ve středu 6.10.2021 v Dělníckém domě v Židenicích<br/>
+</i></p>
+<br/>
+    <ul>
+        <li><a href="#Misto_konani">Místo konání</a></li>
+  <!--      <li><%= linkDownfile(DownFile.Schuze2019_pozvanka_plna_moc, "Pozvánka s plnou mocí") %></li> 
+        <li><a href="#Program">Klíčové body programu</a></li>
+        <li><a href="#Plna_moc">Informace k plné moci</a></li>
+        <br/>
+        <li><%= linkDownfile(DownFile.Schuze2021_zapis, "Zápis ze shromáždění") %></li>
+		-->
+    </ul>
+<br/>
+<hr/>
+<br/>
+
+<table>
+<tr>
+<td style="padding:0px">
+<a id="Misto_konani" name="Misto_konani"></a>
+<h4>Místo konání:</h4>
+Dělnický dům na ulici Jamborova č. 65, Brno-Líšeň <b>ve středu 6.10.2021 </b><br/><br/>
+<!--
+<p>Prezence bude probíhat <b>od 15.00 hod.</b> Vzhledem k velkému počtu členů SVJ žádáme <b>všechny</b> aby se dostavili k prezenci včas.<br/> V rámci prezence budou členové SVJ <b>aktualizovat</b> do připravených archů ůdaje, potřebné pro správu domu (kontakty a další informace potřebné pro rozůčtování služeb).</p>
+<br/><br/><br/>
+
+<a id="Program" name="Program"></a>
+<h4>Klíčové body programu:</h4>
+<ul>
+<li>Zpráva kontrolní komise</li>
+<li>Výrocní zpráva výboru a správce o správe domu a pozemku a o dalších cinnostech SVJ, aktuální informace o probíhajících akcích</li>
+<li>Projednání hospodaření, hlasování o schválení
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.UcetniZaverka_2018, "účetní závěrky SVJ za rok 2018") %> a 
+<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2019_rozpocet2020, "rozpočtu na rok 2020") %><br/</li>
+<li>Prezentace a hlasování o navrhovaných opravách a investicích:
+	<ul>
+		<li>Klimatizační jednotky do elektrorozvoden</li>
+		<li>Oprava ploch zeleně ve srážkových stínech bloky „B“ a „C“</li>
+	</ul>
+</li>
+<li>Doplňující volba členů Výboru SVJ.</li>
+<li>Diskuze</li>
+</ul>
+
+<br/>
+Kompletní program schůze je v pozvánce, kterou si můžete stáhnout <%= linkDownfile(DownFile.Schuze2019_pozvanka_plna_moc, "zde") %>.<br/>
+<br/>
+<br/>
+-->
+</td>
+<td>
+<iframe width="430" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.cz/maps?q=jamborova+%C4%8D.+65,+Brno-L%C3%AD%C5%A1e%C5%88&amp;hl=cs&amp;ie=UTF8&amp;sll=49.196459,16.645029&amp;sspn=0.06035,0.156212&amp;vpsrc=6&amp;brcurrent=5,0,0&amp;hnear=Jamborova+3323%2F65,+615+00+%C5%BDidenice&amp;t=m&amp;hq=&amp;source=embed&amp;ll=49.198616,16.652699&amp;spn=0.012619,0.018067&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe><br />
+<small><a href="http://maps.google.cz/maps?q=jamborova+%C4%8D.+65,+Brno-L%C3%AD%C5%A1e%C5%88&amp;hl=cs&amp;ie=UTF8&amp;sll=49.196459,16.645029&amp;sspn=0.06035,0.156212&amp;vpsrc=6&amp;brcurrent=5,0,0&amp;hnear=Jamborova+3323%2F65,+615+00+%C5%BDidenice&amp;t=m&amp;hq=&amp;source=embed&amp;ll=49.198616,16.652699&amp;spn=0.012619,0.018067&amp;z=15&amp;iwloc=A"  target="maps" style="color:#0000FF;text-align:left">Zvětšit mapu</a></small>
+</td>
+</tr>
+</table>
+<!--
+<a id="Plna_moc" name="Plna_moc"></a>
+<h4>Plná moc:</h4>
+<p>Aby schůze byla usnášenischopná je nutná účast nadpoloviční většiny vlastníků. V opačném připadě nemůžeme nic odhlasovat.<br/>
+Proto pokud se nemůžete schůze zůčastnit můžete použít plnou moc a pověřit někoho jiného aby Vás zastupoval, třeba souseda nebo zástupce Vašeho vchodu.<br/><br/>
+Máme dva druhy plných mocí:
+<ul>
+	<li>plná moc pro byt s jedním majitelem/zmocnitelem <img src="img/icons/doc.gif"/> <%= linkDownfile(DownFile.Schuze2019_plnaMocDoc, "doc") %>, 
+		<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2019_plnaMoc, "pdf") %></li>
+	<li>zmocnění pro byt ve společném jmění manželů nebo spoluvlastnictví <img src="img/icons/doc.gif"/> <%= linkDownfile(DownFile.Schuze2019_zmocneniSJMDoc, "doc") %>, 
+		<img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2019_zmocneniSJM, "pdf") %>.<br/>Formulář je určen pro jednoho až tři spoluvlastníky nebo dva manželé. Tato plná moc je stejná jako loni a předloni, proto jsme ji do schránek nedistribuovali.</li>
+</ul>
+.<p>
+Kdy je potřeba plná moc:
+<ul>
+<li>byt má jednoho majitele</li>
+    <ul><li>na schůzi se nemůže dostavit - potřebujete plnou moc, <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2015_Ukazka_SJM_Plna_Moc, "ukázka majitelky Dvořákové, která udějuje plnou moc panu Slavíkovi") %></li></ul>
+</li>
+<br/>
+<li>byt je ve společném jmění manželů - je vždy nutné zmocnění společného zástupce
+    <ul>
+        <li>na schůzi příjdou oba manželé, hlasovat může ale jen jeden, tzn jeden dá zmocnění druhému, viz <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2015_Ukazka_SJM_Zmocneni, "ukázka manželů Dvořákových, kdy hlasovat bude paní Dvořáková") %></li>
+        <li>na schůzi příjde jeden z manželů ale potřebuje zmocnění druhého, viz <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2015_Ukazka_SJM_Zmocneni, "ukázka manželů Dvořákových, kdy na schůzi jde pouze paní Dvořáková") %></li></li>
+        <li>na schůzi se nemůže dostavit ani jeden. V takovém případě je potřeba jak zmocnění tak i plné moci. <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2015_Ukazka_SJM_Zmocneni, "ukázka jak pan Dvořák udělí zmocnění své manželce") %> a 
+        <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2015_Ukazka_SJM_Plna_Moc, "ukázka jak paní Dvořáková udělí plnou moc panu Slavíkovi") %></li>
+    </ul>
+</li>
+<br/>
+<li>byt je ve spoluvlastnictví - je vždy nutné zmocnění společného zástupce
+    <ul>
+        <li>na schůzi příjdou všichni spoluvlastníci, hlasovat může ale jen jeden, viz <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2015_Ukazka_SJM_Zmocneni, "ukázka spoluvlastníků Zralý, Jonáš a Moudrá, kdy hlasovat bude pan Jonáš") %></li>
+        <li>na schůzi jde pouze jeden spolumajitel - nutná zmocnění zbývajících spoluvlastníků, viz <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2015_Ukazka_Spoluvlastnici_Zmocneni, "ukázka spoluvlastníků Zralý, Jonáš a Moudrá, kteří dají zmocnění panu Jonášovi") %></li>
+        <li>na schůzi se nemůže dostavit ani jeden. Je nutné zmocnění i plné moci, viz <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2015_Ukazka_Spoluvlastnici_Zmocneni, "ukázka zmocnění spoluvlastníku") %> a 
+        <img src="img/icons/pdf.gif"/> <%= linkDownfile(DownFile.Schuze2015_Ukazka_Spoluvlastnici_Plna_Moc, "ukázka udělení plné moci panu Moulíkovi") %>.</li>
+    </ul>
+</li>
+</ul>
+-->
 <br/><br/><br/>
 <%
     }
