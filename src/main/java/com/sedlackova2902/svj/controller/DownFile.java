@@ -1,8 +1,13 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
-	Schuze2021_zapis(700, "schuze2021/Zapis_shromazdeni_SVJ.pdf", "139 kB"),
+	Schuze2021_zapis(710, "schuze2021/Zapis_shromazdeni_SVJ.pdf", "139 kB"),
 
+	Schuze2021_zmocneniSJM(704, "schuze2021/Plna_moc_zmocneni_spolecneho_zastupce.pdf", "291 kB"),
+	Schuze2021_zmocneniSJMDoc(703, "schuze2021/Plna_moc_zmocneni_spolecneho_zastupce.docx", "13.5 kB"),
+	Schuze2021_plnaMoc(702, "schuze2021/Plna_moc.pdf", "157 kB"),
+	Schuze2021_plnaMocDoc(701, "schuze2021/Plna_moc.doc", "35.3 kB"),
+	Schuze2021_pozvanka_plna_moc(700, "schuze2021/SVJ_pozvanka_program_schuze_06_10_2021_REV01.pdf", "572.6 kB"),
 
 	VymenaMericuTepla_2021_12(681, "vymena_mericu_2021/Rozpis_Sedlackova_12_25.1.2021.pdf", "123 kB"),
 	VymenaMericuTepla_2021_14(680, "vymena_mericu_2021/Rozpis_Sedlackova_14_25.1.2021.pdf", "123 kB"),

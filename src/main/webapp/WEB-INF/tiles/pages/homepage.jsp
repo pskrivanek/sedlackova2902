@@ -20,7 +20,7 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/>
 
 <h4>Shromáždění SVJ ve středu 6.10.2021</h4>
-<p>ve středu 6.10.2021 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=u">více zde</a></p>
+<p>ve středu 6.10.2021 v 16:30 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=u">více zde</a></p>
 <br/><br/>
 
 <h4>Výměna měřičů tepla a odečty spotřeby vody</h4>
