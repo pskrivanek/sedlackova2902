@@ -31,7 +31,19 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
-<h3>Shromáždění SVJ ve středu 6.10.2021</h3>
+<h3>Plánovaná odstávka horkovodu DN 450 Líšeň - 5.10.2021</h3>
+<p>dovolujeme si Vás informovat o plánované odstávce tepla ve Vašem domě. V souladu s § 76 čl. 4 dle zákona 458/2000 bude <b>dne 05.10.2021 9:00 hod. do 14.00 hod. přerušena dodávka tepla (teplé vody, topení)</b> z důvodu plánované opravy horkovodu na ulici Trnkova.
+Více informací o odstávce:</br>
+<div style="margin-left:30px;"><a href="https://www.teplarny.cz/odstavky" target="_contractor">https://www.teplarny.cz/odstavky</a></div></p><br/>
+<p>Omlouváme se Vám za omezení a případné nepříjemnosti způsobené odstávkou. Děláme maximum pro to, aby doba prací byla zkrácena.</p>
+<br/>
+<i>Teplárny Brno, a.s.</i></br>
+<i>provoz SCZT</i></br>
+<br/>
+<br/>
+<br/>
+
+<h3 id="shromazdeni_2021">Shromáždění SVJ ve středu 6.10.2021</h3>
 <p>ve <b>středu 6.10.2021</b> se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích.</p>
 <br/>
 Bližší informace budou aktualizovány <a href="documents.html?t=u">zde</a>.<br/>
