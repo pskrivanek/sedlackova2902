@@ -31,7 +31,31 @@ if (!StringUtils.isEmpty(archive)) {
 }
 if (StringUtils.isEmpty(archive)) {
 %>
-<h3>Plánovaná odstávka horkovodu DN 450 Líšeň - 5.10.2021</h3>
+<h3 id="vymena_kk_2021">Výměny kulových ventilů v šachtách BJ</h3>
+<p>Vzhledem k tomu, že některé bytové jednotky mají nepoužitelné uzávěry teplé a studené vody bude provedena jejich výměna. Jedná se o kulové ventily, které jsou umístěny v bytových "stupačkách".<br/> Realizační práce bude provádět firma THERA Energo a budou probíhat dle harmonogramu po vchodech, v příloženych dokumentech jsou pak časy po patrech:
+<ul>
+<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_12, "Sedláčkova 12") %>: &nbsp; Dne &nbsp;&nbsp; 2.11.2021 &nbsp; od 7:00 do 17:00 hod</li>
+<li>Sedláčkova 14: &nbsp; &nbsp; <i>již realizováno</i></li>
+<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_16, "Sedláčkova 16") %>: &nbsp; Dne &nbsp;&nbsp; 5.10.2021 &nbsp; od 7:00 do 17:40 hod</li>
+<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_18, "Sedláčkova 18") %>: &nbsp; Dne &nbsp;&nbsp; 7.10.2021 &nbsp; od 7:00 do 17:20 hod</li>
+<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_20, "Sedláčkova 20") %>: &nbsp; Dne &nbsp;12.10.2021 &nbsp; od 7:00 do 17:00 hod</li>
+<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_22, "Sedláčkova 22") %>: &nbsp; Dne &nbsp;14.10.2021 &nbsp; od 7:00 do 17:00 hod</li>
+<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_24, "Sedláčkova 24") %>: &nbsp; Dne &nbsp;19.10.2021 &nbsp; od 7:00 do 17:00 hod</li>
+<li>Sedláčkova 26: &nbsp; &nbsp; <i>již realizováno</i></li>
+<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_28, "Sedláčkova 28") %>: &nbsp; Dne &nbsp;21.10.2021 &nbsp; od 7:00 do 17:20 hod</li>
+<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_30, "Sedláčkova 30") %>: &nbsp; Dne &nbsp;26.10.2021 &nbsp; od 7:00 do 17:40 hod</li>
+<li>Sedláčkova 32: &nbsp; &nbsp; <i>již realizováno</i></li>
+<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_34, "Sedláčkova 34") %>: &nbsp; Dne &nbsp;28.10.2021 &nbsp; od 7:00 do 17:00 hod</li>
+</ul><br/>
+V daný den dojde k zastavení dodávky vody a tepla v celém vchodu. <b>Je nutné aby v uvedený den a čas byl prostor k ventilům v bytě zpřístupněn!</b><br/><br/>
+<i>Pracovníci firmy THERA Energo, spol. s r.o. pracují v režimu hygienického kodexu firmy, jsou vybaveni ochrannými prostředky a jsou pravidelně testování.</i><br/>
+<br/>
+<i>Výbor SVJ</i><br/>
+<br/>
+<br/>
+<br/>
+
+<h3 id="odstavka_horkovodu_2021">Plánovaná odstávka horkovodu DN 450 Líšeň - 5.10.2021</h3>
 <p>dovolujeme si Vás informovat o plánované odstávce tepla ve Vašem domě. V souladu s § 76 čl. 4 dle zákona 458/2000 bude <b>dne 05.10.2021 9:00 hod. do 14.00 hod. přerušena dodávka tepla (teplé vody, topení)</b> z důvodu plánované opravy horkovodu na ulici Trnkova.
 Více informací o odstávce:</br>
 <div style="margin-left:30px;"><a href="https://www.teplarny.cz/odstavky" target="_contractor">https://www.teplarny.cz/odstavky</a></div></p><br/>

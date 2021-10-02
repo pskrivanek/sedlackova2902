@@ -1,6 +1,16 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
+	VymenaKulovychVentilu_2021_34(718, "2021_hgm_kulove_ventily/Harmonogram_KK_S34.pdf", "256 kB"),
+	VymenaKulovychVentilu_2021_30(717, "2021_hgm_kulove_ventily/Harmonogram_KK_S30.pdf", "255.4 kB"),
+	VymenaKulovychVentilu_2021_28(716, "2021_hgm_kulove_ventily/Harmonogram_KK_S28.pdf", "255.5 kB"),
+	VymenaKulovychVentilu_2021_24(715, "2021_hgm_kulove_ventily/Harmonogram_KK_S24.pdf", "255.4 kB"),
+	VymenaKulovychVentilu_2021_22(714, "2021_hgm_kulove_ventily/Harmonogram_KK_S22.pdf", "255.4 kB"),
+	VymenaKulovychVentilu_2021_20(713, "2021_hgm_kulove_ventily/Harmonogram_KK_S20.pdf", "255.4 kB"),
+	VymenaKulovychVentilu_2021_18(712, "2021_hgm_kulove_ventily/Harmonogram_KK_S18.pdf", "255.3 kB"),
+	VymenaKulovychVentilu_2021_16(711, "2021_hgm_kulove_ventily/Harmonogram_KK_S16.pdf", "255.4 kB"),
+	VymenaKulovychVentilu_2021_12(710, "2021_hgm_kulove_ventily/Harmonogram_KK_S12.pdf", "255.9 kB"),
+
 	Schuze2021_zapis(710, "schuze2021/Zapis_shromazdeni_SVJ.pdf", "139 kB"),
 
 	Schuze2021_zmocneniSJM(704, "schuze2021/Plna_moc_zmocneni_spolecneho_zastupce.pdf", "291 kB"),

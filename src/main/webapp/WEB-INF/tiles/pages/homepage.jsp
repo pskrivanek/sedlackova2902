@@ -19,6 +19,10 @@ které nás budou v souvislosti s naším domem zajímat.
 <br/><br/><br/>
 <br/>
 
+<h4>Výměny kulových ventilů v šachtách BJ</h4>
+<p>Vzhledem k tomu, že některé bytové jednotky mají nepoužitelné uzávěry teplé a studené vody bude provedena jejich výměna ... <a href="noticeboard.html#vymena_kk_2021">více zde</a></p>
+<br/><br/>
+
 <h4>Plánovaná odstávka horkovodu DN 450 Líšeň - 5.10.2021</h4>
 <p>v úterý 5.10.2021 od 9:00 hod. do 14:00 hod. bude odstaven horkovod DN 450 Líšeň v úseku L 164 – AŠ 04 (ul. Vlkova – ZETOR), ... <a href="noticeboard.html#odstavka_horkovodu_2021">více zde</a></p>
 <br/><br/>
@@ -27,12 +31,11 @@ které nás budou v souvislosti s naším domem zajímat.
 <p>ve středu 6.10.2021 v 16:30 se bude konat shromáždění vlastníků jednotek našeho domu Sedláčkova 2902 v Dělnickém domě v Židenicích ... <a href="documents.html?t=u">více zde</a></p>
 <br/><br/>
 
+<%--
 <h4>Výměna měřičů tepla a odečty spotřeby vody</h4>
 <p>v následujích lednových dnech budou probíhat odečty bytových měřičů a zároveň i výměna měřičů tepla ... <a href="noticeboard.html#vymena_mericu_tepla_odecet_vody_2021">více zde</a></p>
 <br/><br/>
 
-
-<%--
 
 <h4>Výsledek hlasování per rollam</h4>
 <p>Vážení členové,<br/>
