@@ -1336,31 +1336,34 @@ div#footer {
 	
 	
 table.oam_table {
-background:none repeat scroll 0 0 transparent;
-border-color:-moz-use-text-color #949999 #949999;
-border-right:1px solid #949999;
-border-style:none solid solid;
-border-width:medium 1px 1px;
-clear:none;
-width:auto;
+	background:none repeat scroll 0 0 transparent;
+	border-color:-moz-use-text-color #949999 #949999;
+	border-right:1px solid #949999;
+	border-style:none solid solid;
+	border-width:medium 1px 1px;
+	clear:none;
+	width:auto;
 }
 table.oam_table thead {
-background:url("../img/tableheader_top.png") repeat-x scroll 0 0 #E1E4E4;
-border-bottom:1px solid #949999;
+	background:url("../img/tableheader_top.png") repeat-x scroll 0 0 #E1E4E4;
+	border-bottom:1px solid #949999;
 }
 table.oam_table thead tr th {
-background-color:transparent;
-color:black;
+	background-color:transparent;
+	color:black;
 }
 table.oam_table thead tr th a {
-color:#FFFFFF;
-display:block;
+	color:#FFFFFF;
+	display:block;
 }
 table.oam_table tbody {
-overflow:visible;
+	overflow:visible;
 }
 table.oam_table tbody td {
-padding:4px 10px 4px 10px; 
-text-align:left;
-white-space:nowrap;
-}	
+	padding:4px 10px 4px 10px; 
+	text-align:left;
+	white-space:nowrap;
+}
+
+
+	

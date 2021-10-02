@@ -32,21 +32,27 @@ if (!StringUtils.isEmpty(archive)) {
 if (StringUtils.isEmpty(archive)) {
 %>
 <h3 id="vymena_kk_2021">Výměny kulových ventilů v šachtách BJ</h3>
-<p>Vzhledem k tomu, že některé bytové jednotky mají nepoužitelné uzávěry teplé a studené vody bude provedena jejich výměna. Jedná se o kulové ventily, které jsou umístěny v bytových "stupačkách".<br/> Realizační práce bude provádět firma THERA Energo a budou probíhat dle harmonogramu po vchodech, v příloženych dokumentech jsou pak časy po patrech:
-<ul>
-<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_12, "Sedláčkova 12") %>: &nbsp; Dne &nbsp;&nbsp; 2.11.2021 &nbsp; od 7:00 do 17:00 hod</li>
-<li>Sedláčkova 14: &nbsp; &nbsp; <i>již realizováno</i></li>
-<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_16, "Sedláčkova 16") %>: &nbsp; Dne &nbsp;&nbsp; 5.10.2021 &nbsp; od 7:00 do 17:40 hod</li>
-<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_18, "Sedláčkova 18") %>: &nbsp; Dne &nbsp;&nbsp; 7.10.2021 &nbsp; od 7:00 do 17:20 hod</li>
-<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_20, "Sedláčkova 20") %>: &nbsp; Dne &nbsp;12.10.2021 &nbsp; od 7:00 do 17:00 hod</li>
-<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_22, "Sedláčkova 22") %>: &nbsp; Dne &nbsp;14.10.2021 &nbsp; od 7:00 do 17:00 hod</li>
-<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_24, "Sedláčkova 24") %>: &nbsp; Dne &nbsp;19.10.2021 &nbsp; od 7:00 do 17:00 hod</li>
-<li>Sedláčkova 26: &nbsp; &nbsp; <i>již realizováno</i></li>
-<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_28, "Sedláčkova 28") %>: &nbsp; Dne &nbsp;21.10.2021 &nbsp; od 7:00 do 17:20 hod</li>
-<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_30, "Sedláčkova 30") %>: &nbsp; Dne &nbsp;26.10.2021 &nbsp; od 7:00 do 17:40 hod</li>
-<li>Sedláčkova 32: &nbsp; &nbsp; <i>již realizováno</i></li>
-<li><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_34, "Sedláčkova 34") %>: &nbsp; Dne &nbsp;28.10.2021 &nbsp; od 7:00 do 17:00 hod</li>
-</ul><br/>
+<p>Vzhledem k tomu, že některé bytové jednotky mají nepoužitelné uzávěry teplé a studené vody bude provedena jejich výměna. Jedná se o kulové ventily, které jsou umístěny v bytových "stupačkách".<br/> Realizační práce bude provádět firma THERA Energo a budou probíhat dle harmonogramu po vchodech, v příloženych dokumentech jsou pak detailní časy po patrech:
+<table class="oam_table" style="margin-left:30px;">
+<thead>
+	<tr><th>Vchod</th><th>Datum</th><th>Čas</th><th>Patra</th></tr>
+</thead>
+<tr><td rowspan="2" style="vertical-align:middle"><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_12, "Sedláčkova 12") %></td><td>2.11.2021</td><td>7:00 - 17:00</td><td>1NP - 5NP</td></tr>
+<tr><td>3.11.2021</td><td>7:00 - 13:00</td><td>6NP - 9NP</td></tr>
+<tr><td>Sedláčkova 14</td><td colspan="3" style="text-align:center"><i>již realizováno</i></td></tr>
+<tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_16, "Sedláčkova 16") %></td><td>5.10.2021</td><td>7:00 - 17:40</td><td>1NP - 8NP</td></tr>
+<tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_18, "Sedláčkova 18") %></td><td>7.10.2021</td><td>7:00 - 17:20</td><td>1NP - 8NP</td></tr>
+<tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_20, "Sedláčkova 20") %></td><td>12.10.2021</td><td>7:00 - 14:20</td><td>1NP - 8NP</td></tr>
+<tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_22, "Sedláčkova 22") %></td><td>14.10.2021</td><td>7:00 - 14:20</td><td>1NP - 8NP</td></tr>
+<tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_24, "Sedláčkova 24") %></td><td>19.10.2021</td><td>7:00 - 14:20</td><td>1NP - 8NP</td></tr>
+<tr><td>Sedláčkova 26</td><td colspan="3" style="text-align:center"><i>již realizováno</i></td></tr>
+<tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_28, "Sedláčkova 28") %></td><td>21.10.2021</td><td>7:00 - 17:20</td><td>1NP - 8NP</td></tr>
+<tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_30, "Sedláčkova 30") %></td><td>26.10.2021</td><td>7:00 - 17:40</td><td>1NP - 8NP</td></tr>
+<tr><td>Sedláčkova 32</td><td colspan="3" style="text-align:center"><i>již realizováno</i></td></tr>
+<tr><td rowspan="2" style="vertical-align:middle"><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_34, "Sedláčkova 34") %></td><td>27.10.2021</td><td>7:00 - 17:00</td><td>1NP - 5NP</td></tr>
+<tr><td>28.10.2021</td><td>7:00 - 13:00</td><td>6NP - 9NP</td></tr>
+</table>
+<br/>
 V daný den dojde k zastavení dodávky vody a tepla v celém vchodu. <b>Je nutné aby v uvedený den a čas byl prostor k ventilům v bytě zpřístupněn!</b><br/><br/>
 <i>Pracovníci firmy THERA Energo, spol. s r.o. pracují v režimu hygienického kodexu firmy, jsou vybaveni ochrannými prostředky a jsou pravidelně testování.</i><br/>
 <br/>
