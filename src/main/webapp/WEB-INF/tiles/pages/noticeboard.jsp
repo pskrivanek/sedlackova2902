@@ -49,9 +49,7 @@ if (StringUtils.isEmpty(archive)) {
 <tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_28, "Sedláčkova 28") %></td><td>21.10.2021</td><td>7:00 - 17:20</td><td>1NP - 8NP</td></tr>
 <tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_30, "Sedláčkova 30") %></td><td>26.10.2021</td><td>7:00 - 17:40</td><td>1NP - 8NP</td></tr>
 <tr><td>Sedláčkova 32</td><td colspan="3" style="text-align:center"><i>již realizováno</i></td></tr>
-<tr><td rowspan="2" style="vertical-align:middle"><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_34, "Sedláčkova 34") %></td><td>27.10.2021</td><td>7:00 - 17:00</td><td>1NP - 5NP</td></tr>
-<tr><td>28.10.2021</td><td>7:00 - 13:00</td><td>6NP - 9NP</td></tr>
-</table>
+<tr><td><%= linkDownfile(DownFile.VymenaKulovychVentilu_2021_34, "Sedláčkova 34") %></td><td>9.11.2021</td><td>7:00 - 12:30</td><td>1NP - 9NP</td></tr></table>
 <br/>
 V daný den dojde k zastavení dodávky vody a tepla v celém vchodu. <b>Je nutné aby v uvedený den a čas byl prostor k ventilům v bytě zpřístupněn!</b><br/><br/>
 <i>Pracovníci firmy THERA Energo, spol. s r.o. pracují v režimu hygienického kodexu firmy, jsou vybaveni ochrannými prostředky a jsou pravidelně testování.</i><br/>

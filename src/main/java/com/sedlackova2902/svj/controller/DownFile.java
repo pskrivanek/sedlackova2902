@@ -1,7 +1,7 @@
 package com.sedlackova2902.svj.controller;
 
 public enum DownFile {
-	VymenaKulovychVentilu_2021_34(718, "2021_hgm_kulove_ventily/Harmonogram_KK_S34.pdf", "256 kB"),
+	VymenaKulovychVentilu_2021_34(718, "2021_hgm_kulove_ventily/Harmonogram_KK_S34.pdf", "431.5 kB"),
 	VymenaKulovychVentilu_2021_30(717, "2021_hgm_kulove_ventily/Harmonogram_KK_S30.pdf", "255.4 kB"),
 	VymenaKulovychVentilu_2021_28(716, "2021_hgm_kulove_ventily/Harmonogram_KK_S28.pdf", "255.5 kB"),
 	VymenaKulovychVentilu_2021_24(715, "2021_hgm_kulove_ventily/Harmonogram_KK_S24.pdf", "255.4 kB"),
