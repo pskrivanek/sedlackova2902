@@ -148,7 +148,7 @@
         <!-- 
         <spring.version>2.5</spring.version>
         -->
-        <spring.version>3.0.4.RELEASE</spring.version>
+        <spring.version>3.2.5.RELEASE</spring.version>
         <tiles.version>2.2.2</tiles.version>
     </properties>
 
